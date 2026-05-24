@@ -33,6 +33,9 @@ class RoutePredictor:
         self.history = pd.read_csv(data_path)
 
     def predict_daily(self, db: Session, driver_id: str, route_date: date, stops: list[str]):
+        if not crud.get_driver(db, driver_id):
+            # Auto-register unknown driver ids so prediction persistence doesn't fail on FK constraints.
+            crud.upsert_driver(db, driver_id, name=f"Driver {driver_id}", region="Unknown", efficiency=0.75)
         all_locs = crud.get_locations(db)
         loc_map = {x.stop_name.lower(): x for x in all_locs}
         locs = []

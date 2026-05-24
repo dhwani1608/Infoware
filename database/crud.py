@@ -8,6 +8,10 @@ def get_drivers(db: Session):
     return db.query(models.Driver).all()
 
 
+def get_driver(db: Session, driver_id: str):
+    return db.get(models.Driver, driver_id)
+
+
 def get_locations(db: Session):
     return db.query(models.Location).all()
 
