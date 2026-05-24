@@ -1,5 +1,5 @@
 # Architecture
-![Architecture Diagram](assets/infoware_arch.png)
+![Architecture Diagram](assests/infoware_arch.png)
 
 ## High-Level Design
 
