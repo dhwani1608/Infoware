@@ -1,0 +1,46 @@
+version: "3.9"
+
+services:
+  api:
+    build: .
+    container_name: route_prediction_api
+    ports:
+      - "8000:8000"
+    env_file:
+      - .env
+    environment:
+      DATABASE_URL: postgresql+psycopg://route_prediction:route_prediction@postgres:5432/route_prediction
+      CACHE_DIR: /app/.cache
+    volumes:
+      - ./:/app
+      - cache_data:/app/.cache
+    depends_on:
+      - postgres
+      - redis
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://127.0.0.1:8000/health', timeout=2)"]
+      interval: 20s
+      timeout: 5s
+      retries: 5
+
+  postgres:
+    image: postgres:16
+    container_name: route_prediction_postgres
+    environment:
+      POSTGRES_DB: route_prediction
+      POSTGRES_USER: route_prediction
+      POSTGRES_PASSWORD: route_prediction
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+
+  redis:
+    image: redis:7
+    container_name: route_prediction_redis
+    ports:
+      - "6379:6379"
+
+volumes:
+  pgdata:
+  cache_data:

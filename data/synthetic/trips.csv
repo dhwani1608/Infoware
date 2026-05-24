@@ -1,0 +1,1601 @@
+driver_id,date,stop_name,latitude,longitude,visit_time,visit_duration,traffic_level,weather,distance_from_previous,travel_time,fuel_estimate,region,day_of_week,week_number
+D8,2026-01-12,Store_46,23.128962,72.551703,08:15:00,30.78,medium,clear,10.0,27.0,0.99,North Ahmedabad,Monday,3
+D10,2026-01-24,Store_18,23.121057,72.797194,16:45:00,13.18,medium,cloudy,7.57,19.26,0.71,Gandhinagar,Saturday,4
+D6,2026-04-20,Store_4,23.042954,72.508151,14:00:00,9.21,medium,rain,4.34,13.8,0.36,Vadodara,Monday,17
+D12,2026-02-16,Store_33,23.136296,72.730069,12:30:00,21.05,low,cloudy,9.16,19.43,0.89,Gandhinagar,Monday,8
+D4,2026-01-16,Store_40,23.122594,72.509531,10:30:00,30.9,high,cloudy,9.05,37.53,1.05,Surat Hub,Friday,3
+D12,2026-02-02,Store_15,23.088537,72.657564,14:00:00,19.58,medium,cloudy,12.02,34.0,1.41,Surat Hub,Monday,6
+D8,2026-02-10,Store_38,23.045288,72.709497,10:30:00,14.65,high,clear,6.59,23.72,0.79,Gandhinagar,Tuesday,7
+D2,2026-05-05,Store_6,23.163204,72.726958,18:30:00,23.32,high,clear,13.99,47.95,1.44,North Ahmedabad,Tuesday,19
+D5,2026-02-22,Store_54,22.870496,72.503593,17:00:00,31.91,low,rain,2.75,6.21,0.31,Vadodara,Sunday,8
+D11,2026-01-22,Store_45,23.099419,72.660706,16:00:00,28.86,high,clear,4.74,15.45,0.56,Surat Hub,Thursday,4
+D6,2026-03-12,Store_27,22.789355,72.507466,08:00:00,9.7,medium,clear,11.2,27.37,1.07,South Ahmedabad,Thursday,11
+D12,2026-04-08,Store_46,23.128962,72.551703,09:30:00,22.18,high,cloudy,2.93,11.05,0.22,North Ahmedabad,Wednesday,15
+D7,2026-05-10,Store_5,23.019812,72.400791,10:15:00,24.07,medium,cloudy,14.12,39.93,1.64,Surat Hub,Sunday,19
+D6,2026-01-04,Store_36,22.81839,72.344743,16:30:00,37.1,low,clear,9.46,17.33,0.94,North Ahmedabad,Sunday,1
+D3,2026-05-11,Store_45,23.099419,72.660706,12:45:00,20.63,high,clear,13.56,48.83,1.49,Surat Hub,Monday,20
+D6,2026-02-02,Store_21,23.141421,72.680031,16:30:00,16.74,high,cloudy,6.28,22.49,0.64,North Ahmedabad,Monday,6
+D12,2026-05-02,Store_17,22.940541,72.408645,09:15:00,39.43,low,cloudy,16.22,34.4,1.19,South Ahmedabad,Saturday,18
+D6,2026-03-25,Store_22,22.916018,72.617832,18:00:00,24.61,medium,clear,11.76,28.74,0.99,South Ahmedabad,Wednesday,13
+D7,2026-01-22,Store_28,22.94724,72.443624,08:00:00,24.83,low,clear,6.17,11.89,0.64,Gandhinagar,Thursday,4
+D10,2026-02-25,Store_50,23.086464,72.390304,14:15:00,24.42,high,rain,9.83,39.43,0.81,Surat Hub,Wednesday,9
+D8,2026-03-21,Store_57,22.927436,72.282188,08:15:00,29.15,medium,clear,3.83,10.34,0.28,South Ahmedabad,Saturday,12
+D5,2026-05-10,Store_42,22.964411,72.495052,18:00:00,23.58,high,rain,6.52,26.15,0.67,South Ahmedabad,Sunday,19
+D8,2026-04-20,Store_45,23.099419,72.660706,14:00:00,23.58,medium,rain,1.2,4.21,0.12,Surat Hub,Monday,17
+D3,2026-02-07,Store_4,23.042954,72.508151,12:00:00,27.18,medium,clear,2.06,5.56,0.18,Vadodara,Saturday,6
+D6,2026-02-23,Store_11,22.992922,72.435214,10:30:00,29.06,high,rain,15.78,66.8,1.53,North Ahmedabad,Monday,9
+D12,2026-04-29,Store_30,22.883967,72.765056,17:30:00,30.94,medium,cloudy,5.57,15.76,0.45,Surat Hub,Wednesday,18
+D8,2026-04-08,Store_31,22.753241,72.504423,09:45:00,26.38,high,clear,16.15,58.13,1.89,North Ahmedabad,Wednesday,15
+D9,2026-01-20,Store_58,23.034041,72.465501,17:45:00,15.92,medium,cloudy,5.56,17.31,0.46,Gandhinagar,Tuesday,4
+D9,2026-03-24,Store_4,23.042954,72.508151,16:00:00,8.25,medium,cloudy,11.06,34.4,1.06,Vadodara,Tuesday,13
+D9,2026-04-17,Store_56,23.092008,72.618947,14:45:00,12.51,medium,rain,10.98,40.38,0.82,North Ahmedabad,Friday,16
+D6,2026-04-03,Store_44,22.947396,72.573899,17:15:00,23.41,high,clear,9.48,30.87,0.79,Vadodara,Friday,14
+D10,2026-02-20,Store_32,23.04854,72.688644,09:15:00,21.25,low,rain,4.05,9.15,0.43,South Ahmedabad,Friday,8
+D3,2026-03-19,Store_57,22.927436,72.282188,17:45:00,27.14,medium,clear,14.08,38.02,1.66,South Ahmedabad,Thursday,12
+D6,2026-01-17,Store_17,22.940541,72.408645,16:45:00,22.65,low,cloudy,6.58,13.26,0.61,South Ahmedabad,Saturday,3
+D9,2026-04-26,Store_26,23.068759,72.697658,12:15:00,23.66,medium,clear,10.7,30.27,0.81,North Ahmedabad,Sunday,17
+D5,2026-05-20,Store_3,22.710334,72.310964,10:45:00,26.56,high,clear,9.08,28.02,1.04,Gandhinagar,Wednesday,21
+D11,2026-01-05,Store_15,23.088537,72.657564,09:00:00,28.13,high,clear,6.85,22.3,0.49,Surat Hub,Monday,2
+D1,2026-01-01,Store_10,23.163052,72.561415,16:00:00,20.93,high,clear,1.2,4.0,0.13,Surat Hub,Thursday,1
+D12,2026-05-10,Store_8,23.097301,72.399542,17:45:00,30.12,high,clear,5.27,18.06,0.53,Gandhinagar,Sunday,19
+D2,2026-04-30,Store_27,22.789355,72.507466,17:00:00,32.32,medium,clear,11.88,30.54,1.19,South Ahmedabad,Thursday,18
+D7,2026-01-08,Store_5,23.019812,72.400791,08:30:00,21.37,high,cloudy,12.4,46.76,0.98,Surat Hub,Thursday,2
+D5,2026-05-18,Store_36,22.81839,72.344743,17:15:00,29.92,high,cloudy,10.02,34.01,0.85,North Ahmedabad,Monday,21
+D6,2026-03-22,Store_33,23.136296,72.730069,16:30:00,24.09,high,clear,7.95,25.89,0.74,Gandhinagar,Sunday,12
+D2,2026-01-17,Store_59,23.059728,72.57577,10:00:00,21.84,medium,clear,9.9,25.45,0.9,Vadodara,Saturday,3
+D2,2026-02-27,Store_51,22.961994,72.831246,16:00:00,33.62,medium,clear,7.27,18.69,0.59,North Ahmedabad,Friday,9
+D2,2026-03-22,Store_22,22.916018,72.617832,17:30:00,19.96,medium,cloudy,11.1,31.4,1.08,South Ahmedabad,Sunday,12
+D3,2026-03-02,Store_32,23.04854,72.688644,10:30:00,25.48,medium,cloudy,8.88,26.39,0.85,South Ahmedabad,Monday,10
+D9,2026-03-14,Store_17,22.940541,72.408645,10:45:00,25.99,high,clear,11.07,41.76,1.24,South Ahmedabad,Saturday,11
+D10,2026-01-08,Store_5,23.019812,72.400791,10:15:00,22.99,medium,clear,1.2,4.0,0.13,Surat Hub,Thursday,2
+D9,2026-04-30,Store_25,23.131126,72.584916,09:15:00,21.74,high,clear,1.2,4.53,0.14,Surat Hub,Thursday,18
+D6,2026-04-19,Store_26,23.068759,72.697658,17:15:00,21.48,medium,clear,8.92,21.78,0.72,North Ahmedabad,Sunday,16
+D10,2026-03-15,Store_29,22.978477,72.870388,09:00:00,16.67,high,rain,4.43,17.75,0.53,Vadodara,Sunday,11
+D8,2026-01-20,Store_31,22.753241,72.504423,12:15:00,31.39,low,cloudy,9.58,21.35,0.74,North Ahmedabad,Tuesday,4
+D4,2026-01-26,Store_15,23.088537,72.657564,08:45:00,31.89,medium,clear,6.24,17.64,0.59,Surat Hub,Monday,5
+D1,2026-01-12,Store_17,22.940541,72.408645,18:00:00,21.04,high,cloudy,7.44,26.64,0.54,South Ahmedabad,Monday,3
+D9,2026-02-21,Store_45,23.099419,72.660706,10:30:00,37.21,high,clear,9.74,36.75,0.93,Surat Hub,Saturday,8
+D6,2026-05-08,Store_19,23.004268,72.403369,18:30:00,16.67,medium,clear,6.34,15.49,0.57,Vadodara,Friday,19
+D12,2026-05-09,Store_38,23.045288,72.709497,09:30:00,18.08,medium,clear,7.83,20.13,0.72,Gandhinagar,Saturday,19
+D6,2026-02-13,Store_9,23.0815,72.379623,08:30:00,13.27,medium,cloudy,9.3,24.98,0.94,Vadodara,Friday,7
+D11,2026-03-08,Store_60,23.278785,72.523529,18:45:00,18.57,medium,rain,7.27,23.08,0.55,Surat Hub,Sunday,10
+D7,2026-04-13,Store_49,22.810868,72.371951,14:15:00,23.49,high,rain,3.37,15.0,0.36,Vadodara,Monday,16
+D12,2026-04-15,Store_39,22.95414,72.603108,09:15:00,26.88,low,cloudy,6.31,13.39,0.59,Vadodara,Wednesday,16
+D4,2026-05-17,Store_15,23.088537,72.657564,17:15:00,28.25,low,cloudy,5.83,13.6,0.65,Surat Hub,Sunday,20
+D3,2026-01-06,Store_4,23.042954,72.508151,08:15:00,24.68,low,cloudy,2.52,5.61,0.29,Vadodara,Tuesday,2
+D9,2026-04-14,Store_24,23.161929,72.616119,08:45:00,22.19,medium,cloudy,6.65,20.69,0.64,Vadodara,Tuesday,16
+D4,2026-04-05,Store_32,23.04854,72.688644,12:00:00,8.0,high,cloudy,4.13,17.13,0.36,South Ahmedabad,Sunday,14
+D10,2026-04-30,Store_55,23.156949,72.225936,16:15:00,18.32,medium,clear,7.7,17.83,0.57,Surat Hub,Thursday,18
+D9,2026-02-17,Store_27,22.789355,72.507466,17:30:00,21.15,high,clear,7.08,26.71,0.7,South Ahmedabad,Tuesday,8
+D3,2026-05-20,Store_52,22.965498,72.718903,16:30:00,20.95,medium,rain,16.26,57.08,1.44,South Ahmedabad,Wednesday,21
+D1,2026-01-10,Store_22,22.916018,72.617832,08:00:00,20.06,medium,cloudy,13.59,36.53,1.6,South Ahmedabad,Saturday,2
+D12,2026-04-16,Store_31,22.753241,72.504423,10:30:00,24.89,high,clear,1.71,5.88,0.17,North Ahmedabad,Thursday,16
+D12,2026-04-14,Store_13,22.953968,72.500973,16:30:00,24.1,medium,clear,12.01,30.88,1.37,Gandhinagar,Tuesday,16
+D1,2026-02-09,Store_4,23.042954,72.508151,17:30:00,29.51,high,clear,11.13,36.24,1.15,Vadodara,Monday,7
+D4,2026-04-25,Store_41,23.095584,72.439015,17:45:00,19.25,low,cloudy,14.79,34.52,1.74,North Ahmedabad,Saturday,17
+D10,2026-03-13,Store_57,22.927436,72.282188,08:15:00,8.08,high,clear,5.21,16.09,0.38,South Ahmedabad,Friday,11
+D12,2026-03-05,Store_16,23.365164,72.490117,10:30:00,28.3,low,clear,8.26,15.93,0.87,North Ahmedabad,Thursday,10
+D6,2026-01-29,Store_59,23.059728,72.57577,12:15:00,15.79,medium,clear,11.45,27.96,0.8,Vadodara,Thursday,5
+D2,2026-03-13,Store_17,22.940541,72.408645,10:15:00,21.42,medium,cloudy,4.21,11.9,0.36,South Ahmedabad,Friday,11
+D8,2026-02-03,Store_55,23.156949,72.225936,17:15:00,18.16,medium,clear,11.72,31.65,1.09,Surat Hub,Tuesday,6
+D11,2026-04-10,Store_12,23.218107,72.540494,08:00:00,26.67,low,rain,9.16,21.83,0.66,South Ahmedabad,Friday,15
+D2,2026-01-16,Store_43,22.831166,72.668794,09:30:00,22.59,medium,cloudy,1.2,4.0,0.14,Gandhinagar,Friday,3
+D7,2026-03-28,Store_28,22.94724,72.443624,17:00:00,15.91,high,clear,7.24,24.83,0.73,Gandhinagar,Saturday,13
+D11,2026-05-18,Store_5,23.019812,72.400791,17:15:00,32.5,medium,cloudy,10.36,27.84,0.94,Surat Hub,Monday,21
+D8,2026-02-14,Store_50,23.086464,72.390304,08:00:00,17.32,medium,clear,6.16,16.64,0.65,Surat Hub,Saturday,7
+D4,2026-04-14,Store_50,23.086464,72.390304,18:15:00,18.44,medium,clear,9.35,26.45,0.74,Surat Hub,Tuesday,16
+D10,2026-03-13,Store_8,23.097301,72.399542,08:45:00,22.07,low,rain,12.26,27.65,1.41,Gandhinagar,Friday,11
+D2,2026-05-04,Store_25,23.131126,72.584916,16:30:00,28.07,medium,clear,3.25,8.35,0.34,Surat Hub,Monday,19
+D12,2026-04-28,Store_12,23.218107,72.540494,16:00:00,16.93,medium,rain,8.66,28.96,0.85,South Ahmedabad,Tuesday,18
+D7,2026-02-25,Store_46,23.128962,72.551703,17:30:00,20.09,medium,cloudy,3.27,9.26,0.31,North Ahmedabad,Wednesday,9
+D12,2026-01-02,Store_3,22.710334,72.310964,14:45:00,19.59,medium,clear,9.81,25.22,1.02,Gandhinagar,Friday,1
+D6,2026-01-21,Store_22,22.916018,72.617832,09:45:00,15.03,medium,rain,9.84,31.24,0.92,South Ahmedabad,Wednesday,4
+D11,2026-04-13,Store_39,22.95414,72.603108,10:45:00,24.38,medium,cloudy,1.2,4.0,0.12,Vadodara,Monday,16
+D6,2026-01-15,Store_47,22.954772,72.555456,18:45:00,33.02,high,clear,14.5,47.21,1.03,South Ahmedabad,Thursday,3
+D3,2026-05-18,Store_60,23.278785,72.523529,17:15:00,44.07,high,clear,10.03,36.13,0.99,Surat Hub,Monday,21
+D5,2026-02-27,Store_1,23.071255,72.363403,20:30:00,23.67,medium,clear,8.63,19.97,0.66,North Ahmedabad,Friday,9
+D4,2026-01-23,Store_19,23.004268,72.403369,10:30:00,21.65,high,clear,2.44,9.21,0.28,Vadodara,Friday,4
+D5,2026-02-08,Store_29,22.978477,72.870388,09:00:00,23.67,medium,clear,8.3,19.22,0.78,Vadodara,Sunday,6
+D2,2026-05-15,Store_15,23.088537,72.657564,14:30:00,24.38,low,clear,7.57,14.6,0.86,Surat Hub,Friday,20
+D10,2026-05-07,Store_7,23.033065,72.796848,20:45:00,29.47,high,clear,9.71,29.97,0.95,South Ahmedabad,Thursday,19
+D6,2026-01-14,Store_49,22.810868,72.371951,16:45:00,20.13,medium,clear,8.66,21.16,0.98,Vadodara,Wednesday,3
+D5,2026-03-23,Store_32,23.04854,72.688644,10:30:00,21.12,medium,clear,8.93,20.67,0.72,South Ahmedabad,Monday,13
+D8,2026-05-12,Store_25,23.131126,72.584916,18:00:00,20.49,low,clear,3.98,8.06,0.36,Surat Hub,Tuesday,20
+D1,2026-03-04,Store_12,23.218107,72.540494,17:00:00,25.18,high,rain,4.46,18.87,0.37,South Ahmedabad,Wednesday,10
+D4,2026-02-04,Store_18,23.121057,72.797194,20:00:00,33.29,high,cloudy,7.8,32.37,0.75,Gandhinagar,Wednesday,6
+D5,2026-03-17,Store_50,23.086464,72.390304,09:15:00,34.88,low,rain,13.39,30.22,1.05,Surat Hub,Tuesday,12
+D5,2026-03-19,Store_58,23.034041,72.465501,10:00:00,27.32,low,clear,9.39,16.3,0.94,Gandhinagar,Thursday,12
+D1,2026-03-07,Store_59,23.059728,72.57577,14:15:00,8.0,low,rain,10.11,24.08,0.94,Vadodara,Saturday,10
+D11,2026-01-22,Store_50,23.086464,72.390304,10:45:00,38.46,low,clear,6.47,11.85,0.7,Surat Hub,Thursday,4
+D8,2026-04-22,Store_50,23.086464,72.390304,20:00:00,16.81,medium,cloudy,8.35,24.8,0.7,Surat Hub,Wednesday,17
+D11,2026-01-09,Store_24,23.161929,72.616119,09:15:00,25.7,medium,cloudy,9.44,25.36,0.81,Vadodara,Friday,2
+D5,2026-04-12,Store_44,22.947396,72.573899,16:15:00,12.82,medium,clear,10.45,24.18,0.82,Vadodara,Sunday,15
+D2,2026-04-05,Store_60,23.278785,72.523529,08:45:00,22.1,medium,rain,7.23,24.17,0.62,Surat Hub,Sunday,14
+D5,2026-05-13,Store_43,22.831166,72.668794,17:15:00,22.73,medium,cloudy,11.72,29.84,1.35,Gandhinagar,Wednesday,20
+D4,2026-02-28,Store_12,23.218107,72.540494,10:30:00,24.04,medium,clear,8.51,24.08,0.88,South Ahmedabad,Saturday,9
+D2,2026-04-02,Store_44,22.947396,72.573899,08:30:00,12.07,medium,clear,6.4,16.45,0.53,Vadodara,Thursday,14
+D11,2026-04-04,Store_11,22.992922,72.435214,10:00:00,23.9,low,clear,9.93,18.19,0.8,North Ahmedabad,Saturday,14
+D12,2026-03-17,Store_33,23.136296,72.730069,20:30:00,28.27,high,clear,8.48,29.08,1.01,Gandhinagar,Tuesday,12
+D7,2026-02-25,Store_27,22.789355,72.507466,08:30:00,18.65,medium,rain,12.64,42.26,1.48,South Ahmedabad,Wednesday,9
+D11,2026-04-30,Store_20,22.890583,72.701519,14:15:00,19.84,medium,cloudy,5.3,14.24,0.61,Surat Hub,Thursday,18
+D12,2026-05-10,Store_19,23.004268,72.403369,20:45:00,36.67,medium,cloudy,8.96,25.35,0.83,Vadodara,Sunday,19
+D9,2026-02-03,Store_37,22.875388,72.670832,10:30:00,30.72,medium,cloudy,7.85,24.44,0.87,South Ahmedabad,Tuesday,6
+D4,2026-05-01,Store_35,23.159776,72.533139,08:00:00,24.54,medium,cloudy,14.57,45.33,1.58,Surat Hub,Friday,18
+D8,2026-01-17,Store_7,23.033065,72.796848,20:15:00,38.86,low,clear,14.04,28.43,1.64,South Ahmedabad,Saturday,3
+D4,2026-05-18,Store_38,23.045288,72.709497,09:00:00,19.55,high,clear,8.96,33.81,0.68,Gandhinagar,Monday,21
+D9,2026-04-27,Store_35,23.159776,72.533139,12:00:00,26.08,medium,clear,11.84,33.49,1.42,Surat Hub,Monday,18
+D1,2026-05-20,Store_2,23.142572,72.759513,08:30:00,28.78,high,rain,13.72,58.08,1.25,South Ahmedabad,Wednesday,21
+D3,2026-01-08,Store_23,23.04117,72.615138,10:30:00,29.82,high,cloudy,5.16,20.44,0.44,Gandhinagar,Thursday,2
+D3,2026-04-15,Store_43,22.831166,72.668794,14:45:00,28.8,high,clear,8.83,31.79,0.69,Gandhinagar,Wednesday,16
+D4,2026-03-16,Store_17,22.940541,72.408645,08:00:00,20.89,low,clear,7.51,15.93,0.77,South Ahmedabad,Monday,12
+D9,2026-04-26,Store_21,23.141421,72.680031,09:00:00,17.88,high,cloudy,7.4,30.68,0.55,North Ahmedabad,Sunday,17
+D6,2026-02-25,Store_33,23.136296,72.730069,10:30:00,32.31,high,clear,8.52,27.74,0.75,Gandhinagar,Wednesday,9
+D5,2026-01-31,Store_38,23.045288,72.709497,17:00:00,28.11,low,clear,6.89,11.95,0.77,Gandhinagar,Saturday,5
+D1,2026-02-25,Store_42,22.964411,72.495052,09:45:00,22.01,high,clear,8.96,29.2,1.06,South Ahmedabad,Wednesday,9
+D12,2026-05-03,Store_28,22.94724,72.443624,09:00:00,16.09,medium,clear,2.17,5.58,0.21,Gandhinagar,Sunday,18
+D5,2026-04-26,Store_23,23.04117,72.615138,08:30:00,21.3,low,cloudy,1.2,4.0,0.11,Gandhinagar,Sunday,17
+D4,2026-04-17,Store_7,23.033065,72.796848,14:45:00,14.08,medium,clear,10.25,29.0,1.01,South Ahmedabad,Friday,16
+D8,2026-04-05,Store_51,22.961994,72.831246,08:00:00,25.68,low,rain,10.03,26.42,1.15,North Ahmedabad,Sunday,14
+D2,2026-03-07,Store_50,23.086464,72.390304,20:15:00,17.63,low,clear,16.73,32.27,1.74,Surat Hub,Saturday,10
+D1,2026-01-30,Store_54,22.870496,72.503593,09:00:00,18.1,medium,clear,8.07,19.71,0.69,Vadodara,Friday,5
+D5,2026-02-20,Store_15,23.088537,72.657564,10:00:00,23.88,medium,cloudy,6.45,16.41,0.75,Surat Hub,Friday,8
+D9,2026-01-14,Store_46,23.128962,72.551703,08:00:00,21.73,high,clear,14.06,53.04,1.56,North Ahmedabad,Wednesday,3
+D9,2026-03-15,Store_9,23.0815,72.379623,08:45:00,25.36,medium,clear,6.08,17.19,0.67,Vadodara,Sunday,11
+D12,2026-01-24,Store_49,22.810868,72.371951,14:45:00,23.96,medium,rain,8.86,29.63,0.88,Vadodara,Saturday,4
+D6,2026-01-18,Store_40,23.122594,72.509531,09:15:00,35.1,low,rain,4.29,10.23,0.39,Surat Hub,Sunday,3
+D6,2026-03-02,Store_49,22.810868,72.371951,20:30:00,27.8,high,clear,1.95,6.35,0.19,Vadodara,Monday,10
+D5,2026-03-06,Store_18,23.121057,72.797194,14:30:00,32.44,medium,clear,8.34,19.3,0.65,Gandhinagar,Friday,10
+D7,2026-04-12,Store_59,23.059728,72.57577,09:15:00,16.98,medium,cloudy,8.01,22.67,0.93,Vadodara,Sunday,15
+D3,2026-03-25,Store_7,23.033065,72.796848,08:30:00,18.26,high,clear,10.07,36.24,0.71,South Ahmedabad,Wednesday,13
+D8,2026-01-06,Store_57,22.927436,72.282188,14:30:00,9.92,low,cloudy,1.2,4.0,0.11,South Ahmedabad,Tuesday,2
+D6,2026-01-01,Store_35,23.159776,72.533139,10:45:00,26.02,high,clear,11.96,38.96,0.93,Surat Hub,Thursday,1
+D6,2026-04-19,Store_9,23.0815,72.379623,14:15:00,15.06,high,rain,5.72,24.23,0.57,Vadodara,Sunday,16
+D12,2026-05-03,Store_35,23.159776,72.533139,08:15:00,10.12,high,clear,7.45,25.53,0.75,Surat Hub,Sunday,18
+D11,2026-03-01,Store_57,22.927436,72.282188,12:15:00,24.42,low,cloudy,5.66,11.42,0.48,South Ahmedabad,Sunday,9
+D9,2026-05-03,Store_4,23.042954,72.508151,14:00:00,18.64,medium,cloudy,5.31,16.51,0.47,Vadodara,Sunday,18
+D10,2026-03-28,Store_9,23.0815,72.379623,12:00:00,26.45,medium,clear,7.98,18.47,0.7,Vadodara,Saturday,13
+D3,2026-01-14,Store_31,22.753241,72.504423,12:45:00,25.95,high,rain,10.47,48.99,1.19,North Ahmedabad,Wednesday,3
+D11,2026-03-30,Store_22,22.916018,72.617832,12:15:00,35.86,low,clear,4.16,7.63,0.3,South Ahmedabad,Monday,14
+D3,2026-04-09,Store_33,23.136296,72.730069,18:15:00,24.12,low,rain,3.07,8.09,0.34,Gandhinagar,Thursday,15
+D12,2026-01-22,Store_44,22.947396,72.573899,18:30:00,27.5,medium,clear,6.91,17.78,0.82,Vadodara,Thursday,4
+D4,2026-02-13,Store_48,22.752526,72.281978,10:00:00,27.76,high,clear,13.73,51.79,1.53,Gandhinagar,Friday,7
+D2,2026-05-17,Store_38,23.045288,72.709497,20:45:00,23.06,low,cloudy,10.84,22.99,1.25,Gandhinagar,Sunday,20
+D3,2026-05-17,Store_27,22.789355,72.507466,14:30:00,22.57,medium,clear,1.2,4.0,0.09,South Ahmedabad,Sunday,20
+D9,2026-01-11,Store_35,23.159776,72.533139,12:45:00,27.77,high,cloudy,6.22,25.81,0.5,Surat Hub,Sunday,2
+D4,2026-05-17,Store_50,23.086464,72.390304,14:00:00,23.06,high,rain,13.47,66.02,1.05,Surat Hub,Sunday,20
+D12,2026-01-09,Store_9,23.0815,72.379623,14:00:00,25.08,high,clear,8.46,29.02,0.93,Vadodara,Friday,2
+D11,2026-03-28,Store_40,23.122594,72.509531,20:45:00,30.97,medium,clear,17.86,43.64,2.1,Surat Hub,Saturday,13
+D11,2026-02-22,Store_20,22.890583,72.701519,14:45:00,19.53,low,clear,9.26,16.97,0.85,Surat Hub,Sunday,8
+D10,2026-02-02,Store_47,22.954772,72.555456,09:30:00,12.19,high,clear,4.85,14.98,0.47,South Ahmedabad,Monday,6
+D1,2026-03-13,Store_57,22.927436,72.282188,20:15:00,24.16,medium,clear,5.71,13.95,0.57,South Ahmedabad,Friday,11
+D3,2026-02-01,Store_44,22.947396,72.573899,08:30:00,18.44,high,clear,7.21,25.96,0.53,Vadodara,Sunday,5
+D10,2026-04-26,Store_44,22.947396,72.573899,17:30:00,22.54,medium,cloudy,18.16,46.23,1.59,Vadodara,Sunday,17
+D6,2026-04-03,Store_47,22.954772,72.555456,20:30:00,22.24,medium,clear,12.65,30.91,1.35,South Ahmedabad,Friday,14
+D6,2026-03-06,Store_32,23.04854,72.688644,17:00:00,8.44,low,clear,8.44,15.47,0.97,South Ahmedabad,Friday,10
+D9,2026-02-08,Store_34,22.966704,72.47893,20:00:00,25.38,low,clear,10.39,22.04,1.19,Vadodara,Sunday,6
+D9,2026-04-17,Store_11,22.992922,72.435214,09:30:00,23.07,medium,clear,9.88,27.94,0.84,North Ahmedabad,Friday,16
+D5,2026-01-18,Store_43,22.831166,72.668794,17:30:00,15.1,low,clear,9.86,17.11,1.09,Gandhinagar,Sunday,3
+D3,2026-03-04,Store_27,22.789355,72.507466,09:45:00,24.99,medium,clear,7.61,20.55,0.62,South Ahmedabad,Wednesday,10
+D11,2026-04-16,Store_11,22.992922,72.435214,10:15:00,10.02,low,clear,12.26,22.46,1.0,North Ahmedabad,Thursday,16
+D7,2026-04-17,Store_4,23.042954,72.508151,14:45:00,8.0,high,rain,3.17,14.15,0.36,Vadodara,Friday,16
+D10,2026-05-08,Store_31,22.753241,72.504423,12:45:00,25.7,low,clear,1.2,4.0,0.11,North Ahmedabad,Friday,19
+D6,2026-03-21,Store_46,23.128962,72.551703,18:30:00,11.88,low,clear,11.65,21.34,1.39,North Ahmedabad,Saturday,12
+D9,2026-05-03,Store_8,23.097301,72.399542,10:45:00,20.58,medium,clear,14.23,40.25,1.24,Gandhinagar,Sunday,18
+D12,2026-03-19,Store_37,22.875388,72.670832,09:15:00,19.81,medium,clear,6.06,15.57,0.68,South Ahmedabad,Thursday,12
+D1,2026-04-06,Store_41,23.095584,72.439015,09:00:00,22.84,high,clear,6.85,22.32,0.71,North Ahmedabad,Monday,15
+D12,2026-04-25,Store_26,23.068759,72.697658,10:00:00,12.48,high,clear,11.56,39.65,0.96,North Ahmedabad,Saturday,17
+D10,2026-04-19,Store_37,22.875388,72.670832,10:45:00,28.17,high,clear,8.62,26.61,1.03,South Ahmedabad,Sunday,16
+D11,2026-01-06,Store_13,22.953968,72.500973,14:00:00,12.27,high,clear,8.0,26.05,0.71,Gandhinagar,Tuesday,2
+D3,2026-01-27,Store_11,22.992922,72.435214,12:00:00,17.62,medium,rain,7.77,27.27,0.93,North Ahmedabad,Tuesday,5
+D2,2026-02-27,Store_40,23.122594,72.509531,20:15:00,31.8,medium,cloudy,8.27,23.39,0.77,Surat Hub,Friday,9
+D2,2026-01-29,Store_11,22.992922,72.435214,12:00:00,19.7,medium,cloudy,7.59,21.46,0.63,North Ahmedabad,Thursday,5
+D8,2026-02-08,Store_8,23.097301,72.399542,09:15:00,11.34,high,clear,20.74,74.66,1.87,Gandhinagar,Sunday,6
+D4,2026-01-05,Store_6,23.163204,72.726958,16:00:00,28.79,high,clear,9.31,35.11,1.05,North Ahmedabad,Monday,2
+D1,2026-02-01,Store_32,23.04854,72.688644,18:00:00,21.9,medium,cloudy,9.11,24.49,0.99,South Ahmedabad,Sunday,5
+D2,2026-05-12,Store_7,23.033065,72.796848,12:30:00,25.02,high,clear,2.32,7.96,0.25,South Ahmedabad,Tuesday,20
+D8,2026-02-10,Store_26,23.068759,72.697658,09:00:00,20.93,medium,clear,13.41,36.21,1.47,North Ahmedabad,Tuesday,7
+D12,2026-05-08,Store_48,22.752526,72.281978,17:00:00,24.33,high,clear,1.92,6.58,0.23,Gandhinagar,Friday,19
+D1,2026-04-12,Store_49,22.810868,72.371951,20:45:00,29.15,medium,cloudy,16.05,43.14,1.2,Vadodara,Sunday,15
+D8,2026-02-27,Store_37,22.875388,72.670832,10:45:00,22.81,high,clear,1.79,6.44,0.15,South Ahmedabad,Friday,9
+D3,2026-04-18,Store_13,22.953968,72.500973,16:15:00,13.0,medium,cloudy,7.32,21.74,0.77,Gandhinagar,Saturday,16
+D4,2026-03-20,Store_37,22.875388,72.670832,08:15:00,21.15,medium,rain,9.54,35.09,1.12,South Ahmedabad,Friday,12
+D11,2026-01-08,Store_22,22.916018,72.617832,10:30:00,14.51,high,cloudy,9.25,33.14,0.89,South Ahmedabad,Thursday,2
+D5,2026-04-20,Store_48,22.752526,72.281978,09:00:00,22.85,low,rain,6.43,14.5,0.69,Gandhinagar,Monday,17
+D12,2026-03-16,Store_7,23.033065,72.796848,12:15:00,18.51,high,clear,7.81,26.78,0.68,South Ahmedabad,Monday,12
+D12,2026-03-23,Store_8,23.097301,72.399542,20:00:00,25.64,high,rain,6.28,27.99,0.51,Gandhinagar,Monday,13
+D2,2026-01-13,Store_12,23.218107,72.540494,08:00:00,16.36,high,clear,8.91,30.55,0.88,South Ahmedabad,Tuesday,3
+D2,2026-04-19,Store_3,22.710334,72.310964,18:30:00,18.9,medium,clear,2.44,6.28,0.21,Gandhinagar,Sunday,16
+D3,2026-03-07,Store_5,23.019812,72.400791,17:00:00,28.04,low,clear,14.71,29.78,1.27,Surat Hub,Saturday,10
+D12,2026-04-07,Store_39,22.95414,72.603108,08:45:00,17.35,high,clear,12.25,42.0,1.41,Vadodara,Tuesday,15
+D2,2026-02-11,Store_60,23.278785,72.523529,10:30:00,18.82,medium,cloudy,18.02,50.98,1.38,Surat Hub,Wednesday,7
+D4,2026-04-08,Store_38,23.045288,72.709497,17:30:00,14.7,low,clear,7.89,16.75,0.64,Gandhinagar,Wednesday,15
+D4,2026-03-03,Store_50,23.086464,72.390304,09:30:00,17.23,high,clear,8.8,33.2,0.84,Surat Hub,Tuesday,10
+D1,2026-03-28,Store_44,22.947396,72.573899,14:45:00,26.86,medium,cloudy,14.64,39.34,1.4,Vadodara,Saturday,13
+D9,2026-03-09,Store_31,22.753241,72.504423,14:45:00,23.81,medium,rain,1.81,6.67,0.15,North Ahmedabad,Monday,11
+D2,2026-01-14,Store_36,22.81839,72.344743,12:00:00,20.04,high,cloudy,7.13,26.9,0.55,North Ahmedabad,Wednesday,3
+D2,2026-05-12,Store_59,23.059728,72.57577,16:00:00,22.55,medium,cloudy,6.78,19.18,0.55,Vadodara,Tuesday,20
+D3,2026-05-07,Store_57,22.927436,72.282188,17:30:00,23.64,high,rain,1.2,5.62,0.1,South Ahmedabad,Thursday,19
+D9,2026-02-06,Store_39,22.95414,72.603108,20:30:00,9.35,high,clear,7.4,27.93,0.86,Vadodara,Friday,6
+D4,2026-01-29,Store_23,23.04117,72.615138,18:30:00,16.74,medium,clear,15.05,42.56,1.74,Gandhinagar,Thursday,5
+D7,2026-04-22,Store_58,23.034041,72.465501,10:15:00,23.32,medium,cloudy,8.87,25.09,0.8,Gandhinagar,Wednesday,17
+D9,2026-04-15,Store_49,22.810868,72.371951,10:15:00,14.14,low,clear,2.21,4.69,0.18,Vadodara,Wednesday,16
+D2,2026-04-17,Store_60,23.278785,72.523529,08:30:00,23.2,medium,clear,9.47,24.35,0.69,Surat Hub,Friday,16
+D1,2026-01-08,Store_56,23.092008,72.618947,08:30:00,25.93,high,clear,2.63,8.58,0.24,North Ahmedabad,Thursday,2
+D5,2026-01-11,Store_28,22.94724,72.443624,18:45:00,19.78,low,clear,11.35,19.7,0.88,Gandhinagar,Sunday,2
+D11,2026-01-29,Store_49,22.810868,72.371951,17:30:00,26.38,medium,rain,1.2,4.0,0.11,Vadodara,Thursday,5
+D10,2026-02-20,Store_45,23.099419,72.660706,08:00:00,12.95,medium,cloudy,8.93,22.72,0.91,Surat Hub,Friday,8
+D3,2026-03-27,Store_38,23.045288,72.709497,17:45:00,15.18,high,clear,5.21,18.76,0.43,Gandhinagar,Friday,13
+D3,2026-01-06,Store_52,22.965498,72.718903,12:00:00,18.67,medium,clear,3.98,10.75,0.32,South Ahmedabad,Tuesday,2
+D8,2026-05-11,Store_32,23.04854,72.688644,20:00:00,19.18,high,clear,9.12,32.83,1.05,South Ahmedabad,Monday,20
+D3,2026-05-16,Store_12,23.218107,72.540494,08:30:00,18.3,high,cloudy,1.2,4.75,0.12,South Ahmedabad,Saturday,20
+D7,2026-01-22,Store_40,23.122594,72.509531,08:30:00,24.67,high,cloudy,13.24,49.94,1.13,Surat Hub,Thursday,4
+D12,2026-05-16,Store_8,23.097301,72.399542,10:30:00,16.82,low,clear,6.8,13.12,0.73,Gandhinagar,Saturday,20
+D2,2026-01-31,Store_57,22.927436,72.282188,10:45:00,14.35,high,clear,5.13,17.6,0.43,South Ahmedabad,Saturday,5
+D2,2026-04-08,Store_39,22.95414,72.603108,09:45:00,16.77,low,cloudy,4.68,9.93,0.44,Vadodara,Wednesday,15
+D10,2026-04-16,Store_9,23.0815,72.379623,10:15:00,27.45,high,clear,4.2,12.95,0.49,Vadodara,Thursday,16
+D4,2026-04-02,Store_12,23.218107,72.540494,18:00:00,17.59,medium,clear,7.51,21.24,0.54,South Ahmedabad,Thursday,14
+D7,2026-02-10,Store_28,22.94724,72.443624,12:00:00,22.63,medium,clear,7.21,18.54,0.73,Gandhinagar,Tuesday,7
+D4,2026-02-22,Store_20,22.890583,72.701519,08:30:00,26.02,low,clear,10.55,22.39,1.17,Surat Hub,Sunday,8
+D1,2026-02-22,Store_51,22.961994,72.831246,16:30:00,17.16,low,clear,5.28,9.67,0.4,North Ahmedabad,Sunday,8
+D2,2026-04-20,Store_51,22.961994,72.831246,08:45:00,23.82,high,cloudy,10.15,38.27,1.03,North Ahmedabad,Monday,17
+D4,2026-05-11,Store_59,23.059728,72.57577,08:45:00,13.57,medium,clear,9.56,27.03,1.14,Vadodara,Monday,20
+D3,2026-01-03,Store_5,23.019812,72.400791,18:15:00,28.95,medium,clear,15.96,43.1,1.22,Surat Hub,Saturday,1
+D3,2026-01-08,Store_44,22.947396,72.573899,10:45:00,24.86,medium,clear,10.94,29.55,1.04,Vadodara,Thursday,2
+D12,2026-05-16,Store_59,23.059728,72.57577,14:15:00,8.0,high,clear,10.87,37.28,0.97,Vadodara,Saturday,20
+D4,2026-03-16,Store_55,23.156949,72.225936,09:45:00,29.42,medium,clear,8.98,25.39,0.93,Surat Hub,Monday,12
+D6,2026-01-26,Store_31,22.753241,72.504423,10:30:00,17.42,medium,clear,16.55,40.43,1.46,North Ahmedabad,Monday,5
+D2,2026-04-30,Store_4,23.042954,72.508151,09:30:00,14.65,high,clear,11.72,40.19,0.89,Vadodara,Thursday,18
+D12,2026-02-03,Store_41,23.095584,72.439015,09:30:00,18.38,high,rain,1.2,5.35,0.13,North Ahmedabad,Tuesday,6
+D9,2026-05-19,Store_30,22.883967,72.765056,09:15:00,30.79,medium,clear,7.77,21.99,0.55,Surat Hub,Tuesday,21
+D1,2026-05-10,Store_37,22.875388,72.670832,08:15:00,22.34,low,clear,7.4,13.56,0.59,South Ahmedabad,Sunday,19
+D11,2026-02-23,Store_26,23.068759,72.697658,10:15:00,15.08,medium,clear,10.13,24.74,1.09,North Ahmedabad,Monday,9
+D8,2026-05-19,Store_22,22.916018,72.617832,14:45:00,23.17,medium,clear,10.46,28.26,1.17,South Ahmedabad,Tuesday,21
+D6,2026-05-06,Store_11,22.992922,72.435214,17:15:00,11.15,high,clear,5.12,16.68,0.61,North Ahmedabad,Wednesday,19
+D6,2026-04-18,Store_3,22.710334,72.310964,16:00:00,30.41,low,cloudy,6.35,12.8,0.72,Gandhinagar,Saturday,16
+D5,2026-01-14,Store_46,23.128962,72.551703,12:15:00,24.94,low,clear,9.33,16.2,0.85,North Ahmedabad,Wednesday,3
+D1,2026-05-04,Store_12,23.218107,72.540494,18:15:00,17.15,medium,clear,8.69,21.22,0.72,South Ahmedabad,Monday,19
+D5,2026-03-12,Store_3,22.710334,72.310964,10:00:00,22.59,medium,clear,12.99,30.06,1.54,Gandhinagar,Thursday,11
+D1,2026-04-20,Store_30,22.883967,72.765056,18:45:00,26.91,low,clear,12.05,22.09,1.2,Surat Hub,Monday,17
+D4,2026-02-06,Store_10,23.163052,72.561415,08:45:00,19.34,medium,cloudy,5.58,17.37,0.62,Surat Hub,Friday,6
+D1,2026-01-10,Store_31,22.753241,72.504423,10:30:00,23.35,medium,clear,3.98,9.73,0.32,North Ahmedabad,Saturday,2
+D4,2026-02-15,Store_8,23.097301,72.399542,17:30:00,29.81,medium,clear,4.54,12.83,0.43,Gandhinagar,Sunday,7
+D10,2026-05-10,Store_56,23.092008,72.618947,08:00:00,16.9,high,rain,5.91,23.72,0.55,North Ahmedabad,Sunday,19
+D9,2026-02-28,Store_19,23.004268,72.403369,18:00:00,25.62,low,cloudy,10.63,24.81,1.09,Vadodara,Saturday,9
+D2,2026-02-17,Store_36,22.81839,72.344743,08:30:00,21.27,high,cloudy,8.57,32.33,0.74,North Ahmedabad,Tuesday,8
+D12,2026-02-21,Store_53,22.873121,72.530312,10:30:00,23.04,low,clear,8.65,16.69,0.69,Gandhinagar,Saturday,8
+D9,2026-02-06,Store_19,23.004268,72.403369,12:30:00,22.54,medium,clear,7.76,21.94,0.77,Vadodara,Friday,6
+D4,2026-05-16,Store_18,23.121057,72.797194,18:30:00,26.74,medium,clear,6.68,18.88,0.8,Gandhinagar,Saturday,20
+D10,2026-03-06,Store_2,23.142572,72.759513,14:00:00,18.1,low,cloudy,8.09,15.44,0.92,South Ahmedabad,Friday,10
+D8,2026-03-30,Store_56,23.092008,72.618947,17:30:00,22.91,high,rain,9.48,44.39,0.77,North Ahmedabad,Monday,14
+D2,2026-05-01,Store_46,23.128962,72.551703,12:30:00,16.46,medium,clear,15.15,38.95,1.13,North Ahmedabad,Friday,18
+D6,2026-05-05,Store_43,22.831166,72.668794,09:45:00,13.64,medium,rain,5.11,16.24,0.44,Gandhinagar,Tuesday,19
+D8,2026-02-11,Store_42,22.964411,72.495052,17:00:00,15.78,low,clear,13.4,27.13,1.44,South Ahmedabad,Wednesday,7
+D3,2026-03-08,Store_15,23.088537,72.657564,12:15:00,31.51,medium,clear,9.54,25.75,1.1,Surat Hub,Sunday,10
+D8,2026-05-20,Store_50,23.086464,72.390304,12:00:00,28.65,medium,clear,11.82,31.9,1.28,Surat Hub,Wednesday,21
+D10,2026-03-11,Store_37,22.875388,72.670832,08:45:00,22.76,low,clear,12.32,21.38,1.47,South Ahmedabad,Wednesday,11
+D4,2026-01-30,Store_8,23.097301,72.399542,14:00:00,28.63,medium,cloudy,8.56,26.62,0.66,Gandhinagar,Friday,5
+D9,2026-03-01,Store_6,23.163204,72.726958,18:30:00,24.68,medium,cloudy,1.86,5.8,0.14,North Ahmedabad,Sunday,9
+D7,2026-04-12,Store_57,22.927436,72.282188,17:15:00,18.96,low,rain,5.35,13.41,0.38,South Ahmedabad,Sunday,15
+D11,2026-01-08,Store_33,23.136296,72.730069,09:45:00,33.61,medium,clear,6.43,15.7,0.61,Gandhinagar,Thursday,2
+D11,2026-05-19,Store_25,23.131126,72.584916,18:00:00,27.98,low,clear,8.73,16.0,0.91,Surat Hub,Tuesday,21
+D10,2026-02-06,Store_50,23.086464,72.390304,10:15:00,31.84,medium,clear,13.78,31.9,1.14,Surat Hub,Friday,6
+D11,2026-02-21,Store_3,22.710334,72.310964,18:00:00,16.59,medium,clear,12.7,31.02,1.04,Gandhinagar,Saturday,8
+D6,2026-01-22,Store_35,23.159776,72.533139,08:00:00,31.3,high,rain,12.01,50.83,0.88,Surat Hub,Thursday,4
+D11,2026-03-24,Store_21,23.141421,72.680031,10:45:00,20.94,low,cloudy,4.43,8.92,0.35,North Ahmedabad,Tuesday,13
+D7,2026-01-18,Store_24,23.161929,72.616119,16:30:00,14.89,medium,cloudy,9.33,26.39,0.77,Vadodara,Sunday,3
+D7,2026-03-19,Store_45,23.099419,72.660706,10:15:00,22.89,high,cloudy,4.31,16.25,0.42,Surat Hub,Thursday,12
+D12,2026-03-10,Store_21,23.141421,72.680031,09:00:00,15.4,medium,clear,11.81,30.38,0.94,North Ahmedabad,Tuesday,11
+D10,2026-04-18,Store_51,22.961994,72.831246,18:00:00,22.26,medium,clear,5.56,12.88,0.6,North Ahmedabad,Saturday,16
+D1,2026-04-26,Store_54,22.870496,72.503593,16:30:00,12.35,medium,cloudy,5.92,15.91,0.61,Vadodara,Sunday,17
+D5,2026-03-03,Store_41,23.095584,72.439015,20:45:00,16.68,medium,clear,9.8,22.67,0.97,North Ahmedabad,Tuesday,10
+D1,2026-01-07,Store_29,22.978477,72.870388,16:15:00,23.69,medium,cloudy,12.62,33.9,1.38,Vadodara,Wednesday,2
+D10,2026-03-29,Store_57,22.927436,72.282188,16:30:00,8.0,low,clear,7.01,12.17,0.73,South Ahmedabad,Sunday,13
+D4,2026-01-13,Store_24,23.161929,72.616119,09:30:00,17.53,high,cloudy,14.2,58.9,1.23,Vadodara,Tuesday,3
+D9,2026-03-04,Store_51,22.961994,72.831246,17:45:00,22.61,medium,clear,6.67,18.87,0.53,North Ahmedabad,Wednesday,10
+D2,2026-02-22,Store_56,23.092008,72.618947,14:45:00,15.89,low,clear,12.82,24.72,1.14,North Ahmedabad,Sunday,8
+D11,2026-04-19,Store_49,22.810868,72.371951,08:45:00,27.97,medium,rain,9.66,30.68,1.12,Vadodara,Sunday,16
+D12,2026-05-04,Store_39,22.95414,72.603108,14:30:00,19.74,medium,cloudy,19.44,54.97,2.02,Vadodara,Monday,19
+D10,2026-05-14,Store_30,22.883967,72.765056,10:45:00,22.54,low,rain,5.02,11.34,0.51,Surat Hub,Thursday,20
+D11,2026-03-06,Store_41,23.095584,72.439015,08:15:00,21.07,low,clear,2.98,5.47,0.24,North Ahmedabad,Friday,10
+D11,2026-03-18,Store_60,23.278785,72.523529,09:00:00,22.23,medium,clear,8.57,20.93,0.66,Surat Hub,Wednesday,12
+D12,2026-05-08,Store_3,22.710334,72.310964,18:45:00,26.57,high,cloudy,9.39,35.41,0.66,Gandhinagar,Friday,19
+D1,2026-05-15,Store_55,23.156949,72.225936,17:30:00,25.64,medium,clear,8.02,19.59,0.74,Surat Hub,Friday,20
+D7,2026-02-17,Store_50,23.086464,72.390304,14:00:00,29.6,medium,rain,5.55,18.56,0.47,Surat Hub,Tuesday,8
+D7,2026-03-18,Store_15,23.088537,72.657564,16:15:00,28.32,high,clear,13.67,46.88,1.14,Surat Hub,Wednesday,12
+D4,2026-03-06,Store_53,22.873121,72.530312,16:00:00,27.43,high,cloudy,10.01,41.51,0.9,Gandhinagar,Friday,10
+D6,2026-01-06,Store_44,22.947396,72.573899,16:00:00,22.07,high,clear,6.04,19.66,0.67,Vadodara,Tuesday,2
+D5,2026-03-18,Store_10,23.163052,72.561415,17:30:00,23.72,high,clear,10.78,33.27,1.21,Surat Hub,Wednesday,12
+D5,2026-01-11,Store_44,22.947396,72.573899,08:00:00,28.89,medium,clear,6.22,14.4,0.56,Vadodara,Sunday,2
+D11,2026-04-18,Store_39,22.95414,72.603108,16:45:00,12.27,low,clear,4.87,8.91,0.44,Vadodara,Saturday,16
+D12,2026-05-12,Store_35,23.159776,72.533139,12:45:00,22.08,high,clear,8.31,28.49,0.64,Surat Hub,Tuesday,20
+D6,2026-03-27,Store_49,22.810868,72.371951,16:00:00,9.49,medium,rain,6.68,21.21,0.73,Vadodara,Friday,13
+D2,2026-02-07,Store_9,23.0815,72.379623,09:15:00,22.28,high,cloudy,10.01,37.74,1.18,Vadodara,Saturday,6
+D5,2026-02-01,Store_36,22.81839,72.344743,14:45:00,24.82,medium,cloudy,1.2,4.0,0.1,North Ahmedabad,Sunday,5
+D12,2026-01-12,Store_36,22.81839,72.344743,18:15:00,16.22,high,clear,5.07,17.39,0.41,North Ahmedabad,Monday,3
+D3,2026-04-26,Store_23,23.04117,72.615138,17:00:00,27.97,medium,cloudy,10.43,30.99,1.19,Gandhinagar,Sunday,17
+D5,2026-04-13,Store_56,23.092008,72.618947,16:45:00,26.28,high,rain,10.47,42.01,1.12,North Ahmedabad,Monday,16
+D1,2026-03-05,Store_55,23.156949,72.225936,12:45:00,33.47,medium,clear,6.22,15.19,0.56,Surat Hub,Thursday,10
+D11,2026-02-25,Store_34,22.966704,72.47893,14:00:00,14.01,high,rain,11.97,50.7,1.12,Vadodara,Wednesday,9
+D4,2026-03-27,Store_35,23.159776,72.533139,12:15:00,30.58,medium,cloudy,8.47,26.35,0.94,Surat Hub,Friday,13
+D9,2026-04-15,Store_4,23.042954,72.508151,17:15:00,21.07,high,clear,6.18,23.31,0.66,Vadodara,Wednesday,16
+D5,2026-02-03,Store_45,23.099419,72.660706,10:30:00,25.03,medium,rain,8.27,24.87,0.99,Surat Hub,Tuesday,6
+D6,2026-05-03,Store_11,22.992922,72.435214,17:00:00,18.49,low,clear,11.29,20.68,1.09,North Ahmedabad,Sunday,18
+D1,2026-02-24,Store_44,22.947396,72.573899,17:45:00,18.92,medium,rain,15.39,48.87,1.57,Vadodara,Tuesday,9
+D10,2026-05-17,Store_5,23.019812,72.400791,09:00:00,24.88,low,rain,5.03,11.34,0.6,Surat Hub,Sunday,20
+D5,2026-01-02,Store_26,23.068759,72.697658,14:30:00,19.92,high,clear,5.56,17.16,0.6,North Ahmedabad,Friday,1
+D11,2026-04-20,Store_19,23.004268,72.403369,12:00:00,26.15,high,clear,5.75,18.72,0.5,Vadodara,Monday,17
+D7,2026-02-08,Store_36,22.81839,72.344743,09:15:00,11.36,medium,cloudy,10.64,30.09,1.19,North Ahmedabad,Sunday,6
+D7,2026-01-25,Store_13,22.953968,72.500973,10:45:00,11.46,medium,clear,9.09,23.38,0.65,Gandhinagar,Sunday,4
+D12,2026-02-01,Store_3,22.710334,72.310964,18:30:00,30.39,low,rain,6.96,17.46,0.73,Gandhinagar,Sunday,5
+D7,2026-04-05,Store_35,23.159776,72.533139,16:30:00,30.01,high,clear,3.83,13.13,0.45,Surat Hub,Sunday,14
+D7,2026-03-04,Store_6,23.163204,72.726958,18:30:00,21.7,high,clear,8.02,27.51,0.58,North Ahmedabad,Wednesday,10
+D3,2026-04-16,Store_37,22.875388,72.670832,16:15:00,28.24,medium,clear,9.18,24.79,0.69,South Ahmedabad,Thursday,16
+D2,2026-03-31,Store_14,23.107669,72.644489,09:15:00,16.57,high,cloudy,6.94,26.19,0.62,Vadodara,Tuesday,14
+D7,2026-04-28,Store_43,22.831166,72.668794,17:00:00,21.85,high,cloudy,6.56,24.73,0.57,Gandhinagar,Tuesday,18
+D7,2026-04-06,Store_46,23.128962,72.551703,20:45:00,17.01,medium,clear,11.22,28.85,0.92,North Ahmedabad,Monday,15
+D8,2026-02-16,Store_35,23.159776,72.533139,09:30:00,27.35,medium,clear,11.65,31.45,0.83,Surat Hub,Monday,8
+D6,2026-03-20,Store_32,23.04854,72.688644,16:15:00,26.5,medium,rain,9.89,31.42,0.72,South Ahmedabad,Friday,12
+D11,2026-05-14,Store_59,23.059728,72.57577,17:45:00,11.07,medium,clear,5.59,13.64,0.45,Vadodara,Thursday,20
+D11,2026-03-05,Store_33,23.136296,72.730069,18:15:00,19.43,high,cloudy,7.81,27.99,0.69,Gandhinagar,Thursday,10
+D8,2026-01-07,Store_12,23.218107,72.540494,12:45:00,25.01,medium,clear,5.72,15.45,0.47,South Ahmedabad,Wednesday,2
+D8,2026-01-09,Store_5,23.019812,72.400791,10:45:00,33.88,medium,clear,6.61,17.85,0.71,Surat Hub,Friday,2
+D4,2026-05-12,Store_28,22.94724,72.443624,12:30:00,20.45,high,clear,10.85,40.93,0.93,Gandhinagar,Tuesday,20
+D7,2026-01-15,Store_25,23.131126,72.584916,09:15:00,25.65,medium,cloudy,4.91,13.88,0.5,Surat Hub,Thursday,3
+D11,2026-03-06,Store_2,23.142572,72.759513,09:00:00,19.48,low,clear,6.97,12.77,0.67,South Ahmedabad,Friday,10
+D7,2026-01-01,Store_8,23.097301,72.399542,08:00:00,12.76,medium,clear,12.04,30.96,0.86,Gandhinagar,Thursday,1
+D6,2026-05-12,Store_24,23.161929,72.616119,09:00:00,12.01,low,rain,16.58,39.5,1.98,Vadodara,Tuesday,20
+D9,2026-01-13,Store_24,23.161929,72.616119,09:45:00,25.33,high,clear,8.05,30.35,0.62,Vadodara,Tuesday,3
+D6,2026-05-20,Store_29,22.978477,72.870388,16:15:00,18.01,high,clear,11.57,37.7,1.22,Vadodara,Wednesday,21
+D11,2026-01-21,Store_32,23.04854,72.688644,16:30:00,30.21,medium,clear,14.51,35.45,1.04,South Ahmedabad,Wednesday,4
+D4,2026-04-10,Store_47,22.954772,72.555456,08:45:00,13.19,medium,cloudy,4.76,14.82,0.5,South Ahmedabad,Friday,15
+D5,2026-03-24,Store_29,22.978477,72.870388,17:15:00,22.39,medium,clear,14.92,34.54,1.54,Vadodara,Tuesday,13
+D10,2026-03-08,Store_45,23.099419,72.660706,08:15:00,17.07,low,clear,1.2,4.0,0.13,Surat Hub,Sunday,10
+D12,2026-01-24,Store_40,23.122594,72.509531,12:15:00,24.99,medium,cloudy,13.29,37.6,1.03,Surat Hub,Saturday,4
+D2,2026-04-19,Store_12,23.218107,72.540494,18:00:00,21.44,medium,clear,10.27,26.41,0.85,South Ahmedabad,Sunday,16
+D9,2026-05-08,Store_9,23.0815,72.379623,20:45:00,16.82,low,cloudy,8.83,20.61,0.76,Vadodara,Friday,19
+D11,2026-02-09,Store_10,23.163052,72.561415,09:30:00,31.86,medium,cloudy,8.67,23.31,0.83,Surat Hub,Monday,7
+D5,2026-04-25,Store_12,23.218107,72.540494,17:30:00,24.14,medium,rain,1.2,4.0,0.09,South Ahmedabad,Saturday,17
+D9,2026-03-26,Store_12,23.218107,72.540494,09:00:00,14.36,low,clear,9.44,20.03,1.03,South Ahmedabad,Thursday,13
+D12,2026-04-26,Store_9,23.0815,72.379623,14:15:00,17.52,medium,clear,7.19,18.49,0.86,Vadodara,Sunday,17
+D10,2026-01-14,Store_38,23.045288,72.709497,16:45:00,19.59,medium,cloudy,14.47,36.84,1.44,Gandhinagar,Wednesday,3
+D7,2026-01-16,Store_20,22.890583,72.701519,17:00:00,34.6,medium,rain,9.45,31.6,0.79,Surat Hub,Friday,3
+D11,2026-04-10,Store_47,22.954772,72.555456,08:45:00,8.0,medium,clear,7.12,17.4,0.67,South Ahmedabad,Friday,15
+D2,2026-03-21,Store_11,22.992922,72.435214,09:15:00,21.84,low,rain,3.17,7.95,0.35,North Ahmedabad,Saturday,12
+D5,2026-01-10,Store_23,23.04117,72.615138,09:15:00,21.81,high,cloudy,17.03,57.81,1.35,Gandhinagar,Saturday,2
+D7,2026-03-30,Store_54,22.870496,72.503593,20:15:00,21.25,high,clear,5.21,17.85,0.6,Vadodara,Monday,14
+D10,2026-02-04,Store_13,22.953968,72.500973,08:45:00,19.32,high,cloudy,2.95,10.01,0.23,Gandhinagar,Wednesday,6
+D11,2026-01-31,Store_31,22.753241,72.504423,16:15:00,36.34,medium,clear,8.25,20.16,0.76,North Ahmedabad,Saturday,5
+D11,2026-02-27,Store_40,23.122594,72.509531,17:00:00,29.13,medium,clear,13.75,33.58,1.46,Surat Hub,Friday,9
+D2,2026-05-02,Store_1,23.071255,72.363403,10:45:00,26.44,medium,cloudy,7.36,20.83,0.56,North Ahmedabad,Saturday,18
+D3,2026-04-03,Store_19,23.004268,72.403369,17:45:00,28.34,medium,clear,5.85,15.79,0.68,Vadodara,Friday,14
+D5,2026-05-03,Store_11,22.992922,72.435214,18:45:00,17.43,high,clear,10.19,31.44,0.91,North Ahmedabad,Sunday,18
+D8,2026-02-06,Store_10,23.163052,72.561415,20:00:00,24.4,medium,rain,9.65,33.86,1.0,Surat Hub,Friday,6
+D7,2026-02-16,Store_43,22.831166,72.668794,09:30:00,16.99,high,clear,8.1,27.76,0.83,Gandhinagar,Monday,8
+D1,2026-03-05,Store_29,22.978477,72.870388,09:30:00,24.91,high,clear,6.93,22.58,0.6,Vadodara,Thursday,10
+D10,2026-02-16,Store_48,22.752526,72.281978,09:15:00,19.29,medium,clear,8.18,18.93,0.96,Gandhinagar,Monday,8
+D2,2026-03-01,Store_15,23.088537,72.657564,08:45:00,39.83,low,cloudy,9.34,19.81,0.68,Surat Hub,Sunday,9
+D1,2026-04-19,Store_3,22.710334,72.310964,10:15:00,27.15,low,rain,4.95,11.79,0.5,Gandhinagar,Sunday,16
+D1,2026-04-13,Store_5,23.019812,72.400791,18:30:00,17.45,medium,clear,1.25,4.0,0.1,Surat Hub,Monday,16
+D5,2026-01-27,Store_29,22.978477,72.870388,08:15:00,15.03,low,rain,11.61,26.19,1.37,Vadodara,Tuesday,5
+D12,2026-01-20,Store_4,23.042954,72.508151,16:30:00,32.96,high,clear,5.21,17.85,0.52,Vadodara,Tuesday,4
+D4,2026-05-19,Store_40,23.122594,72.509531,17:30:00,29.69,high,cloudy,6.31,26.16,0.56,Surat Hub,Tuesday,21
+D9,2026-01-01,Store_3,22.710334,72.310964,20:30:00,23.41,medium,clear,5.09,14.38,0.38,Gandhinagar,Thursday,1
+D12,2026-04-12,Store_9,23.0815,72.379623,09:45:00,17.06,low,clear,7.86,15.15,0.82,Vadodara,Sunday,15
+D3,2026-04-01,Store_46,23.128962,72.551703,14:15:00,21.74,low,clear,10.84,21.95,1.26,North Ahmedabad,Wednesday,14
+D10,2026-05-09,Store_45,23.099419,72.660706,20:30:00,21.84,medium,clear,5.88,13.61,0.44,Surat Hub,Saturday,19
+D8,2026-02-19,Store_11,22.992922,72.435214,17:30:00,20.63,medium,clear,21.23,57.33,1.78,North Ahmedabad,Thursday,8
+D1,2026-02-16,Store_51,22.961994,72.831246,17:15:00,23.62,high,cloudy,9.5,34.05,0.99,North Ahmedabad,Monday,8
+D6,2026-01-28,Store_18,23.121057,72.797194,14:30:00,13.26,medium,clear,7.39,18.06,0.58,Gandhinagar,Wednesday,5
+D1,2026-01-19,Store_27,22.789355,72.507466,10:45:00,16.74,medium,clear,9.93,24.26,1.15,South Ahmedabad,Monday,4
+D10,2026-02-11,Store_8,23.097301,72.399542,14:00:00,26.66,medium,cloudy,8.67,22.06,1.03,Gandhinagar,Wednesday,7
+D7,2026-03-19,Store_25,23.131126,72.584916,14:15:00,20.73,low,cloudy,2.21,4.68,0.22,Surat Hub,Thursday,12
+D3,2026-01-07,Store_1,23.071255,72.363403,17:00:00,13.47,low,clear,2.78,5.63,0.22,North Ahmedabad,Wednesday,2
+D12,2026-04-17,Store_21,23.141421,72.680031,09:45:00,28.15,high,cloudy,7.63,28.79,0.8,North Ahmedabad,Friday,16
+D7,2026-04-25,Store_11,22.992922,72.435214,14:15:00,24.88,medium,clear,7.06,18.15,0.59,North Ahmedabad,Saturday,17
+D2,2026-01-14,Store_10,23.163052,72.561415,16:00:00,31.1,high,clear,4.19,14.38,0.37,Surat Hub,Wednesday,3
+D8,2026-04-11,Store_44,22.947396,72.573899,14:30:00,12.03,medium,rain,8.86,31.09,0.83,Vadodara,Saturday,15
+D2,2026-01-04,Store_9,23.0815,72.379623,10:45:00,25.69,low,rain,3.05,7.64,0.22,Vadodara,Sunday,1
+D3,2026-01-04,Store_29,22.978477,72.870388,08:30:00,28.58,high,rain,10.79,50.51,0.91,Vadodara,Sunday,1
+D6,2026-01-09,Store_12,23.218107,72.540494,08:30:00,24.91,low,clear,9.58,17.56,1.01,South Ahmedabad,Friday,2
+D2,2026-04-23,Store_34,22.966704,72.47893,18:30:00,13.57,medium,cloudy,8.31,23.51,0.97,Vadodara,Thursday,17
+D6,2026-02-08,Store_42,22.964411,72.495052,09:00:00,22.64,medium,clear,7.08,17.3,0.6,South Ahmedabad,Sunday,6
+D11,2026-03-14,Store_12,23.218107,72.540494,18:15:00,20.12,low,clear,8.34,15.27,0.92,South Ahmedabad,Saturday,11
+D2,2026-03-24,Store_53,22.873121,72.530312,12:45:00,27.77,low,clear,3.75,7.22,0.35,Gandhinagar,Tuesday,13
+D4,2026-02-19,Store_34,22.966704,72.47893,14:30:00,17.56,high,cloudy,13.98,57.99,1.39,Vadodara,Thursday,8
+D11,2026-03-25,Store_8,23.097301,72.399542,10:15:00,19.03,high,cloudy,9.66,34.63,1.11,Gandhinagar,Wednesday,13
+D7,2026-01-06,Store_53,22.873121,72.530312,09:45:00,25.3,medium,clear,9.14,23.49,0.85,Gandhinagar,Tuesday,2
+D4,2026-05-14,Store_2,23.142572,72.759513,18:15:00,15.95,high,cloudy,11.46,47.53,1.12,South Ahmedabad,Thursday,20
+D12,2026-05-13,Store_32,23.04854,72.688644,10:15:00,21.03,low,cloudy,12.13,25.72,1.3,South Ahmedabad,Wednesday,20
+D11,2026-05-10,Store_52,22.965498,72.718903,08:00:00,27.46,medium,cloudy,11.77,31.63,1.13,South Ahmedabad,Sunday,19
+D6,2026-05-08,Store_3,22.710334,72.310964,17:45:00,10.69,medium,clear,8.35,20.41,0.86,Gandhinagar,Friday,19
+D12,2026-01-19,Store_33,23.136296,72.730069,08:30:00,19.91,medium,clear,1.66,4.27,0.12,Gandhinagar,Monday,4
+D1,2026-04-30,Store_17,22.940541,72.408645,10:45:00,25.24,high,clear,9.25,30.12,0.69,South Ahmedabad,Thursday,18
+D11,2026-05-03,Store_42,22.964411,72.495052,18:45:00,18.27,medium,cloudy,1.2,4.0,0.12,South Ahmedabad,Sunday,18
+D12,2026-02-16,Store_27,22.789355,72.507466,08:15:00,24.91,medium,clear,4.6,11.83,0.41,South Ahmedabad,Monday,8
+D2,2026-05-04,Store_9,23.0815,72.379623,16:15:00,13.14,high,clear,2.05,7.02,0.2,Vadodara,Monday,19
+D8,2026-01-01,Store_2,23.142572,72.759513,20:00:00,23.36,high,rain,7.33,34.31,0.8,South Ahmedabad,Thursday,1
+D4,2026-03-05,Store_29,22.978477,72.870388,08:45:00,12.7,medium,cloudy,6.4,19.91,0.54,Vadodara,Thursday,10
+D6,2026-02-13,Store_48,22.752526,72.281978,12:45:00,16.58,medium,cloudy,11.02,29.62,1.01,Gandhinagar,Friday,7
+D10,2026-04-26,Store_26,23.068759,72.697658,20:45:00,12.91,medium,clear,12.92,29.9,1.27,North Ahmedabad,Sunday,17
+D7,2026-04-08,Store_12,23.218107,72.540494,16:30:00,8.83,high,clear,8.33,28.56,0.84,South Ahmedabad,Wednesday,15
+D5,2026-01-19,Store_35,23.159776,72.533139,17:45:00,25.82,high,clear,12.47,38.47,1.23,Surat Hub,Monday,4
+D5,2026-01-01,Store_37,22.875388,72.670832,17:30:00,24.28,medium,clear,10.08,23.32,0.85,South Ahmedabad,Thursday,1
+D7,2026-05-15,Store_37,22.875388,72.670832,20:30:00,14.32,high,rain,8.95,39.89,0.7,South Ahmedabad,Friday,20
+D1,2026-03-18,Store_49,22.810868,72.371951,14:45:00,22.38,high,clear,8.7,28.32,0.8,Vadodara,Wednesday,12
+D9,2026-01-16,Store_56,23.092008,72.618947,18:00:00,12.51,medium,clear,8.34,23.59,0.65,North Ahmedabad,Friday,3
+D8,2026-04-09,Store_18,23.121057,72.797194,09:45:00,20.63,medium,clear,4.54,12.25,0.44,Gandhinagar,Thursday,15
+D7,2026-05-05,Store_27,22.789355,72.507466,10:00:00,30.17,medium,clear,17.17,44.15,1.93,South Ahmedabad,Tuesday,19
+D6,2026-05-01,Store_39,22.95414,72.603108,10:30:00,14.15,medium,clear,10.81,26.41,1.26,Vadodara,Friday,18
+D7,2026-03-29,Store_26,23.068759,72.697658,17:30:00,27.85,medium,rain,12.24,40.9,1.35,North Ahmedabad,Sunday,13
+D10,2026-05-01,Store_1,23.071255,72.363403,18:15:00,14.73,medium,cloudy,7.5,19.1,0.69,North Ahmedabad,Friday,18
+D4,2026-02-15,Store_36,22.81839,72.344743,18:15:00,20.61,low,cloudy,13.03,30.41,1.43,North Ahmedabad,Sunday,7
+D8,2026-02-26,Store_36,22.81839,72.344743,18:30:00,20.91,high,clear,15.42,55.52,1.31,North Ahmedabad,Thursday,9
+D6,2026-04-23,Store_4,23.042954,72.508151,17:15:00,24.14,low,clear,13.02,23.85,1.2,Vadodara,Thursday,17
+D9,2026-02-10,Store_16,23.365164,72.490117,14:00:00,20.13,medium,rain,8.67,31.88,0.71,North Ahmedabad,Tuesday,7
+D8,2026-01-28,Store_16,23.365164,72.490117,16:00:00,31.37,medium,cloudy,8.03,23.85,0.84,North Ahmedabad,Wednesday,5
+D6,2026-02-21,Store_22,22.916018,72.617832,10:00:00,27.18,high,cloudy,7.09,25.41,0.79,South Ahmedabad,Saturday,8
+D5,2026-04-04,Store_21,23.141421,72.680031,18:30:00,31.63,medium,cloudy,5.77,14.7,0.68,North Ahmedabad,Saturday,14
+D7,2026-03-25,Store_47,22.954772,72.555456,16:15:00,27.56,low,cloudy,1.34,4.0,0.13,South Ahmedabad,Wednesday,13
+D8,2026-02-08,Store_43,22.831166,72.668794,17:00:00,14.46,low,clear,8.98,18.18,0.8,Gandhinagar,Sunday,6
+D4,2026-02-04,Store_26,23.068759,72.697658,10:45:00,26.35,medium,clear,12.07,34.15,0.9,North Ahmedabad,Wednesday,6
+D7,2026-01-23,Store_54,22.870496,72.503593,18:15:00,23.12,low,clear,9.93,19.14,1.03,Vadodara,Friday,4
+D5,2026-02-03,Store_16,23.365164,72.490117,09:15:00,34.19,low,clear,9.8,17.01,0.99,North Ahmedabad,Tuesday,6
+D9,2026-02-11,Store_3,22.710334,72.310964,17:15:00,24.69,high,clear,16.06,60.58,1.17,Gandhinagar,Wednesday,7
+D1,2026-04-14,Store_1,23.071255,72.363403,12:00:00,36.51,medium,clear,12.57,30.7,1.48,North Ahmedabad,Tuesday,16
+D8,2026-03-28,Store_22,22.916018,72.617832,08:15:00,21.77,medium,clear,11.8,31.87,1.08,South Ahmedabad,Saturday,13
+D4,2026-02-11,Store_36,22.81839,72.344743,08:00:00,27.17,medium,rain,1.2,4.41,0.13,North Ahmedabad,Wednesday,7
+D7,2026-01-09,Store_5,23.019812,72.400791,10:00:00,31.31,high,clear,4.79,16.42,0.52,Surat Hub,Friday,2
+D12,2026-05-19,Store_35,23.159776,72.533139,18:45:00,32.14,high,cloudy,11.55,43.57,1.08,Surat Hub,Tuesday,21
+D2,2026-03-31,Store_34,22.966704,72.47893,18:30:00,13.92,medium,cloudy,9.5,26.86,0.78,Vadodara,Tuesday,14
+D7,2026-04-10,Store_7,23.033065,72.796848,20:45:00,19.64,high,cloudy,14.48,54.6,1.72,South Ahmedabad,Friday,15
+D3,2026-02-05,Store_29,22.978477,72.870388,17:30:00,24.09,medium,clear,11.12,30.02,1.06,Vadodara,Thursday,6
+D1,2026-01-13,Store_7,23.033065,72.796848,10:30:00,23.89,high,clear,6.7,21.81,0.64,South Ahmedabad,Tuesday,3
+D10,2026-03-05,Store_10,23.163052,72.561415,12:45:00,28.16,medium,clear,10.55,24.41,0.83,Surat Hub,Thursday,10
+D2,2026-05-19,Store_29,22.978477,72.870388,08:15:00,22.48,medium,clear,5.61,14.44,0.49,Vadodara,Tuesday,21
+D3,2026-04-03,Store_18,23.121057,72.797194,20:30:00,24.56,high,cloudy,3.41,13.49,0.32,Gandhinagar,Friday,14
+D6,2026-04-09,Store_38,23.045288,72.709497,17:00:00,17.26,high,clear,13.89,45.23,1.13,Gandhinagar,Thursday,15
+D5,2026-03-15,Store_42,22.964411,72.495052,20:45:00,17.31,low,clear,5.39,9.35,0.46,South Ahmedabad,Sunday,11
+D1,2026-01-04,Store_50,23.086464,72.390304,14:00:00,29.01,medium,cloudy,10.48,28.15,0.88,Surat Hub,Sunday,1
+D2,2026-01-03,Store_17,22.940541,72.408645,10:00:00,23.69,low,clear,10.41,20.08,1.06,South Ahmedabad,Saturday,1
+D8,2026-05-11,Store_16,23.365164,72.490117,14:45:00,25.79,low,cloudy,9.46,21.07,0.85,North Ahmedabad,Monday,20
+D12,2026-03-01,Store_5,23.019812,72.400791,17:15:00,22.32,high,cloudy,8.8,33.18,0.63,Surat Hub,Sunday,9
+D7,2026-04-12,Store_23,23.04117,72.615138,10:30:00,25.79,medium,rain,1.32,4.43,0.13,Gandhinagar,Sunday,15
+D10,2026-02-27,Store_34,22.966704,72.47893,10:15:00,18.21,medium,cloudy,7.32,18.62,0.62,Vadodara,Friday,9
+D5,2026-04-06,Store_52,22.965498,72.718903,16:30:00,14.37,high,rain,7.66,30.75,0.81,South Ahmedabad,Monday,15
+D7,2026-02-03,Store_5,23.019812,72.400791,12:15:00,32.02,medium,clear,8.23,21.15,0.67,Surat Hub,Tuesday,6
+D5,2026-04-23,Store_9,23.0815,72.379623,17:15:00,25.28,low,clear,10.27,17.82,0.9,Vadodara,Thursday,17
+D3,2026-05-13,Store_34,22.966704,72.47893,14:15:00,10.89,medium,cloudy,10.08,29.92,0.81,Vadodara,Wednesday,20
+D2,2026-01-16,Store_50,23.086464,72.390304,20:00:00,22.04,medium,clear,15.98,41.09,1.45,Surat Hub,Friday,3
+D5,2026-04-11,Store_32,23.04854,72.688644,17:45:00,12.04,medium,rain,11.1,33.41,1.25,South Ahmedabad,Saturday,15
+D10,2026-05-11,Store_26,23.068759,72.697658,09:15:00,27.9,high,clear,9.76,30.13,0.99,North Ahmedabad,Monday,20
+D9,2026-02-13,Store_3,22.710334,72.310964,09:15:00,18.84,medium,clear,7.22,20.42,0.7,Gandhinagar,Friday,7
+D2,2026-02-22,Store_31,22.753241,72.504423,17:30:00,20.2,high,clear,15.05,51.61,1.41,North Ahmedabad,Sunday,8
+D10,2026-05-02,Store_18,23.121057,72.797194,12:15:00,23.39,medium,clear,12.09,27.97,1.11,Gandhinagar,Saturday,18
+D6,2026-01-31,Store_52,22.965498,72.718903,10:45:00,23.69,high,clear,14.51,47.26,1.62,South Ahmedabad,Saturday,5
+D2,2026-01-20,Store_6,23.163204,72.726958,14:45:00,33.1,medium,clear,9.74,25.05,0.81,North Ahmedabad,Tuesday,4
+D6,2026-02-17,Store_18,23.121057,72.797194,14:30:00,17.55,low,clear,10.98,20.12,1.1,Gandhinagar,Tuesday,8
+D10,2026-01-25,Store_13,22.953968,72.500973,09:45:00,24.37,low,rain,6.79,15.31,0.8,Gandhinagar,Sunday,4
+D8,2026-05-13,Store_46,23.128962,72.551703,08:30:00,31.99,medium,rain,10.25,35.99,0.92,North Ahmedabad,Wednesday,20
+D5,2026-02-14,Store_32,23.04854,72.688644,17:00:00,24.41,low,clear,3.13,5.43,0.29,South Ahmedabad,Saturday,7
+D1,2026-01-21,Store_38,23.045288,72.709497,09:45:00,29.41,medium,clear,9.86,24.09,0.72,Gandhinagar,Wednesday,4
+D8,2026-01-20,Store_42,22.964411,72.495052,16:15:00,13.52,low,clear,3.39,6.87,0.3,South Ahmedabad,Tuesday,4
+D3,2026-01-11,Store_27,22.789355,72.507466,12:00:00,23.93,high,rain,5.83,27.27,0.43,South Ahmedabad,Sunday,2
+D11,2026-02-15,Store_1,23.071255,72.363403,08:00:00,15.71,low,clear,1.8,4.0,0.19,North Ahmedabad,Sunday,7
+D4,2026-02-19,Store_57,22.927436,72.282188,09:45:00,20.54,medium,clear,1.2,4.0,0.09,South Ahmedabad,Thursday,8
+D3,2026-03-27,Store_18,23.121057,72.797194,09:15:00,25.99,high,clear,3.87,13.94,0.32,Gandhinagar,Friday,13
+D10,2026-03-05,Store_58,23.034041,72.465501,17:00:00,26.53,medium,clear,4.06,9.4,0.45,Gandhinagar,Thursday,10
+D4,2026-05-13,Store_27,22.789355,72.507466,16:30:00,30.88,medium,rain,8.79,32.31,0.9,South Ahmedabad,Wednesday,20
+D3,2026-03-18,Store_49,22.810868,72.371951,12:00:00,29.85,medium,cloudy,8.29,24.61,0.76,Vadodara,Wednesday,12
+D7,2026-04-16,Store_42,22.964411,72.495052,20:00:00,22.16,medium,clear,6.79,17.45,0.72,South Ahmedabad,Thursday,16
+D6,2026-05-13,Store_11,22.992922,72.435214,14:30:00,25.1,medium,cloudy,14.13,37.97,1.66,North Ahmedabad,Wednesday,20
+D2,2026-02-25,Store_26,23.068759,72.697658,20:45:00,12.62,high,clear,4.15,14.24,0.45,North Ahmedabad,Wednesday,9
+D8,2026-02-09,Store_45,23.099419,72.660706,18:30:00,29.47,medium,clear,7.43,20.07,0.59,Surat Hub,Monday,7
+D2,2026-01-05,Store_49,22.810868,72.371951,16:15:00,15.26,medium,clear,5.89,15.14,0.49,Vadodara,Monday,2
+D4,2026-04-13,Store_7,23.033065,72.796848,14:15:00,25.61,high,clear,5.6,21.12,0.44,South Ahmedabad,Monday,16
+D6,2026-01-15,Store_45,23.099419,72.660706,18:45:00,26.64,medium,clear,12.26,29.95,1.24,Surat Hub,Thursday,3
+D5,2026-04-07,Store_31,22.753241,72.504423,10:45:00,24.17,high,cloudy,13.4,45.48,1.0,North Ahmedabad,Tuesday,15
+D12,2026-04-10,Store_4,23.042954,72.508151,18:30:00,20.07,medium,clear,12.56,32.31,1.19,Vadodara,Friday,15
+D5,2026-04-18,Store_20,22.890583,72.701519,16:15:00,21.14,high,clear,4.45,13.73,0.49,Surat Hub,Saturday,16
+D8,2026-05-05,Store_25,23.131126,72.584916,20:15:00,20.65,medium,clear,11.0,29.7,1.27,Surat Hub,Tuesday,19
+D8,2026-04-13,Store_47,22.954772,72.555456,12:30:00,21.81,medium,clear,7.87,21.24,0.89,South Ahmedabad,Monday,16
+D10,2026-04-10,Store_11,22.992922,72.435214,12:45:00,27.34,medium,clear,8.76,20.26,0.72,North Ahmedabad,Friday,15
+D1,2026-01-05,Store_6,23.163204,72.726958,12:30:00,27.19,medium,clear,6.87,16.79,0.64,North Ahmedabad,Monday,2
+D9,2026-03-23,Store_4,23.042954,72.508151,18:00:00,23.09,low,clear,5.86,12.43,0.49,Vadodara,Monday,13
+D7,2026-05-01,Store_19,23.004268,72.403369,16:15:00,21.04,medium,clear,7.84,20.16,0.73,Vadodara,Friday,18
+D11,2026-05-15,Store_13,22.953968,72.500973,20:30:00,28.65,medium,cloudy,6.36,17.09,0.76,Gandhinagar,Friday,20
+D12,2026-04-02,Store_41,23.095584,72.439015,17:45:00,19.35,low,cloudy,1.29,4.0,0.14,North Ahmedabad,Thursday,14
+D8,2026-01-15,Store_55,23.156949,72.225936,08:00:00,28.3,medium,clear,1.2,4.0,0.13,Surat Hub,Thursday,3
+D11,2026-02-09,Store_60,23.278785,72.523529,08:30:00,22.89,high,clear,16.27,53.0,1.79,Surat Hub,Monday,7
+D11,2026-01-15,Store_6,23.163204,72.726958,17:30:00,18.14,high,clear,10.85,35.33,0.87,North Ahmedabad,Thursday,3
+D10,2026-04-08,Store_15,23.088537,72.657564,12:15:00,21.13,low,cloudy,5.42,10.35,0.4,Surat Hub,Wednesday,15
+D3,2026-05-17,Store_16,23.365164,72.490117,09:30:00,20.72,low,clear,7.22,14.62,0.82,North Ahmedabad,Sunday,20
+D9,2026-03-26,Store_54,22.870496,72.503593,14:00:00,30.3,medium,rain,5.94,21.85,0.65,Vadodara,Thursday,13
+D9,2026-01-10,Store_34,22.966704,72.47893,12:00:00,19.72,high,clear,9.7,36.57,1.08,Vadodara,Saturday,2
+D2,2026-03-08,Store_28,22.94724,72.443624,17:30:00,30.73,low,rain,6.84,17.14,0.75,Gandhinagar,Sunday,10
+D4,2026-02-17,Store_17,22.940541,72.408645,09:00:00,24.74,medium,cloudy,12.92,40.2,1.2,South Ahmedabad,Tuesday,8
+D7,2026-05-14,Store_56,23.092008,72.618947,20:15:00,15.85,high,clear,3.72,12.76,0.36,North Ahmedabad,Thursday,20
+D4,2026-03-01,Store_30,22.883967,72.765056,17:45:00,20.52,medium,rain,4.79,17.62,0.54,Surat Hub,Sunday,9
+D2,2026-01-30,Store_53,22.873121,72.530312,12:00:00,22.48,high,clear,13.56,46.49,1.19,Gandhinagar,Friday,5
+D2,2026-03-28,Store_47,22.954772,72.555456,18:00:00,34.73,low,rain,5.44,13.65,0.55,South Ahmedabad,Saturday,13
+D3,2026-01-12,Store_16,23.365164,72.490117,08:00:00,12.16,medium,cloudy,9.69,28.78,0.96,North Ahmedabad,Monday,3
+D12,2026-03-16,Store_18,23.121057,72.797194,12:30:00,20.46,high,rain,14.34,63.9,1.09,Gandhinagar,Monday,12
+D5,2026-03-19,Store_11,22.992922,72.435214,20:15:00,21.2,high,clear,10.83,33.41,1.2,North Ahmedabad,Thursday,12
+D4,2026-01-01,Store_27,22.789355,72.507466,20:30:00,31.74,high,rain,6.88,33.72,0.67,South Ahmedabad,Thursday,1
+D1,2026-03-28,Store_41,23.095584,72.439015,09:00:00,17.99,medium,clear,16.69,40.77,1.94,North Ahmedabad,Saturday,13
+D12,2026-01-15,Store_39,22.95414,72.603108,08:45:00,23.23,medium,cloudy,11.02,31.17,0.79,Vadodara,Thursday,3
+D10,2026-03-13,Store_35,23.159776,72.533139,09:45:00,18.71,low,cloudy,4.94,9.42,0.58,Surat Hub,Friday,11
+D12,2026-04-18,Store_28,22.94724,72.443624,14:45:00,20.39,high,clear,14.66,50.25,1.06,Gandhinagar,Saturday,16
+D6,2026-05-05,Store_15,23.088537,72.657564,20:30:00,34.07,medium,clear,13.19,32.23,1.28,Surat Hub,Tuesday,19
+D12,2026-04-03,Store_54,22.870496,72.503593,17:45:00,19.13,low,clear,5.68,10.96,0.52,Vadodara,Friday,14
+D1,2026-02-09,Store_53,22.873121,72.530312,14:00:00,33.06,medium,cloudy,10.16,27.29,0.81,Gandhinagar,Monday,7
+D9,2026-05-06,Store_14,23.107669,72.644489,14:00:00,8.0,medium,clear,14.42,40.78,1.67,Vadodara,Wednesday,19
+D7,2026-02-12,Store_31,22.753241,72.504423,17:00:00,24.48,medium,clear,7.95,20.45,0.82,North Ahmedabad,Thursday,7
+D1,2026-02-20,Store_33,23.136296,72.730069,09:15:00,18.04,high,clear,7.4,24.11,0.79,Gandhinagar,Friday,8
+D7,2026-01-03,Store_36,22.81839,72.344743,12:15:00,22.0,medium,rain,8.54,28.56,0.67,North Ahmedabad,Saturday,1
+D6,2026-02-21,Store_39,22.95414,72.603108,17:00:00,23.48,low,clear,8.68,15.91,0.61,Vadodara,Saturday,8
+D9,2026-03-13,Store_18,23.121057,72.797194,09:15:00,22.6,high,clear,5.49,20.72,0.44,Gandhinagar,Friday,11
+D7,2026-01-20,Store_9,23.0815,72.379623,08:00:00,11.37,medium,rain,10.89,36.39,1.08,Vadodara,Tuesday,4
+D1,2026-03-21,Store_49,22.810868,72.371951,09:45:00,19.17,low,clear,9.14,16.74,1.04,Vadodara,Saturday,12
+D9,2026-05-08,Store_34,22.966704,72.47893,12:00:00,24.15,medium,clear,6.15,17.39,0.69,Vadodara,Friday,19
+D7,2026-05-17,Store_37,22.875388,72.670832,16:30:00,13.21,medium,clear,8.87,22.82,0.64,South Ahmedabad,Sunday,20
+D9,2026-04-26,Store_44,22.947396,72.573899,12:15:00,24.03,medium,rain,9.98,36.7,0.78,Vadodara,Sunday,17
+D5,2026-04-03,Store_60,23.278785,72.523529,09:45:00,29.42,high,clear,7.92,24.45,0.75,Surat Hub,Friday,14
+D2,2026-04-02,Store_23,23.04117,72.615138,09:30:00,21.21,high,rain,2.14,9.55,0.23,Gandhinagar,Thursday,14
+D9,2026-02-03,Store_24,23.161929,72.616119,10:45:00,19.72,high,clear,11.53,43.5,1.11,Vadodara,Tuesday,6
+D11,2026-04-30,Store_13,22.953968,72.500973,08:45:00,16.46,medium,clear,3.98,9.73,0.45,Gandhinagar,Thursday,18
+D2,2026-04-18,Store_27,22.789355,72.507466,12:00:00,19.21,medium,clear,8.3,21.33,0.75,South Ahmedabad,Saturday,16
+D11,2026-01-27,Store_24,23.161929,72.616119,10:45:00,11.81,medium,clear,8.27,20.2,0.63,Vadodara,Tuesday,5
+D3,2026-02-12,Store_39,22.95414,72.603108,10:15:00,23.87,high,clear,13.69,49.29,1.49,Vadodara,Thursday,7
+D12,2026-04-30,Store_25,23.131126,72.584916,14:30:00,29.37,high,cloudy,4.28,16.16,0.46,Surat Hub,Thursday,18
+D8,2026-02-14,Store_37,22.875388,72.670832,14:30:00,24.27,medium,clear,10.72,28.95,0.95,South Ahmedabad,Saturday,7
+D12,2026-01-07,Store_12,23.218107,72.540494,20:00:00,9.05,medium,clear,9.9,25.46,0.82,South Ahmedabad,Wednesday,2
+D2,2026-04-12,Store_28,22.94724,72.443624,08:15:00,22.04,medium,clear,14.38,36.98,1.54,Gandhinagar,Sunday,15
+D11,2026-04-18,Store_32,23.04854,72.688644,08:30:00,20.39,medium,rain,5.89,18.7,0.65,South Ahmedabad,Saturday,16
+D2,2026-01-23,Store_34,22.966704,72.47893,17:30:00,25.23,low,cloudy,12.64,26.82,1.44,Vadodara,Friday,4
+D10,2026-01-23,Store_43,22.831166,72.668794,18:15:00,27.32,medium,cloudy,16.0,40.73,1.18,Gandhinagar,Friday,4
+D9,2026-04-05,Store_40,23.122594,72.509531,18:45:00,24.75,high,cloudy,9.41,39.02,1.09,Surat Hub,Sunday,14
+D1,2026-04-01,Store_12,23.218107,72.540494,09:45:00,20.08,medium,cloudy,10.3,27.67,1.22,South Ahmedabad,Wednesday,14
+D11,2026-03-02,Store_13,22.953968,72.500973,10:00:00,9.09,medium,cloudy,6.49,17.44,0.67,Gandhinagar,Monday,10
+D5,2026-04-08,Store_45,23.099419,72.660706,18:15:00,34.61,medium,clear,5.56,12.86,0.47,Surat Hub,Wednesday,15
+D1,2026-04-05,Store_44,22.947396,72.573899,10:15:00,17.51,low,clear,13.84,25.36,1.32,Vadodara,Sunday,14
+D4,2026-01-31,Store_39,22.95414,72.603108,16:45:00,23.91,high,clear,4.06,15.33,0.34,Vadodara,Saturday,5
+D5,2026-02-08,Store_10,23.163052,72.561415,10:15:00,33.59,low,cloudy,5.54,10.58,0.58,Surat Hub,Sunday,6
+D3,2026-01-25,Store_59,23.059728,72.57577,09:00:00,23.8,low,clear,4.66,9.43,0.56,Vadodara,Sunday,4
+D9,2026-05-09,Store_12,23.218107,72.540494,10:00:00,22.13,medium,cloudy,10.87,33.83,0.83,South Ahmedabad,Saturday,19
+D8,2026-02-28,Store_48,22.752526,72.281978,18:45:00,17.87,low,cloudy,5.65,12.6,0.65,Gandhinagar,Saturday,9
+D5,2026-03-05,Store_10,23.163052,72.561415,14:00:00,28.86,medium,cloudy,3.22,8.2,0.27,Surat Hub,Thursday,10
+D12,2026-01-05,Store_52,22.965498,72.718903,16:15:00,25.85,low,clear,9.25,17.84,1.05,South Ahmedabad,Monday,2
+D9,2026-05-13,Store_57,22.927436,72.282188,17:00:00,23.87,high,rain,2.85,13.99,0.26,South Ahmedabad,Wednesday,20
+D6,2026-04-30,Store_47,22.954772,72.555456,12:30:00,19.88,medium,cloudy,11.7,31.43,1.21,South Ahmedabad,Thursday,18
+D6,2026-02-26,Store_11,22.992922,72.435214,14:15:00,11.76,high,rain,14.81,62.7,1.31,North Ahmedabad,Thursday,9
+D4,2026-01-19,Store_51,22.961994,72.831246,08:15:00,27.21,medium,clear,11.68,33.04,1.34,North Ahmedabad,Monday,4
+D6,2026-03-21,Store_4,23.042954,72.508151,10:00:00,25.34,medium,clear,8.27,20.21,0.8,Vadodara,Saturday,12
+D9,2026-02-07,Store_58,23.034041,72.465501,08:30:00,33.95,medium,cloudy,8.91,27.72,0.81,Gandhinagar,Saturday,6
+D2,2026-02-14,Store_25,23.131126,72.584916,10:45:00,28.55,low,rain,19.97,50.07,1.45,Surat Hub,Saturday,7
+D5,2026-01-19,Store_18,23.121057,72.797194,09:30:00,26.72,medium,cloudy,6.23,15.87,0.45,Gandhinagar,Monday,4
+D7,2026-03-04,Store_35,23.159776,72.533139,18:30:00,17.8,low,clear,9.82,18.93,0.92,Surat Hub,Wednesday,10
+D10,2026-05-10,Store_13,22.953968,72.500973,12:30:00,21.89,high,clear,12.2,37.65,1.16,Gandhinagar,Sunday,19
+D6,2026-05-10,Store_50,23.086464,72.390304,12:30:00,30.95,low,cloudy,4.53,9.13,0.48,Surat Hub,Sunday,19
+D1,2026-04-01,Store_16,23.365164,72.490117,08:15:00,16.33,medium,clear,5.89,14.39,0.44,North Ahmedabad,Wednesday,14
+D10,2026-02-08,Store_47,22.954772,72.555456,10:30:00,26.77,high,rain,13.98,56.07,1.59,South Ahmedabad,Sunday,6
+D2,2026-02-14,Store_43,22.831166,72.668794,09:30:00,23.65,medium,clear,9.14,23.49,1.08,Gandhinagar,Saturday,7
+D7,2026-02-14,Store_14,23.107669,72.644489,09:00:00,18.26,medium,cloudy,8.92,25.24,0.72,Vadodara,Saturday,7
+D6,2026-01-07,Store_19,23.004268,72.403369,17:15:00,28.64,high,clear,6.01,19.57,0.59,Vadodara,Wednesday,2
+D3,2026-03-14,Store_13,22.953968,72.500973,14:30:00,28.47,high,clear,8.11,29.18,0.77,Gandhinagar,Saturday,11
+D12,2026-03-17,Store_55,23.156949,72.225936,17:30:00,27.53,medium,cloudy,10.92,30.88,0.98,Surat Hub,Tuesday,12
+D11,2026-01-26,Store_59,23.059728,72.57577,17:15:00,18.5,high,cloudy,4.79,17.17,0.51,Vadodara,Monday,5
+D3,2026-02-16,Store_41,23.095584,72.439015,08:45:00,21.69,low,clear,4.69,9.5,0.43,North Ahmedabad,Monday,8
+D8,2026-02-08,Store_42,22.964411,72.495052,12:15:00,21.06,medium,clear,7.13,19.25,0.78,South Ahmedabad,Sunday,6
+D1,2026-01-29,Store_23,23.04117,72.615138,17:30:00,26.88,low,clear,12.28,22.5,1.25,Gandhinagar,Thursday,5
+D8,2026-01-04,Store_34,22.966704,72.47893,14:15:00,26.52,high,clear,9.56,34.42,0.72,Vadodara,Sunday,1
+D8,2026-02-11,Store_24,23.161929,72.616119,12:00:00,32.71,high,clear,2.5,8.99,0.25,Vadodara,Wednesday,7
+D9,2026-03-14,Store_18,23.121057,72.797194,09:30:00,23.81,medium,clear,20.5,57.99,2.05,Gandhinagar,Saturday,11
+D10,2026-03-26,Store_22,22.916018,72.617832,18:15:00,23.2,high,clear,15.22,46.98,1.83,South Ahmedabad,Thursday,13
+D4,2026-02-01,Store_60,23.278785,72.523529,12:15:00,17.16,low,cloudy,4.93,11.5,0.47,Surat Hub,Sunday,5
+D8,2026-05-05,Store_43,22.831166,72.668794,14:45:00,12.66,medium,clear,8.79,23.72,0.87,Gandhinagar,Tuesday,19
+D5,2026-05-04,Store_31,22.753241,72.504423,17:00:00,21.42,medium,clear,11.58,26.8,1.36,North Ahmedabad,Monday,19
+D11,2026-02-15,Store_4,23.042954,72.508151,17:45:00,22.15,medium,rain,6.71,21.31,0.56,Vadodara,Sunday,7
+D7,2026-05-04,Store_40,23.122594,72.509531,10:15:00,21.59,medium,clear,5.96,15.33,0.64,Surat Hub,Monday,19
+D11,2026-03-30,Store_40,23.122594,72.509531,10:45:00,36.29,high,clear,1.2,4.0,0.12,Surat Hub,Monday,14
+D7,2026-01-27,Store_24,23.161929,72.616119,08:45:00,26.55,medium,rain,6.04,20.19,0.6,Vadodara,Tuesday,5
+D6,2026-04-20,Store_49,22.810868,72.371951,17:30:00,15.47,medium,cloudy,1.2,4.0,0.1,Vadodara,Monday,17
+D12,2026-02-03,Store_26,23.068759,72.697658,09:45:00,23.12,medium,cloudy,10.2,28.84,0.96,North Ahmedabad,Tuesday,6
+D7,2026-02-04,Store_13,22.953968,72.500973,08:00:00,17.57,medium,clear,11.15,28.67,1.13,Gandhinagar,Wednesday,6
+D10,2026-01-10,Store_11,22.992922,72.435214,18:15:00,13.2,medium,clear,13.59,31.45,1.5,North Ahmedabad,Saturday,2
+D4,2026-05-08,Store_7,23.033065,72.796848,09:45:00,16.78,medium,clear,10.64,30.08,1.08,South Ahmedabad,Friday,19
+D7,2026-01-27,Store_13,22.953968,72.500973,08:45:00,13.89,low,rain,9.26,23.21,0.92,Gandhinagar,Tuesday,5
+D4,2026-02-01,Store_56,23.092008,72.618947,12:00:00,18.75,medium,cloudy,3.88,12.09,0.42,North Ahmedabad,Sunday,5
+D8,2026-01-24,Store_57,22.927436,72.282188,12:00:00,20.97,medium,cloudy,15.19,45.11,1.24,South Ahmedabad,Saturday,4
+D8,2026-03-16,Store_5,23.019812,72.400791,17:00:00,28.69,medium,clear,8.12,21.93,0.81,Surat Hub,Monday,12
+D12,2026-03-03,Store_36,22.81839,72.344743,18:45:00,34.64,high,cloudy,9.27,34.95,0.85,North Ahmedabad,Tuesday,10
+D6,2026-02-15,Store_44,22.947396,72.573899,08:30:00,24.14,low,rain,10.6,25.25,1.07,Vadodara,Sunday,7
+D3,2026-01-28,Store_23,23.04117,72.615138,09:45:00,19.98,high,cloudy,12.59,49.84,1.08,Gandhinagar,Wednesday,5
+D7,2026-02-25,Store_26,23.068759,72.697658,20:00:00,30.97,medium,cloudy,9.86,27.88,0.8,North Ahmedabad,Wednesday,9
+D11,2026-03-01,Store_30,22.883967,72.765056,09:30:00,26.54,high,clear,5.69,18.54,0.57,Surat Hub,Sunday,9
+D7,2026-01-08,Store_34,22.966704,72.47893,09:00:00,21.03,medium,clear,5.32,13.68,0.54,Vadodara,Thursday,2
+D1,2026-02-20,Store_24,23.161929,72.616119,14:15:00,21.54,medium,clear,5.01,12.25,0.6,Vadodara,Friday,8
+D8,2026-02-01,Store_24,23.161929,72.616119,09:15:00,18.02,medium,cloudy,4.7,13.97,0.43,Vadodara,Sunday,5
+D5,2026-01-08,Store_52,22.965498,72.718903,12:45:00,20.0,high,clear,3.84,11.85,0.35,South Ahmedabad,Thursday,2
+D1,2026-04-17,Store_51,22.961994,72.831246,10:15:00,22.89,high,cloudy,5.9,21.12,0.66,North Ahmedabad,Friday,16
+D12,2026-05-01,Store_14,23.107669,72.644489,10:30:00,13.37,low,cloudy,16.48,34.97,1.29,Vadodara,Friday,18
+D10,2026-02-10,Store_35,23.159776,72.533139,18:30:00,21.62,medium,cloudy,8.22,20.93,0.62,Surat Hub,Tuesday,7
+D1,2026-05-10,Store_11,22.992922,72.435214,17:30:00,20.45,low,clear,4.75,8.7,0.44,North Ahmedabad,Sunday,19
+D4,2026-03-19,Store_48,22.752526,72.281978,08:30:00,17.11,medium,clear,10.28,29.09,0.87,Gandhinagar,Thursday,12
+D12,2026-01-25,Store_40,23.122594,72.509531,12:00:00,22.48,high,clear,9.98,34.21,0.81,Surat Hub,Sunday,4
+D5,2026-04-28,Store_43,22.831166,72.668794,14:30:00,15.74,medium,rain,6.82,20.51,0.78,Gandhinagar,Tuesday,18
+D10,2026-03-09,Store_36,22.81839,72.344743,10:45:00,26.92,high,clear,13.38,41.29,0.98,North Ahmedabad,Monday,11
+D5,2026-01-01,Store_26,23.068759,72.697658,16:15:00,15.26,medium,clear,1.56,4.0,0.12,North Ahmedabad,Thursday,1
+D11,2026-02-28,Store_37,22.875388,72.670832,17:30:00,15.7,medium,cloudy,12.3,33.04,1.25,South Ahmedabad,Saturday,9
+D9,2026-04-28,Store_57,22.927436,72.282188,09:00:00,21.89,low,clear,8.63,18.31,0.83,South Ahmedabad,Tuesday,18
+D6,2026-04-03,Store_34,22.966704,72.47893,08:15:00,20.69,high,clear,4.4,14.33,0.42,Vadodara,Friday,14
+D6,2026-05-06,Store_19,23.004268,72.403369,16:30:00,21.71,high,clear,6.49,21.14,0.77,Vadodara,Wednesday,19
+D9,2026-03-04,Store_17,22.940541,72.408645,17:15:00,17.89,medium,clear,12.06,34.12,1.12,South Ahmedabad,Wednesday,10
+D5,2026-01-24,Store_39,22.95414,72.603108,08:00:00,17.6,high,clear,4.4,13.58,0.36,Vadodara,Saturday,4
+D2,2026-05-15,Store_46,23.128962,72.551703,12:45:00,20.48,medium,clear,10.64,27.36,0.81,North Ahmedabad,Friday,20
+D6,2026-01-15,Store_21,23.141421,72.680031,08:30:00,21.19,low,clear,12.88,23.59,0.9,North Ahmedabad,Thursday,3
+D5,2026-01-28,Store_6,23.163204,72.726958,17:00:00,20.59,high,clear,7.71,23.79,0.78,North Ahmedabad,Wednesday,5
+D9,2026-01-26,Store_24,23.161929,72.616119,12:00:00,25.92,medium,clear,5.53,15.63,0.46,Vadodara,Monday,5
+D12,2026-03-06,Store_52,22.965498,72.718903,14:30:00,30.24,medium,clear,10.52,27.04,0.77,South Ahmedabad,Friday,10
+D5,2026-02-06,Store_3,22.710334,72.310964,17:45:00,20.06,high,cloudy,6.23,21.16,0.5,Gandhinagar,Friday,6
+D12,2026-04-02,Store_20,22.890583,72.701519,09:30:00,31.47,high,clear,6.46,22.16,0.73,Surat Hub,Thursday,14
+D2,2026-05-09,Store_9,23.0815,72.379623,20:15:00,21.5,high,cloudy,15.33,57.83,1.65,Vadodara,Saturday,19
+D12,2026-03-22,Store_56,23.092008,72.618947,09:30:00,9.3,medium,rain,5.88,19.65,0.52,North Ahmedabad,Sunday,12
+D12,2026-01-28,Store_47,22.954772,72.555456,17:00:00,15.4,medium,clear,1.2,4.0,0.11,South Ahmedabad,Wednesday,5
+D7,2026-05-01,Store_24,23.161929,72.616119,17:30:00,20.87,medium,rain,17.15,57.33,1.28,Vadodara,Friday,18
+D9,2026-03-19,Store_5,23.019812,72.400791,17:30:00,42.98,medium,clear,8.25,23.33,0.65,Surat Hub,Thursday,12
+D12,2026-02-09,Store_23,23.04117,72.615138,10:15:00,22.64,medium,cloudy,4.11,11.63,0.3,Gandhinagar,Monday,7
+D1,2026-05-09,Store_3,22.710334,72.310964,10:15:00,18.4,low,cloudy,3.58,7.21,0.28,Gandhinagar,Saturday,19
+D7,2026-01-21,Store_56,23.092008,72.618947,20:30:00,13.18,medium,clear,7.51,19.32,0.62,North Ahmedabad,Wednesday,4
+D6,2026-01-23,Store_25,23.131126,72.584916,17:15:00,28.22,high,cloudy,6.66,23.88,0.58,Surat Hub,Friday,4
+D9,2026-01-06,Store_37,22.875388,72.670832,16:45:00,30.12,medium,clear,1.2,4.0,0.12,South Ahmedabad,Tuesday,2
+D10,2026-01-29,Store_29,22.978477,72.870388,17:45:00,27.21,high,cloudy,7.19,24.41,0.72,Vadodara,Thursday,5
+D4,2026-02-28,Store_40,23.122594,72.509531,17:15:00,20.58,medium,clear,9.91,28.03,1.13,Surat Hub,Saturday,9
+D6,2026-05-14,Store_15,23.088537,72.657564,17:15:00,44.45,high,clear,9.09,29.61,0.91,Surat Hub,Thursday,20
+D1,2026-04-02,Store_32,23.04854,72.688644,10:30:00,26.71,high,clear,14.71,47.91,1.54,South Ahmedabad,Thursday,14
+D11,2026-04-20,Store_58,23.034041,72.465501,09:00:00,24.98,high,clear,12.29,40.04,1.43,Gandhinagar,Monday,17
+D3,2026-03-20,Store_27,22.789355,72.507466,20:15:00,27.23,medium,clear,5.34,14.41,0.46,South Ahmedabad,Friday,12
+D5,2026-04-07,Store_6,23.163204,72.726958,17:00:00,19.36,medium,clear,6.52,15.09,0.69,North Ahmedabad,Tuesday,15
+D7,2026-02-19,Store_10,23.163052,72.561415,09:00:00,19.33,high,clear,10.09,34.61,0.8,Surat Hub,Thursday,8
+D9,2026-04-12,Store_18,23.121057,72.797194,08:15:00,22.61,high,clear,18.7,70.51,1.77,Gandhinagar,Sunday,15
+D10,2026-04-20,Store_2,23.142572,72.759513,20:00:00,27.93,high,rain,5.1,20.46,0.51,South Ahmedabad,Monday,17
+D1,2026-02-20,Store_1,23.071255,72.363403,16:15:00,16.11,medium,cloudy,11.49,30.89,0.92,North Ahmedabad,Friday,8
+D1,2026-05-13,Store_46,23.128962,72.551703,09:00:00,10.41,high,cloudy,14.09,50.47,1.18,North Ahmedabad,Wednesday,20
+D3,2026-04-26,Store_25,23.131126,72.584916,14:15:00,37.14,medium,clear,15.34,41.41,1.21,Surat Hub,Sunday,17
+D12,2026-05-11,Store_37,22.875388,72.670832,09:30:00,28.61,high,clear,15.59,53.44,1.18,South Ahmedabad,Monday,20
+D1,2026-01-15,Store_46,23.128962,72.551703,08:30:00,22.73,high,cloudy,9.34,33.47,0.7,North Ahmedabad,Thursday,3
+D5,2026-03-30,Store_39,22.95414,72.603108,20:00:00,18.61,medium,cloudy,8.37,21.32,0.78,Vadodara,Monday,14
+D7,2026-03-22,Store_40,23.122594,72.509531,08:45:00,24.65,low,clear,1.2,4.0,0.14,Surat Hub,Sunday,12
+D10,2026-05-04,Store_50,23.086464,72.390304,12:00:00,36.97,high,clear,9.73,30.01,0.84,Surat Hub,Monday,19
+D6,2026-05-01,Store_22,22.916018,72.617832,20:15:00,18.26,medium,clear,8.22,20.09,0.78,South Ahmedabad,Friday,18
+D8,2026-01-16,Store_28,22.94724,72.443624,18:30:00,27.95,medium,clear,7.45,20.11,0.74,Gandhinagar,Friday,3
+D6,2026-01-15,Store_40,23.122594,72.509531,12:30:00,23.42,medium,clear,3.24,7.92,0.26,Surat Hub,Thursday,3
+D6,2026-01-21,Store_38,23.045288,72.709497,12:30:00,23.72,medium,clear,5.02,12.26,0.58,Gandhinagar,Wednesday,4
+D12,2026-02-12,Store_9,23.0815,72.379623,20:00:00,20.13,high,clear,13.49,46.25,1.18,Vadodara,Thursday,7
+D5,2026-04-28,Store_23,23.04117,72.615138,10:45:00,15.49,high,clear,8.63,26.63,0.84,Gandhinagar,Tuesday,18
+D1,2026-03-25,Store_27,22.789355,72.507466,14:30:00,25.67,medium,rain,1.6,5.08,0.15,South Ahmedabad,Wednesday,13
+D11,2026-02-10,Store_59,23.059728,72.57577,10:00:00,26.29,medium,cloudy,8.33,22.39,0.72,Vadodara,Tuesday,7
+D5,2026-04-04,Store_18,23.121057,72.797194,20:00:00,15.48,medium,clear,9.82,22.74,0.81,Gandhinagar,Saturday,14
+D8,2026-04-03,Store_53,22.873121,72.530312,09:00:00,21.97,high,clear,10.53,37.91,1.19,Gandhinagar,Friday,14
+D11,2026-02-15,Store_1,23.071255,72.363403,20:00:00,29.78,medium,rain,8.36,26.54,0.75,North Ahmedabad,Sunday,7
+D8,2026-02-15,Store_58,23.034041,72.465501,17:30:00,10.86,high,cloudy,10.89,43.14,1.1,Gandhinagar,Sunday,7
+D5,2026-03-01,Store_37,22.875388,72.670832,16:45:00,16.15,low,cloudy,7.91,15.11,0.72,South Ahmedabad,Sunday,9
+D3,2026-03-22,Store_31,22.753241,72.504423,14:15:00,24.84,low,rain,6.49,17.09,0.64,North Ahmedabad,Sunday,12
+D1,2026-01-09,Store_29,22.978477,72.870388,12:30:00,26.02,high,clear,4.36,14.2,0.45,Vadodara,Friday,2
+D6,2026-03-29,Store_53,22.873121,72.530312,12:00:00,16.08,high,cloudy,5.54,19.86,0.47,Gandhinagar,Sunday,13
+D7,2026-03-31,Store_10,23.163052,72.561415,08:30:00,21.4,high,cloudy,9.98,37.64,0.85,Surat Hub,Tuesday,14
+D3,2026-02-28,Store_44,22.947396,72.573899,12:00:00,22.44,low,clear,5.38,10.9,0.57,Vadodara,Saturday,9
+D6,2026-01-07,Store_11,22.992922,72.435214,12:30:00,12.75,high,cloudy,8.55,30.64,0.63,North Ahmedabad,Wednesday,2
+D12,2026-03-02,Store_17,22.940541,72.408645,18:00:00,26.07,medium,cloudy,4.35,12.31,0.35,South Ahmedabad,Monday,10
+D9,2026-05-08,Store_48,22.752526,72.281978,09:45:00,20.63,high,clear,9.41,35.49,0.72,Gandhinagar,Friday,19
+D1,2026-01-30,Store_60,23.278785,72.523529,10:30:00,19.63,high,cloudy,3.65,13.08,0.41,Surat Hub,Friday,5
+D9,2026-02-20,Store_38,23.045288,72.709497,14:30:00,21.61,high,clear,3.44,12.99,0.3,Gandhinagar,Friday,8
+D11,2026-05-02,Store_32,23.04854,72.688644,09:15:00,25.36,medium,clear,7.84,19.14,0.63,South Ahmedabad,Saturday,18
+D12,2026-04-18,Store_7,23.033065,72.796848,14:45:00,31.75,low,clear,2.86,5.51,0.22,South Ahmedabad,Saturday,16
+D8,2026-05-07,Store_41,23.095584,72.439015,08:45:00,21.25,high,clear,3.41,12.26,0.33,North Ahmedabad,Thursday,19
+D2,2026-02-28,Store_49,22.810868,72.371951,18:45:00,24.43,low,cloudy,8.15,17.3,0.97,Vadodara,Saturday,9
+D12,2026-04-07,Store_39,22.95414,72.603108,09:00:00,18.69,high,rain,4.07,18.14,0.44,Vadodara,Tuesday,15
+D4,2026-01-10,Store_19,23.004268,72.403369,18:00:00,27.61,high,rain,9.22,45.18,1.06,Vadodara,Saturday,2
+D4,2026-02-11,Store_10,23.163052,72.561415,18:15:00,35.14,high,rain,7.1,34.81,0.71,Surat Hub,Wednesday,7
+D12,2026-04-04,Store_4,23.042954,72.508151,12:45:00,23.38,medium,cloudy,8.93,25.25,0.93,Vadodara,Saturday,14
+D7,2026-01-10,Store_1,23.071255,72.363403,20:00:00,21.36,high,rain,6.86,30.57,0.74,North Ahmedabad,Saturday,2
+D4,2026-04-16,Store_12,23.218107,72.540494,16:00:00,19.09,low,clear,1.42,4.0,0.1,South Ahmedabad,Thursday,16
+D3,2026-05-08,Store_21,23.141421,72.680031,20:30:00,10.02,medium,clear,16.56,44.7,1.45,North Ahmedabad,Friday,19
+D10,2026-04-15,Store_49,22.810868,72.371951,18:45:00,24.18,medium,clear,13.33,30.86,1.41,Vadodara,Wednesday,16
+D9,2026-03-18,Store_22,22.916018,72.617832,08:30:00,12.91,high,rain,1.2,5.88,0.1,South Ahmedabad,Wednesday,12
+D2,2026-04-14,Store_49,22.810868,72.371951,17:45:00,18.71,high,clear,11.02,37.8,0.84,Vadodara,Tuesday,16
+D3,2026-01-16,Store_54,22.870496,72.503593,16:45:00,20.41,medium,rain,9.53,33.44,0.86,Vadodara,Friday,3
+D10,2026-03-26,Store_42,22.964411,72.495052,14:45:00,18.67,medium,cloudy,10.7,27.23,0.78,South Ahmedabad,Thursday,13
+D5,2026-04-16,Store_49,22.810868,72.371951,08:30:00,23.39,high,cloudy,10.11,34.31,0.86,Vadodara,Thursday,16
+D6,2026-01-29,Store_21,23.141421,72.680031,12:15:00,31.2,high,cloudy,1.22,4.36,0.11,North Ahmedabad,Thursday,5
+D6,2026-01-23,Store_29,22.978477,72.870388,09:30:00,25.95,medium,cloudy,14.54,39.06,1.26,Vadodara,Friday,4
+D5,2026-04-02,Store_38,23.045288,72.709497,08:30:00,25.59,high,clear,13.31,41.06,1.18,Gandhinagar,Thursday,14
+D12,2026-02-16,Store_37,22.875388,72.670832,14:15:00,27.2,medium,rain,5.15,17.23,0.39,South Ahmedabad,Monday,8
+D12,2026-04-20,Store_41,23.095584,72.439015,18:45:00,28.22,low,clear,6.56,12.65,0.65,North Ahmedabad,Monday,17
+D8,2026-03-13,Store_27,22.789355,72.507466,10:30:00,11.74,high,clear,9.32,33.55,0.97,South Ahmedabad,Friday,11
+D7,2026-02-16,Store_23,23.04117,72.615138,17:45:00,19.98,low,clear,8.68,16.74,0.66,Gandhinagar,Monday,8
+D6,2026-01-22,Store_5,23.019812,72.400791,12:00:00,28.5,high,clear,13.26,43.18,1.13,Surat Hub,Thursday,4
+D3,2026-02-01,Store_30,22.883967,72.765056,20:45:00,27.33,medium,clear,7.95,21.48,0.89,Surat Hub,Sunday,5
+D12,2026-01-12,Store_8,23.097301,72.399542,16:45:00,23.93,medium,cloudy,7.71,21.81,0.58,Gandhinagar,Monday,3
+D2,2026-04-28,Store_27,22.789355,72.507466,08:30:00,19.08,high,clear,9.06,31.05,0.84,South Ahmedabad,Tuesday,18
+D4,2026-05-04,Store_34,22.966704,72.47893,16:30:00,37.23,medium,clear,13.16,37.23,1.27,Vadodara,Monday,19
+D7,2026-02-08,Store_38,23.045288,72.709497,16:15:00,14.9,medium,cloudy,2.04,5.78,0.19,Gandhinagar,Sunday,6
+D9,2026-01-02,Store_9,23.0815,72.379623,10:30:00,28.76,medium,clear,14.27,40.37,1.63,Vadodara,Friday,1
+D3,2026-01-07,Store_7,23.033065,72.796848,09:45:00,23.23,medium,clear,7.45,20.12,0.61,South Ahmedabad,Wednesday,2
+D7,2026-02-25,Store_39,22.95414,72.603108,18:30:00,19.74,high,cloudy,7.19,27.13,0.52,Vadodara,Wednesday,9
+D6,2026-02-06,Store_11,22.992922,72.435214,16:00:00,27.3,medium,cloudy,10.9,29.3,1.01,North Ahmedabad,Friday,6
+D10,2026-01-07,Store_32,23.04854,72.688644,16:15:00,14.02,medium,clear,6.89,15.95,0.49,South Ahmedabad,Wednesday,2
+D1,2026-01-22,Store_60,23.278785,72.523529,10:15:00,21.77,high,clear,6.86,22.33,0.69,Surat Hub,Thursday,4
+D8,2026-04-22,Store_18,23.121057,72.797194,08:15:00,17.38,medium,rain,12.39,43.49,1.34,Gandhinagar,Wednesday,17
+D5,2026-02-18,Store_51,22.961994,72.831246,16:00:00,26.4,medium,clear,14.54,33.66,1.5,North Ahmedabad,Wednesday,8
+D9,2026-02-21,Store_35,23.159776,72.533139,10:00:00,16.27,high,clear,11.22,42.33,1.33,Surat Hub,Saturday,8
+D6,2026-05-08,Store_59,23.059728,72.57577,10:30:00,29.23,medium,cloudy,13.54,36.37,1.26,Vadodara,Friday,19
+D1,2026-01-17,Store_36,22.81839,72.344743,09:30:00,29.95,low,clear,7.29,13.36,0.8,North Ahmedabad,Saturday,3
+D2,2026-05-01,Store_24,23.161929,72.616119,17:45:00,28.66,low,cloudy,3.13,6.63,0.24,Vadodara,Friday,18
+D6,2026-04-26,Store_31,22.753241,72.504423,20:30:00,21.64,high,rain,8.29,35.08,0.93,North Ahmedabad,Sunday,17
+D2,2026-05-02,Store_48,22.752526,72.281978,08:00:00,32.24,high,clear,11.98,41.08,0.91,Gandhinagar,Saturday,18
+D4,2026-01-03,Store_55,23.156949,72.225936,18:45:00,27.6,high,clear,15.53,58.57,1.44,Surat Hub,Saturday,1
+D10,2026-01-01,Store_46,23.128962,72.551703,20:45:00,32.31,medium,clear,9.07,20.99,0.76,North Ahmedabad,Thursday,1
+D6,2026-03-12,Store_43,22.831166,72.668794,14:15:00,25.45,high,clear,9.35,30.47,0.72,Gandhinagar,Thursday,11
+D8,2026-03-21,Store_15,23.088537,72.657564,18:45:00,23.55,medium,clear,7.26,19.61,0.63,Surat Hub,Saturday,12
+D12,2026-05-02,Store_19,23.004268,72.403369,09:15:00,25.55,low,clear,12.26,23.65,0.87,Vadodara,Saturday,18
+D1,2026-01-26,Store_7,23.033065,72.796848,14:45:00,15.27,high,clear,3.62,11.8,0.29,South Ahmedabad,Monday,5
+D3,2026-01-05,Store_8,23.097301,72.399542,08:30:00,29.35,low,cloudy,1.2,4.0,0.1,Gandhinagar,Monday,2
+D1,2026-04-13,Store_42,22.964411,72.495052,08:00:00,11.15,high,cloudy,11.42,40.92,1.11,South Ahmedabad,Monday,16
+D1,2026-03-31,Store_23,23.04117,72.615138,14:00:00,19.54,medium,cloudy,13.71,36.85,1.62,Gandhinagar,Tuesday,14
+D3,2026-05-18,Store_1,23.071255,72.363403,10:00:00,22.73,high,clear,8.14,29.31,0.96,North Ahmedabad,Monday,21
+D7,2026-02-27,Store_5,23.019812,72.400791,12:45:00,22.63,low,rain,8.52,21.35,0.75,Surat Hub,Friday,9
+D2,2026-04-07,Store_11,22.992922,72.435214,08:15:00,26.23,medium,clear,8.18,21.04,0.62,North Ahmedabad,Tuesday,15
+D2,2026-02-10,Store_20,22.890583,72.701519,17:30:00,30.53,medium,clear,1.2,4.0,0.1,Surat Hub,Tuesday,7
+D11,2026-01-26,Store_10,23.163052,72.561415,09:15:00,16.7,medium,clear,9.35,22.85,0.96,Surat Hub,Monday,5
+D5,2026-04-19,Store_44,22.947396,72.573899,18:15:00,13.47,medium,cloudy,4.29,10.91,0.36,Vadodara,Sunday,16
+D11,2026-03-01,Store_13,22.953968,72.500973,12:00:00,16.12,low,clear,4.86,8.9,0.48,Gandhinagar,Sunday,9
+D12,2026-02-17,Store_12,23.218107,72.540494,18:30:00,25.68,high,cloudy,7.88,29.73,0.94,South Ahmedabad,Tuesday,8
+D5,2026-03-01,Store_34,22.966704,72.47893,12:15:00,31.72,medium,rain,9.96,29.95,0.88,Vadodara,Sunday,9
+D12,2026-03-02,Store_2,23.142572,72.759513,14:00:00,26.54,high,cloudy,5.11,19.27,0.54,South Ahmedabad,Monday,10
+D2,2026-02-06,Store_43,22.831166,72.668794,16:30:00,18.8,high,clear,12.18,41.77,0.88,Gandhinagar,Friday,6
+D2,2026-02-28,Store_29,22.978477,72.870388,09:45:00,25.87,medium,rain,8.1,27.06,0.63,Vadodara,Saturday,9
+D11,2026-04-05,Store_24,23.161929,72.616119,10:15:00,24.99,low,cloudy,9.15,18.45,0.75,Vadodara,Sunday,14
+D4,2026-01-22,Store_40,23.122594,72.509531,17:30:00,17.01,medium,clear,3.95,11.17,0.39,Surat Hub,Thursday,4
+D1,2026-01-21,Store_34,22.966704,72.47893,08:30:00,13.3,medium,clear,17.12,41.82,1.98,Vadodara,Wednesday,4
+D12,2026-03-10,Store_58,23.034041,72.465501,09:45:00,26.27,medium,clear,11.76,30.25,1.32,Gandhinagar,Tuesday,11
+D6,2026-03-21,Store_58,23.034041,72.465501,09:30:00,28.1,low,cloudy,10.45,21.06,1.22,Gandhinagar,Saturday,12
+D8,2026-05-15,Store_22,22.916018,72.617832,10:30:00,32.45,high,clear,6.15,22.13,0.71,South Ahmedabad,Friday,20
+D7,2026-05-09,Store_60,23.278785,72.523529,08:30:00,23.71,medium,clear,7.35,18.9,0.53,Surat Hub,Saturday,19
+D6,2026-04-09,Store_44,22.947396,72.573899,18:15:00,19.38,low,cloudy,6.47,13.04,0.6,Vadodara,Thursday,15
+D1,2026-01-31,Store_37,22.875388,72.670832,08:30:00,24.95,low,cloudy,11.78,23.75,1.27,South Ahmedabad,Saturday,5
+D6,2026-01-09,Store_24,23.161929,72.616119,10:45:00,26.42,medium,clear,2.33,5.68,0.22,Vadodara,Friday,2
+D3,2026-05-16,Store_17,22.940541,72.408645,18:15:00,33.77,medium,rain,9.99,35.07,0.77,South Ahmedabad,Saturday,20
+D2,2026-04-22,Store_19,23.004268,72.403369,16:45:00,18.15,medium,rain,13.91,46.49,1.48,Vadodara,Wednesday,17
+D11,2026-01-13,Store_5,23.019812,72.400791,18:30:00,18.79,medium,cloudy,7.01,18.84,0.82,Surat Hub,Tuesday,3
+D11,2026-01-22,Store_9,23.0815,72.379623,14:30:00,26.02,medium,cloudy,10.8,29.01,0.88,Vadodara,Thursday,4
+D3,2026-02-22,Store_45,23.099419,72.660706,08:45:00,35.27,medium,clear,3.45,9.32,0.31,Surat Hub,Sunday,8
+D1,2026-02-04,Store_28,22.94724,72.443624,20:15:00,22.22,medium,clear,3.94,9.63,0.36,Gandhinagar,Wednesday,6
+D7,2026-02-17,Store_28,22.94724,72.443624,17:00:00,32.29,high,rain,8.78,39.12,0.74,Gandhinagar,Tuesday,8
+D11,2026-03-31,Store_59,23.059728,72.57577,17:45:00,19.27,medium,cloudy,7.57,20.35,0.82,Vadodara,Tuesday,14
+D5,2026-03-02,Store_47,22.954772,72.555456,14:15:00,30.94,medium,rain,9.07,27.3,0.79,South Ahmedabad,Monday,10
+D2,2026-03-31,Store_56,23.092008,72.618947,09:30:00,28.16,high,clear,5.25,17.99,0.51,North Ahmedabad,Tuesday,14
+D2,2026-04-09,Store_28,22.94724,72.443624,08:45:00,26.57,high,cloudy,9.38,35.36,0.8,Gandhinagar,Thursday,15
+D9,2026-05-03,Store_16,23.365164,72.490117,12:15:00,22.12,medium,rain,7.17,26.38,0.56,North Ahmedabad,Sunday,18
+D3,2026-05-03,Store_32,23.04854,72.688644,09:15:00,22.06,high,clear,7.97,28.69,0.68,South Ahmedabad,Sunday,18
+D3,2026-01-19,Store_23,23.04117,72.615138,17:30:00,15.78,high,clear,2.97,10.69,0.23,Gandhinagar,Monday,4
+D4,2026-01-30,Store_7,23.033065,72.796848,14:00:00,16.88,medium,cloudy,13.77,42.85,1.41,South Ahmedabad,Friday,5
+D2,2026-01-30,Store_26,23.068759,72.697658,17:00:00,23.32,medium,rain,6.1,20.39,0.56,North Ahmedabad,Friday,5
+D4,2026-01-29,Store_8,23.097301,72.399542,17:45:00,20.07,medium,clear,10.5,29.71,0.78,Gandhinagar,Thursday,5
+D11,2026-01-04,Store_18,23.121057,72.797194,12:00:00,24.24,medium,clear,7.65,18.69,0.58,Gandhinagar,Sunday,1
+D8,2026-05-09,Store_32,23.04854,72.688644,12:30:00,27.85,medium,clear,15.41,41.61,1.46,South Ahmedabad,Saturday,19
+D9,2026-05-08,Store_38,23.045288,72.709497,17:45:00,29.4,medium,clear,3.12,8.83,0.33,Gandhinagar,Friday,19
+D5,2026-04-17,Store_7,23.033065,72.796848,10:15:00,15.13,medium,clear,6.15,14.24,0.58,South Ahmedabad,Friday,16
+D2,2026-04-12,Store_49,22.810868,72.371951,17:30:00,20.57,low,cloudy,5.49,11.64,0.54,Vadodara,Sunday,15
+D5,2026-04-30,Store_22,22.916018,72.617832,17:00:00,29.59,high,rain,7.05,28.27,0.84,South Ahmedabad,Thursday,18
+D9,2026-03-21,Store_35,23.159776,72.533139,08:00:00,36.69,medium,clear,15.9,44.96,1.71,Surat Hub,Saturday,12
+D2,2026-03-07,Store_60,23.278785,72.523529,17:45:00,21.98,high,rain,8.93,39.81,0.63,Surat Hub,Saturday,10
+D4,2026-05-19,Store_22,22.916018,72.617832,16:15:00,22.99,high,clear,14.55,54.86,1.34,South Ahmedabad,Tuesday,21
+D4,2026-03-08,Store_12,23.218107,72.540494,16:15:00,22.18,high,clear,13.77,51.95,1.5,South Ahmedabad,Sunday,10
+D3,2026-01-06,Store_54,22.870496,72.503593,08:45:00,20.59,medium,cloudy,9.99,29.67,0.79,Vadodara,Tuesday,2
+D3,2026-04-16,Store_13,22.953968,72.500973,12:00:00,20.87,high,cloudy,15.04,59.54,1.78,Gandhinagar,Thursday,16
+D3,2026-03-04,Store_22,22.916018,72.617832,09:00:00,20.45,medium,rain,9.96,34.96,0.95,South Ahmedabad,Wednesday,10
+D3,2026-01-12,Store_18,23.121057,72.797194,20:15:00,25.75,high,clear,15.27,54.96,1.16,Gandhinagar,Monday,3
+D12,2026-03-24,Store_3,22.710334,72.310964,17:30:00,23.94,high,clear,11.38,39.01,0.94,Gandhinagar,Tuesday,13
+D1,2026-04-29,Store_58,23.034041,72.465501,14:00:00,30.91,high,clear,17.21,56.06,1.93,Gandhinagar,Wednesday,18
+D12,2026-01-11,Store_49,22.810868,72.371951,12:00:00,33.49,high,clear,8.46,29.0,0.78,Vadodara,Sunday,2
+D6,2026-02-19,Store_7,23.033065,72.796848,20:00:00,22.14,medium,cloudy,4.48,12.04,0.45,South Ahmedabad,Thursday,8
+D10,2026-05-06,Store_18,23.121057,72.797194,14:30:00,32.55,high,cloudy,5.78,19.61,0.62,Gandhinagar,Wednesday,19
+D5,2026-05-16,Store_1,23.071255,72.363403,18:45:00,33.34,medium,cloudy,7.9,20.12,0.65,North Ahmedabad,Saturday,20
+D7,2026-01-01,Store_2,23.142572,72.759513,18:45:00,27.79,medium,clear,14.74,37.91,1.62,South Ahmedabad,Thursday,1
+D12,2026-05-20,Store_47,22.954772,72.555456,09:15:00,20.78,medium,clear,9.33,23.99,0.71,South Ahmedabad,Wednesday,21
+D12,2026-02-08,Store_23,23.04117,72.615138,17:00:00,25.65,low,rain,14.46,36.26,1.02,Gandhinagar,Sunday,6
+D6,2026-04-11,Store_25,23.131126,72.584916,14:15:00,22.28,low,rain,8.47,20.16,0.95,Surat Hub,Saturday,15
+D12,2026-02-04,Store_1,23.071255,72.363403,17:15:00,22.77,medium,clear,5.71,14.68,0.66,North Ahmedabad,Wednesday,6
+D12,2026-03-31,Store_32,23.04854,72.688644,09:30:00,22.47,high,cloudy,11.67,44.03,1.16,South Ahmedabad,Tuesday,14
+D3,2026-04-21,Store_28,22.94724,72.443624,09:15:00,22.98,high,cloudy,9.55,37.8,1.06,Gandhinagar,Tuesday,17
+D8,2026-01-29,Store_45,23.099419,72.660706,16:15:00,23.71,low,clear,7.46,15.11,0.64,Surat Hub,Thursday,5
+D9,2026-04-03,Store_35,23.159776,72.533139,16:45:00,20.39,medium,clear,8.38,23.71,0.99,Surat Hub,Friday,14
+D7,2026-04-21,Store_16,23.365164,72.490117,10:15:00,21.76,high,clear,1.2,4.11,0.13,North Ahmedabad,Tuesday,17
+D10,2026-04-23,Store_58,23.034041,72.465501,09:15:00,22.98,high,clear,11.68,36.05,1.07,Gandhinagar,Thursday,17
+D8,2026-04-06,Store_3,22.710334,72.310964,12:00:00,24.48,high,clear,5.61,20.21,0.64,Gandhinagar,Monday,15
+D6,2026-03-25,Store_3,22.710334,72.310964,09:45:00,28.39,medium,rain,9.42,29.91,0.88,Gandhinagar,Wednesday,13
+D8,2026-03-05,Store_47,22.954772,72.555456,18:00:00,29.63,high,clear,10.08,36.29,0.77,South Ahmedabad,Thursday,10
+D6,2026-04-12,Store_35,23.159776,72.533139,09:30:00,17.97,medium,rain,14.43,45.82,1.37,Surat Hub,Sunday,15
+D6,2026-01-24,Store_27,22.789355,72.507466,16:30:00,19.4,low,clear,12.93,23.68,1.31,South Ahmedabad,Saturday,4
+D1,2026-03-29,Store_23,23.04117,72.615138,17:45:00,20.45,high,cloudy,3.94,14.12,0.35,Gandhinagar,Sunday,13
+D5,2026-02-28,Store_5,23.019812,72.400791,12:00:00,24.96,medium,clear,7.8,18.06,0.77,Surat Hub,Saturday,9
+D8,2026-04-23,Store_33,23.136296,72.730069,18:30:00,19.77,high,clear,4.25,15.31,0.42,Gandhinagar,Thursday,17
+D3,2026-04-21,Store_24,23.161929,72.616119,16:15:00,25.51,medium,clear,8.18,22.09,0.61,Vadodara,Tuesday,17
+D5,2026-03-27,Store_6,23.163204,72.726958,12:30:00,21.15,high,clear,10.25,31.62,1.18,North Ahmedabad,Friday,13
+D6,2026-03-03,Store_51,22.961994,72.831246,17:00:00,26.72,high,clear,15.72,51.19,1.56,North Ahmedabad,Tuesday,10
+D8,2026-05-08,Store_58,23.034041,72.465501,10:30:00,27.3,high,cloudy,13.82,54.72,1.24,Gandhinagar,Friday,19
+D1,2026-02-18,Store_6,23.163204,72.726958,12:30:00,25.74,high,clear,8.26,26.89,0.8,North Ahmedabad,Wednesday,8
+D3,2026-02-19,Store_31,22.753241,72.504423,12:30:00,22.49,medium,cloudy,10.95,32.51,1.04,North Ahmedabad,Thursday,8
+D2,2026-03-05,Store_39,22.95414,72.603108,17:30:00,24.35,high,clear,18.62,63.85,1.85,Vadodara,Thursday,10
+D2,2026-03-30,Store_12,23.218107,72.540494,17:30:00,19.85,medium,cloudy,9.92,28.07,1.02,South Ahmedabad,Monday,14
+D4,2026-03-11,Store_51,22.961994,72.831246,18:15:00,26.21,high,clear,11.64,43.91,1.27,North Ahmedabad,Wednesday,11
+D10,2026-01-24,Store_38,23.045288,72.709497,10:15:00,22.58,low,clear,5.2,9.02,0.41,Gandhinagar,Saturday,4
+D2,2026-01-18,Store_2,23.142572,72.759513,16:45:00,30.25,high,clear,10.28,35.23,1.01,South Ahmedabad,Sunday,3
+D9,2026-01-03,Store_39,22.95414,72.603108,16:45:00,21.41,medium,clear,1.2,4.0,0.14,Vadodara,Saturday,1
+D4,2026-02-26,Store_55,23.156949,72.225936,08:00:00,28.09,high,rain,7.78,38.13,0.93,Surat Hub,Thursday,9
+D2,2026-04-12,Store_9,23.0815,72.379623,16:15:00,25.29,low,clear,6.83,13.17,0.8,Vadodara,Sunday,15
+D5,2026-05-20,Store_51,22.961994,72.831246,17:15:00,26.92,medium,clear,1.27,4.0,0.11,North Ahmedabad,Wednesday,21
+D8,2026-01-31,Store_14,23.107669,72.644489,09:00:00,19.01,high,clear,11.12,40.03,0.98,Vadodara,Saturday,5
+D4,2026-03-14,Store_42,22.964411,72.495052,16:00:00,14.05,medium,cloudy,15.79,49.12,1.38,South Ahmedabad,Saturday,11
+D2,2026-02-01,Store_26,23.068759,72.697658,08:30:00,29.14,medium,cloudy,14.8,41.86,1.52,North Ahmedabad,Sunday,5
+D6,2026-02-25,Store_6,23.163204,72.726958,20:45:00,10.53,high,clear,9.55,31.1,0.97,North Ahmedabad,Wednesday,9
+D4,2026-03-29,Store_29,22.978477,72.870388,08:15:00,28.66,low,clear,1.2,4.0,0.08,Vadodara,Sunday,13
+D11,2026-03-26,Store_32,23.04854,72.688644,10:45:00,25.57,medium,cloudy,2.75,7.38,0.3,South Ahmedabad,Thursday,13
+D4,2026-04-15,Store_50,23.086464,72.390304,20:45:00,20.33,medium,cloudy,14.69,45.7,1.57,Surat Hub,Wednesday,16
+D1,2026-04-15,Store_49,22.810868,72.371951,10:45:00,21.91,high,clear,11.27,36.72,1.24,Vadodara,Wednesday,16
+D8,2026-02-28,Store_28,22.94724,72.443624,10:30:00,19.28,low,clear,10.55,21.37,1.25,Gandhinagar,Saturday,9
+D9,2026-02-03,Store_25,23.131126,72.584916,14:30:00,22.88,high,cloudy,14.31,59.35,1.4,Surat Hub,Tuesday,6
+D8,2026-01-10,Store_53,22.873121,72.530312,17:15:00,22.18,medium,clear,17.2,46.44,1.87,Gandhinagar,Saturday,2
+D11,2026-04-12,Store_56,23.092008,72.618947,17:30:00,28.93,high,cloudy,15.04,53.88,1.53,North Ahmedabad,Sunday,15
+D6,2026-04-11,Store_2,23.142572,72.759513,10:15:00,13.27,medium,clear,5.79,14.14,0.46,South Ahmedabad,Saturday,15
+D10,2026-03-22,Store_27,22.789355,72.507466,08:15:00,33.53,medium,clear,6.39,14.8,0.63,South Ahmedabad,Sunday,12
+D9,2026-04-19,Store_54,22.870496,72.503593,09:15:00,25.67,high,cloudy,7.98,33.12,0.64,Vadodara,Sunday,16
+D10,2026-04-21,Store_1,23.071255,72.363403,20:30:00,19.23,high,clear,9.97,30.76,1.01,North Ahmedabad,Tuesday,17
+D3,2026-03-25,Store_49,22.810868,72.371951,08:00:00,18.3,low,clear,9.06,18.35,0.87,Vadodara,Wednesday,13
+D10,2026-04-22,Store_10,23.163052,72.561415,17:45:00,9.65,medium,rain,1.2,4.0,0.14,Surat Hub,Wednesday,17
+D7,2026-03-25,Store_12,23.218107,72.540494,18:30:00,22.09,medium,cloudy,10.18,28.79,0.98,South Ahmedabad,Wednesday,13
+D7,2026-01-11,Store_56,23.092008,72.618947,08:45:00,21.64,medium,clear,11.62,29.88,0.83,North Ahmedabad,Sunday,2
+D7,2026-01-04,Store_3,22.710334,72.310964,20:30:00,33.32,high,clear,13.67,46.86,1.13,Gandhinagar,Sunday,1
+D8,2026-03-27,Store_60,23.278785,72.523529,08:45:00,27.87,medium,clear,17.91,48.35,1.81,Surat Hub,Friday,13
+D3,2026-01-15,Store_49,22.810868,72.371951,18:30:00,22.88,high,cloudy,6.04,23.92,0.71,Vadodara,Thursday,3
+D12,2026-05-15,Store_10,23.163052,72.561415,10:15:00,29.56,medium,clear,3.41,8.76,0.3,Surat Hub,Friday,20
+D12,2026-03-02,Store_3,22.710334,72.310964,12:00:00,19.73,high,clear,11.84,40.59,0.93,Gandhinagar,Monday,10
+D11,2026-01-02,Store_5,23.019812,72.400791,08:15:00,22.75,medium,cloudy,4.09,10.98,0.37,Surat Hub,Friday,1
+D1,2026-04-10,Store_6,23.163204,72.726958,09:30:00,15.8,medium,clear,3.44,8.42,0.28,North Ahmedabad,Friday,15
+D6,2026-05-20,Store_24,23.161929,72.616119,20:00:00,15.84,high,cloudy,11.69,41.88,1.19,Vadodara,Wednesday,21
+D9,2026-04-16,Store_11,22.992922,72.435214,10:30:00,12.22,medium,clear,17.48,49.44,1.96,North Ahmedabad,Thursday,16
+D6,2026-04-18,Store_55,23.156949,72.225936,10:30:00,23.8,medium,clear,2.53,6.17,0.22,Surat Hub,Saturday,16
+D10,2026-02-05,Store_50,23.086464,72.390304,08:30:00,16.59,medium,clear,9.36,21.67,0.81,Surat Hub,Thursday,6
+D6,2026-01-21,Store_56,23.092008,72.618947,16:45:00,20.84,high,clear,6.2,20.19,0.55,North Ahmedabad,Wednesday,4
+D6,2026-04-07,Store_54,22.870496,72.503593,16:00:00,33.73,medium,clear,13.54,33.07,1.14,Vadodara,Tuesday,15
+D12,2026-05-20,Store_53,22.873121,72.530312,12:15:00,20.77,high,clear,11.47,39.31,0.88,Gandhinagar,Wednesday,21
+D12,2026-03-01,Store_2,23.142572,72.759513,16:15:00,20.68,low,clear,15.74,30.35,1.43,South Ahmedabad,Sunday,9
+D5,2026-04-10,Store_15,23.088537,72.657564,08:45:00,26.26,high,cloudy,13.07,44.35,1.39,Surat Hub,Friday,15
+D4,2026-03-26,Store_13,22.953968,72.500973,17:30:00,33.82,high,cloudy,10.74,44.54,1.21,Gandhinagar,Thursday,13
+D11,2026-05-14,Store_28,22.94724,72.443624,09:00:00,15.33,medium,clear,10.19,24.9,1.19,Gandhinagar,Thursday,20
+D1,2026-02-28,Store_21,23.141421,72.680031,09:30:00,26.18,medium,clear,8.64,21.12,0.92,North Ahmedabad,Saturday,9
+D3,2026-04-01,Store_51,22.961994,72.831246,08:15:00,17.68,low,rain,4.76,12.53,0.39,North Ahmedabad,Wednesday,14
+D11,2026-03-03,Store_24,23.161929,72.616119,10:30:00,13.27,low,clear,7.76,14.22,0.61,Vadodara,Tuesday,10
+D7,2026-04-03,Store_22,22.916018,72.617832,10:30:00,17.16,medium,clear,10.55,27.13,0.81,South Ahmedabad,Friday,14
+D5,2026-05-04,Store_16,23.365164,72.490117,17:30:00,30.95,medium,clear,8.68,20.08,0.87,North Ahmedabad,Monday,19
+D12,2026-02-26,Store_37,22.875388,72.670832,08:30:00,19.57,medium,cloudy,8.83,24.98,0.91,South Ahmedabad,Thursday,9
+D12,2026-03-26,Store_33,23.136296,72.730069,08:45:00,28.9,high,cloudy,9.03,34.07,0.73,Gandhinagar,Thursday,13
+D6,2026-01-28,Store_10,23.163052,72.561415,09:30:00,30.98,high,clear,9.65,31.43,0.77,Surat Hub,Wednesday,5
+D10,2026-05-19,Store_58,23.034041,72.465501,09:15:00,18.55,medium,clear,19.47,45.05,1.72,Gandhinagar,Tuesday,21
+D7,2026-03-29,Store_50,23.086464,72.390304,18:15:00,27.63,medium,clear,15.13,38.91,1.41,Surat Hub,Sunday,13
+D9,2026-05-19,Store_9,23.0815,72.379623,09:45:00,22.29,high,cloudy,6.96,28.89,0.78,Vadodara,Tuesday,21
+D5,2026-03-27,Store_41,23.095584,72.439015,08:30:00,28.23,medium,rain,13.66,41.08,1.56,North Ahmedabad,Friday,13
+D6,2026-04-26,Store_56,23.092008,72.618947,08:30:00,21.75,medium,clear,12.02,29.36,1.39,North Ahmedabad,Sunday,17
+D9,2026-02-20,Store_16,23.365164,72.490117,18:45:00,21.73,low,clear,3.0,6.37,0.27,North Ahmedabad,Friday,8
+D5,2026-04-02,Store_33,23.136296,72.730069,17:30:00,21.18,high,clear,7.72,23.81,0.9,Gandhinagar,Thursday,14
+D3,2026-05-08,Store_21,23.141421,72.680031,08:45:00,23.12,medium,clear,13.4,36.18,1.49,North Ahmedabad,Friday,19
+D10,2026-01-21,Store_33,23.136296,72.730069,20:30:00,23.0,high,clear,11.05,34.1,1.03,Gandhinagar,Wednesday,4
+D10,2026-04-03,Store_7,23.033065,72.796848,12:45:00,18.77,medium,clear,5.26,12.18,0.4,South Ahmedabad,Friday,14
+D3,2026-02-25,Store_14,23.107669,72.644489,10:15:00,18.65,medium,cloudy,5.26,15.63,0.6,Vadodara,Wednesday,9
+D1,2026-05-16,Store_2,23.142572,72.759513,10:15:00,19.36,low,clear,7.61,13.95,0.81,South Ahmedabad,Saturday,20
+D7,2026-02-18,Store_10,23.163052,72.561415,12:45:00,25.81,medium,clear,13.58,34.92,1.2,Surat Hub,Wednesday,8
+D4,2026-04-03,Store_34,22.966704,72.47893,18:15:00,23.33,high,clear,8.12,30.63,0.79,Vadodara,Friday,14
+D6,2026-02-09,Store_38,23.045288,72.709497,08:45:00,32.74,medium,clear,2.76,6.74,0.23,Gandhinagar,Monday,7
+D4,2026-01-19,Store_5,23.019812,72.400791,09:00:00,24.35,high,cloudy,10.37,43.01,1.09,Surat Hub,Monday,4
+D4,2026-01-20,Store_2,23.142572,72.759513,16:15:00,25.62,medium,cloudy,9.36,29.12,0.74,South Ahmedabad,Tuesday,4
+D2,2026-01-13,Store_58,23.034041,72.465501,17:00:00,16.19,high,rain,12.77,56.9,1.24,Gandhinagar,Tuesday,3
+D1,2026-04-26,Store_18,23.121057,72.797194,09:30:00,26.43,low,rain,12.06,28.72,1.06,Gandhinagar,Sunday,17
+D8,2026-02-23,Store_38,23.045288,72.709497,08:45:00,22.24,low,cloudy,5.59,12.45,0.4,Gandhinagar,Monday,9
+D6,2026-02-01,Store_55,23.156949,72.225936,08:15:00,22.77,low,cloudy,1.93,4.0,0.17,Surat Hub,Sunday,5
+D8,2026-02-14,Store_37,22.875388,72.670832,17:45:00,20.9,medium,clear,10.92,29.49,1.06,South Ahmedabad,Saturday,7
+D10,2026-01-02,Store_2,23.142572,72.759513,14:45:00,28.38,medium,clear,7.08,16.38,0.53,South Ahmedabad,Friday,1
+D2,2026-03-25,Store_38,23.045288,72.709497,18:30:00,20.26,medium,rain,16.22,54.22,1.22,Gandhinagar,Wednesday,13
+D7,2026-01-28,Store_8,23.097301,72.399542,14:15:00,24.56,high,clear,2.99,10.24,0.3,Gandhinagar,Wednesday,5
+D12,2026-05-11,Store_56,23.092008,72.618947,16:45:00,20.16,high,clear,8.93,30.61,0.66,North Ahmedabad,Monday,20
+D6,2026-02-20,Store_6,23.163204,72.726958,18:00:00,19.48,high,cloudy,13.25,47.48,0.96,North Ahmedabad,Friday,8
+D9,2026-04-02,Store_46,23.128962,72.551703,10:30:00,24.83,medium,clear,16.32,46.17,1.48,North Ahmedabad,Thursday,14
+D2,2026-03-26,Store_45,23.099419,72.660706,14:45:00,23.48,high,cloudy,17.58,66.3,1.65,Surat Hub,Thursday,13
+D3,2026-03-22,Store_45,23.099419,72.660706,18:00:00,28.26,high,clear,1.94,6.99,0.21,Surat Hub,Sunday,12
+D4,2026-03-25,Store_21,23.141421,72.680031,17:00:00,24.33,medium,clear,7.69,21.75,0.72,North Ahmedabad,Wednesday,13
+D6,2026-02-08,Store_22,22.916018,72.617832,18:15:00,22.98,medium,rain,5.91,18.78,0.5,South Ahmedabad,Sunday,6
+D1,2026-04-21,Store_24,23.161929,72.616119,08:15:00,17.62,medium,clear,1.2,4.0,0.14,Vadodara,Tuesday,17
+D9,2026-04-15,Store_56,23.092008,72.618947,14:15:00,14.71,high,clear,8.43,31.81,0.67,North Ahmedabad,Wednesday,16
+D5,2026-03-04,Store_60,23.278785,72.523529,17:30:00,32.91,high,cloudy,11.99,40.69,1.2,Surat Hub,Wednesday,10
+D9,2026-03-18,Store_19,23.004268,72.403369,17:00:00,19.81,high,clear,18.97,71.56,1.67,Vadodara,Wednesday,12
+D8,2026-01-03,Store_54,22.870496,72.503593,10:00:00,14.62,medium,clear,4.16,11.24,0.45,Vadodara,Saturday,1
+D9,2026-04-18,Store_43,22.831166,72.668794,09:15:00,25.19,low,clear,7.03,14.92,0.61,Gandhinagar,Saturday,16
+D9,2026-05-15,Store_37,22.875388,72.670832,18:30:00,22.88,low,clear,4.16,8.82,0.43,South Ahmedabad,Friday,20
+D4,2026-05-17,Store_29,22.978477,72.870388,10:30:00,21.75,medium,clear,13.69,38.72,1.56,Vadodara,Sunday,20
+D7,2026-04-04,Store_41,23.095584,72.439015,09:15:00,13.72,medium,rain,11.05,36.93,1.25,North Ahmedabad,Saturday,14
+D4,2026-05-06,Store_53,22.873121,72.530312,10:45:00,21.58,low,clear,7.42,15.75,0.53,Gandhinagar,Wednesday,19
+D8,2026-03-30,Store_8,23.097301,72.399542,20:45:00,13.59,high,rain,9.35,43.77,0.66,Gandhinagar,Monday,14
+D12,2026-05-18,Store_33,23.136296,72.730069,08:45:00,25.43,low,clear,8.56,16.51,0.94,Gandhinagar,Monday,21
+D5,2026-03-19,Store_58,23.034041,72.465501,09:15:00,38.83,high,cloudy,4.67,15.86,0.54,Gandhinagar,Thursday,12
+D12,2026-04-25,Store_2,23.142572,72.759513,16:45:00,19.18,high,clear,4.67,16.01,0.47,South Ahmedabad,Saturday,17
+D1,2026-05-20,Store_7,23.033065,72.796848,14:45:00,23.29,medium,rain,3.19,10.14,0.23,South Ahmedabad,Wednesday,21
+D5,2026-02-15,Store_47,22.954772,72.555456,17:45:00,21.0,medium,cloudy,7.11,18.1,0.79,South Ahmedabad,Sunday,7
+D5,2026-02-11,Store_31,22.753241,72.504423,17:30:00,28.47,high,clear,1.2,4.0,0.09,North Ahmedabad,Wednesday,7
+D12,2026-02-28,Store_21,23.141421,72.680031,20:00:00,21.34,high,clear,3.82,13.11,0.4,North Ahmedabad,Saturday,9
+D12,2026-05-05,Store_38,23.045288,72.709497,08:30:00,26.58,low,clear,3.86,7.44,0.34,Gandhinagar,Tuesday,19
+D2,2026-01-05,Store_44,22.947396,72.573899,10:45:00,24.11,high,cloudy,8.28,31.23,0.74,Vadodara,Monday,2
+D12,2026-02-14,Store_59,23.059728,72.57577,17:30:00,27.04,low,clear,6.82,13.15,0.74,Vadodara,Saturday,7
+D3,2026-04-22,Store_60,23.278785,72.523529,09:45:00,28.81,medium,clear,13.64,36.83,1.59,Surat Hub,Wednesday,17
+D6,2026-01-21,Store_37,22.875388,72.670832,17:15:00,8.0,medium,cloudy,9.0,24.17,0.71,South Ahmedabad,Wednesday,4
+D10,2026-05-11,Store_37,22.875388,72.670832,12:15:00,20.77,medium,clear,2.91,6.72,0.34,South Ahmedabad,Monday,20
+D5,2026-05-20,Store_40,23.122594,72.509531,12:30:00,14.26,high,clear,6.34,19.57,0.66,Surat Hub,Wednesday,21
+D8,2026-02-22,Store_25,23.131126,72.584916,08:15:00,13.97,medium,clear,5.45,14.71,0.54,Surat Hub,Sunday,8
+D4,2026-02-14,Store_41,23.095584,72.439015,08:45:00,27.76,medium,clear,9.16,25.92,0.94,North Ahmedabad,Saturday,7
+D1,2026-03-01,Store_47,22.954772,72.555456,09:30:00,24.59,medium,clear,10.09,24.64,1.1,South Ahmedabad,Sunday,9
+D9,2026-03-01,Store_16,23.365164,72.490117,10:00:00,20.1,low,clear,15.72,33.35,1.44,North Ahmedabad,Sunday,9
+D6,2026-01-28,Store_35,23.159776,72.533139,08:45:00,17.19,medium,rain,9.87,31.33,0.82,Surat Hub,Wednesday,5
+D12,2026-03-26,Store_22,22.916018,72.617832,16:00:00,23.79,medium,clear,15.19,39.06,1.36,South Ahmedabad,Thursday,13
+D7,2026-04-14,Store_1,23.071255,72.363403,08:15:00,26.52,medium,clear,11.31,29.1,1.31,North Ahmedabad,Tuesday,16
+D3,2026-04-21,Store_42,22.964411,72.495052,14:30:00,17.15,high,clear,5.94,21.38,0.5,South Ahmedabad,Tuesday,17
+D3,2026-05-07,Store_36,22.81839,72.344743,12:45:00,8.0,high,clear,10.83,38.98,1.06,North Ahmedabad,Thursday,19
+D11,2026-02-19,Store_45,23.099419,72.660706,10:45:00,33.07,medium,cloudy,8.41,22.59,0.75,Surat Hub,Thursday,8
+D4,2026-05-17,Store_57,22.927436,72.282188,08:30:00,26.29,low,clear,6.58,13.95,0.6,South Ahmedabad,Sunday,20
+D6,2026-01-29,Store_26,23.068759,72.697658,09:45:00,21.73,high,cloudy,6.74,24.13,0.55,North Ahmedabad,Thursday,5
+D4,2026-02-23,Store_52,22.965498,72.718903,17:45:00,27.11,high,clear,2.27,8.58,0.22,South Ahmedabad,Monday,9
+D11,2026-01-25,Store_49,22.810868,72.371951,16:15:00,21.51,medium,clear,8.43,20.59,0.7,Vadodara,Sunday,4
+D12,2026-01-28,Store_39,22.95414,72.603108,10:45:00,20.47,medium,clear,11.99,30.84,1.04,Vadodara,Wednesday,5
+D4,2026-05-13,Store_59,23.059728,72.57577,09:00:00,23.85,medium,cloudy,8.52,26.51,0.73,Vadodara,Wednesday,20
+D1,2026-03-19,Store_21,23.141421,72.680031,20:30:00,27.76,medium,cloudy,6.48,17.4,0.54,North Ahmedabad,Thursday,12
+D7,2026-05-19,Store_37,22.875388,72.670832,17:00:00,14.01,low,cloudy,12.11,25.69,1.26,South Ahmedabad,Tuesday,21
+D5,2026-01-13,Store_25,23.131126,72.584916,16:30:00,8.0,medium,clear,1.2,4.0,0.1,Surat Hub,Tuesday,3
+D12,2026-05-03,Store_25,23.131126,72.584916,08:15:00,25.2,medium,clear,6.77,17.4,0.57,Surat Hub,Sunday,18
+D6,2026-01-31,Store_3,22.710334,72.310964,14:30:00,21.2,high,cloudy,13.01,46.63,1.43,Gandhinagar,Saturday,5
+D4,2026-01-28,Store_18,23.121057,72.797194,18:00:00,22.16,high,cloudy,5.96,24.71,0.57,Gandhinagar,Wednesday,5
+D2,2026-04-15,Store_45,23.099419,72.660706,08:15:00,23.28,medium,cloudy,5.35,15.13,0.39,Surat Hub,Wednesday,16
+D12,2026-02-06,Store_51,22.961994,72.831246,14:00:00,23.54,low,cloudy,10.61,22.52,1.25,North Ahmedabad,Friday,6
+D2,2026-02-08,Store_28,22.94724,72.443624,10:00:00,18.35,medium,clear,12.49,32.11,1.01,Gandhinagar,Sunday,6
+D4,2026-04-09,Store_29,22.978477,72.870388,14:30:00,22.55,high,clear,7.23,27.27,0.74,Vadodara,Thursday,15
+D6,2026-03-23,Store_11,22.992922,72.435214,20:00:00,30.87,medium,clear,12.83,31.35,1.32,North Ahmedabad,Monday,13
+D7,2026-05-14,Store_22,22.916018,72.617832,16:00:00,14.16,high,clear,2.64,9.04,0.2,South Ahmedabad,Thursday,20
+D9,2026-02-27,Store_26,23.068759,72.697658,18:45:00,25.89,high,rain,14.76,72.35,1.35,North Ahmedabad,Friday,9
+D7,2026-04-02,Store_41,23.095584,72.439015,17:15:00,28.47,medium,cloudy,4.4,12.43,0.4,North Ahmedabad,Thursday,14
+D3,2026-01-01,Store_13,22.953968,72.500973,10:30:00,8.0,medium,clear,10.35,27.94,0.88,Gandhinagar,Thursday,1
+D2,2026-01-31,Store_47,22.954772,72.555456,09:00:00,9.81,medium,clear,9.28,23.87,0.77,South Ahmedabad,Saturday,5
+D9,2026-05-11,Store_1,23.071255,72.363403,10:15:00,22.8,high,cloudy,1.2,4.98,0.09,North Ahmedabad,Monday,20
+D8,2026-04-28,Store_49,22.810868,72.371951,10:30:00,23.47,medium,clear,2.43,6.57,0.2,Vadodara,Tuesday,18
+D4,2026-04-07,Store_54,22.870496,72.503593,09:30:00,37.31,high,clear,3.84,14.49,0.28,Vadodara,Tuesday,15
+D5,2026-03-31,Store_13,22.953968,72.500973,14:00:00,15.3,low,cloudy,7.51,14.35,0.89,Gandhinagar,Tuesday,14
+D5,2026-05-07,Store_24,23.161929,72.616119,12:15:00,21.04,high,rain,1.99,7.99,0.16,Vadodara,Thursday,19
+D10,2026-05-13,Store_40,23.122594,72.509531,16:45:00,33.66,high,cloudy,4.73,16.04,0.54,Surat Hub,Wednesday,20
+D7,2026-01-08,Store_8,23.097301,72.399542,09:15:00,14.44,medium,clear,12.11,31.14,1.39,Gandhinagar,Thursday,2
+D12,2026-02-08,Store_25,23.131126,72.584916,17:00:00,21.22,medium,clear,11.5,29.58,1.14,Surat Hub,Sunday,6
+D4,2026-05-16,Store_34,22.966704,72.47893,16:30:00,22.92,medium,clear,12.68,35.87,1.34,Vadodara,Saturday,20
+D4,2026-02-16,Store_35,23.159776,72.533139,09:30:00,37.42,medium,rain,6.69,24.58,0.63,Surat Hub,Monday,8
+D9,2026-02-24,Store_54,22.870496,72.503593,20:30:00,23.64,medium,cloudy,13.78,42.87,1.18,Vadodara,Tuesday,9
+D6,2026-01-01,Store_43,22.831166,72.668794,12:45:00,25.46,medium,clear,12.68,30.97,1.15,Gandhinagar,Thursday,1
+D8,2026-04-28,Store_54,22.870496,72.503593,20:15:00,19.67,medium,cloudy,1.39,4.13,0.15,Vadodara,Tuesday,18
+D11,2026-02-25,Store_24,23.161929,72.616119,18:45:00,15.85,high,rain,4.13,17.48,0.35,Vadodara,Wednesday,9
+D11,2026-04-10,Store_35,23.159776,72.533139,16:45:00,31.38,medium,clear,8.25,20.15,0.64,Surat Hub,Friday,15
+D1,2026-01-18,Store_27,22.789355,72.507466,09:15:00,17.12,high,clear,10.68,34.78,0.99,South Ahmedabad,Sunday,3
+D10,2026-05-18,Store_6,23.163204,72.726958,08:15:00,18.3,medium,rain,2.3,6.92,0.23,North Ahmedabad,Monday,21
+D4,2026-01-11,Store_39,22.95414,72.603108,09:30:00,31.9,high,rain,5.99,29.38,0.45,Vadodara,Sunday,2
+D2,2026-02-17,Store_45,23.099419,72.660706,10:00:00,31.49,high,clear,12.05,41.33,1.16,Surat Hub,Tuesday,8
+D5,2026-03-05,Store_14,23.107669,72.644489,09:45:00,25.57,medium,cloudy,1.2,4.0,0.09,Vadodara,Thursday,10
+D10,2026-02-06,Store_58,23.034041,72.465501,16:45:00,25.5,high,clear,8.99,27.76,0.96,Gandhinagar,Friday,6
+D12,2026-01-18,Store_45,23.099419,72.660706,16:45:00,25.09,medium,clear,1.79,4.6,0.18,Surat Hub,Sunday,3
+D12,2026-04-10,Store_54,22.870496,72.503593,20:00:00,28.54,medium,clear,5.44,13.99,0.5,Vadodara,Friday,15
+D12,2026-04-01,Store_56,23.092008,72.618947,17:45:00,26.47,high,clear,10.72,36.75,0.77,North Ahmedabad,Wednesday,14
+D6,2026-04-18,Store_19,23.004268,72.403369,10:15:00,13.43,low,clear,13.87,25.41,1.38,Vadodara,Saturday,16
+D12,2026-02-05,Store_59,23.059728,72.57577,18:00:00,26.06,low,clear,9.91,19.1,1.13,Vadodara,Thursday,6
+D3,2026-03-29,Store_19,23.004268,72.403369,18:45:00,20.91,low,clear,4.58,9.27,0.45,Vadodara,Sunday,13
+D3,2026-02-02,Store_19,23.004268,72.403369,12:00:00,31.47,high,cloudy,11.27,44.62,1.01,Vadodara,Monday,6
+D11,2026-05-16,Store_43,22.831166,72.668794,16:30:00,22.04,medium,clear,9.4,22.96,0.93,Gandhinagar,Saturday,20
+D9,2026-03-17,Store_17,22.940541,72.408645,10:15:00,22.84,high,clear,6.96,26.23,0.81,South Ahmedabad,Tuesday,12
+D12,2026-02-22,Store_41,23.095584,72.439015,16:15:00,14.08,high,cloudy,17.07,64.38,1.98,North Ahmedabad,Sunday,8
+D11,2026-05-07,Store_9,23.0815,72.379623,16:30:00,23.16,medium,clear,6.61,16.14,0.79,Vadodara,Thursday,19
+D11,2026-02-06,Store_43,22.831166,72.668794,10:30:00,22.89,medium,clear,1.37,4.0,0.16,Gandhinagar,Friday,6
+D9,2026-03-02,Store_9,23.0815,72.379623,16:45:00,30.99,high,clear,5.25,19.82,0.52,Vadodara,Monday,10
+D2,2026-02-28,Store_48,22.752526,72.281978,10:45:00,23.29,medium,clear,12.34,31.74,0.95,Gandhinagar,Saturday,9
+D10,2026-04-08,Store_10,23.163052,72.561415,20:00:00,24.21,high,clear,1.67,5.14,0.17,Surat Hub,Wednesday,15
+D11,2026-05-06,Store_1,23.071255,72.363403,20:00:00,18.87,medium,cloudy,1.2,4.0,0.14,North Ahmedabad,Wednesday,19
+D3,2026-05-20,Store_18,23.121057,72.797194,20:15:00,23.29,medium,clear,12.21,32.95,0.89,Gandhinagar,Wednesday,21
+D7,2026-02-25,Store_8,23.097301,72.399542,17:00:00,19.55,high,cloudy,14.3,53.91,1.18,Gandhinagar,Wednesday,9
+D8,2026-04-17,Store_1,23.071255,72.363403,10:30:00,24.55,low,cloudy,5.84,13.01,0.69,North Ahmedabad,Friday,16
+D8,2026-05-11,Store_59,23.059728,72.57577,17:00:00,34.84,medium,clear,9.33,25.19,0.99,Vadodara,Monday,20
+D11,2026-02-07,Store_40,23.122594,72.509531,12:15:00,32.34,medium,rain,4.34,13.79,0.43,Surat Hub,Saturday,6
+D6,2026-02-25,Store_7,23.033065,72.796848,08:30:00,29.29,medium,clear,6.81,16.64,0.56,South Ahmedabad,Wednesday,9
+D12,2026-04-15,Store_57,22.927436,72.282188,12:45:00,20.72,low,cloudy,5.82,12.35,0.49,South Ahmedabad,Wednesday,16
+D12,2026-01-01,Store_7,23.033065,72.796848,17:15:00,21.71,medium,clear,14.12,36.3,1.07,South Ahmedabad,Thursday,1
+D6,2026-04-07,Store_26,23.068759,72.697658,10:30:00,18.91,high,rain,11.58,49.05,0.99,North Ahmedabad,Tuesday,15
+D12,2026-01-29,Store_31,22.753241,72.504423,18:30:00,23.52,high,clear,11.67,40.02,1.13,North Ahmedabad,Thursday,5
+D12,2026-01-09,Store_47,22.954772,72.555456,18:45:00,27.16,medium,cloudy,14.05,39.73,1.32,South Ahmedabad,Friday,2
+D4,2026-01-27,Store_6,23.163204,72.726958,08:30:00,15.7,medium,clear,11.23,31.76,0.85,North Ahmedabad,Tuesday,5
+D2,2026-02-26,Store_25,23.131126,72.584916,09:30:00,17.28,medium,cloudy,12.62,35.68,1.21,Surat Hub,Thursday,9
+D4,2026-03-29,Store_45,23.099419,72.660706,08:00:00,20.59,low,rain,7.76,21.39,0.62,Surat Hub,Sunday,13
+D7,2026-03-15,Store_39,22.95414,72.603108,16:45:00,20.81,low,rain,10.63,26.65,1.22,Vadodara,Sunday,11
+D6,2026-03-09,Store_26,23.068759,72.697658,14:15:00,15.2,high,clear,8.37,27.25,0.63,North Ahmedabad,Monday,11
+D4,2026-03-01,Store_25,23.131126,72.584916,09:30:00,17.57,medium,cloudy,10.54,32.79,1.18,Surat Hub,Sunday,9
+D6,2026-02-27,Store_24,23.161929,72.616119,14:15:00,25.27,medium,clear,10.26,25.05,0.92,Vadodara,Friday,9
+D2,2026-05-17,Store_19,23.004268,72.403369,12:30:00,32.24,medium,cloudy,11.02,31.18,1.16,Vadodara,Sunday,20
+D6,2026-01-09,Store_1,23.071255,72.363403,14:30:00,22.31,high,rain,4.16,17.62,0.33,North Ahmedabad,Friday,2
+D9,2026-03-24,Store_32,23.04854,72.688644,20:45:00,22.45,high,clear,3.78,14.26,0.39,South Ahmedabad,Tuesday,13
+D12,2026-04-07,Store_9,23.0815,72.379623,16:30:00,24.45,medium,clear,3.09,7.93,0.35,Vadodara,Tuesday,15
+D3,2026-02-16,Store_4,23.042954,72.508151,10:00:00,32.66,high,cloudy,4.7,18.63,0.46,Vadodara,Monday,8
+D7,2026-04-21,Store_34,22.966704,72.47893,20:00:00,21.42,medium,clear,10.4,26.74,1.06,Vadodara,Tuesday,17
+D11,2026-04-17,Store_40,23.122594,72.509531,12:45:00,26.19,high,rain,10.23,43.3,0.87,Surat Hub,Friday,16
+D1,2026-02-15,Store_28,22.94724,72.443624,18:15:00,15.18,low,clear,9.44,17.3,0.7,Gandhinagar,Sunday,7
+D12,2026-01-22,Store_17,22.940541,72.408645,09:45:00,22.93,low,rain,7.65,19.18,0.75,South Ahmedabad,Thursday,4
+D1,2026-05-09,Store_29,22.978477,72.870388,16:30:00,22.78,high,cloudy,8.31,29.77,0.79,Vadodara,Saturday,19
+D9,2026-03-15,Store_46,23.128962,72.551703,12:15:00,24.76,high,clear,10.52,39.68,0.86,North Ahmedabad,Sunday,11
+D7,2026-04-22,Store_28,22.94724,72.443624,10:15:00,24.44,high,clear,11.49,39.4,1.12,Gandhinagar,Wednesday,17
+D5,2026-04-19,Store_42,22.964411,72.495052,20:45:00,26.57,low,cloudy,4.27,8.16,0.5,South Ahmedabad,Sunday,16
+D11,2026-02-26,Store_1,23.071255,72.363403,16:45:00,16.76,medium,clear,11.05,26.99,0.78,North Ahmedabad,Thursday,9
+D12,2026-01-03,Store_52,22.965498,72.718903,09:45:00,23.89,medium,cloudy,10.88,30.77,0.89,South Ahmedabad,Saturday,1
+D3,2026-05-13,Store_31,22.753241,72.504423,10:45:00,22.73,medium,clear,3.06,8.27,0.3,North Ahmedabad,Wednesday,20
+D8,2026-05-11,Store_14,23.107669,72.644489,14:00:00,25.17,low,cloudy,16.96,37.79,1.54,Vadodara,Monday,20
+D5,2026-01-20,Store_4,23.042954,72.508151,18:45:00,20.69,high,cloudy,7.51,25.48,0.54,Vadodara,Tuesday,4
+D11,2026-01-28,Store_59,23.059728,72.57577,17:45:00,29.65,medium,clear,15.36,37.52,1.27,Vadodara,Wednesday,5
+D1,2026-01-26,Store_35,23.159776,72.533139,10:00:00,17.65,high,clear,8.37,27.26,0.82,Surat Hub,Monday,5
+D12,2026-04-15,Store_45,23.099419,72.660706,16:30:00,26.43,high,cloudy,2.51,9.46,0.19,Surat Hub,Wednesday,16
+D5,2026-04-05,Store_53,22.873121,72.530312,10:30:00,32.79,high,clear,1.2,4.0,0.1,Gandhinagar,Sunday,14
+D7,2026-02-28,Store_28,22.94724,72.443624,18:15:00,21.92,medium,cloudy,9.5,26.87,1.11,Gandhinagar,Saturday,9
+D12,2026-04-23,Store_31,22.753241,72.504423,20:15:00,30.3,medium,clear,9.03,23.23,0.7,North Ahmedabad,Thursday,17
+D6,2026-03-23,Store_7,23.033065,72.796848,14:15:00,21.42,low,cloudy,1.2,4.0,0.11,South Ahmedabad,Monday,13
+D8,2026-03-10,Store_58,23.034041,72.465501,14:30:00,29.97,low,rain,10.38,27.33,1.13,Gandhinagar,Tuesday,11
+D12,2026-04-03,Store_50,23.086464,72.390304,12:30:00,27.99,medium,clear,5.68,14.6,0.68,Surat Hub,Friday,14
+D6,2026-04-03,Store_39,22.95414,72.603108,09:15:00,23.08,high,clear,11.15,36.33,1.19,Vadodara,Friday,14
+D9,2026-03-31,Store_52,22.965498,72.718903,08:00:00,17.36,high,cloudy,11.4,47.29,1.21,South Ahmedabad,Tuesday,14
+D2,2026-05-12,Store_11,22.992922,72.435214,09:30:00,23.73,high,clear,10.28,35.24,1.18,North Ahmedabad,Tuesday,20
+D4,2026-02-27,Store_50,23.086464,72.390304,14:45:00,35.34,medium,clear,9.02,25.52,0.85,Surat Hub,Friday,9
+D8,2026-02-06,Store_45,23.099419,72.660706,14:15:00,29.5,low,clear,12.07,24.45,1.04,Surat Hub,Friday,6
+D3,2026-02-14,Store_59,23.059728,72.57577,17:15:00,26.25,low,clear,9.61,19.46,1.13,Vadodara,Saturday,7
+D11,2026-05-18,Store_25,23.131126,72.584916,10:00:00,18.82,medium,clear,6.36,15.54,0.58,Surat Hub,Monday,21
+D4,2026-02-08,Store_23,23.04117,72.615138,20:15:00,18.8,high,clear,10.12,38.17,1.06,Gandhinagar,Sunday,6
+D4,2026-03-25,Store_15,23.088537,72.657564,08:45:00,25.09,medium,rain,3.59,13.21,0.38,Surat Hub,Wednesday,13
+D1,2026-04-19,Store_14,23.107669,72.644489,17:30:00,23.22,medium,clear,1.64,4.01,0.19,Vadodara,Sunday,16
+D6,2026-02-04,Store_45,23.099419,72.660706,17:00:00,25.51,medium,clear,13.29,32.46,1.15,Surat Hub,Wednesday,6
+D3,2026-01-02,Store_41,23.095584,72.439015,17:00:00,24.75,medium,clear,17.13,46.24,1.3,North Ahmedabad,Friday,1
+D6,2026-02-08,Store_14,23.107669,72.644489,09:30:00,22.21,medium,clear,11.88,29.03,0.85,Vadodara,Sunday,6
+D8,2026-01-05,Store_11,22.992922,72.435214,17:15:00,21.78,low,cloudy,2.33,5.19,0.17,North Ahmedabad,Monday,2
+D5,2026-01-28,Store_36,22.81839,72.344743,14:00:00,10.09,low,cloudy,1.2,4.0,0.13,North Ahmedabad,Wednesday,5
+D9,2026-03-12,Store_27,22.789355,72.507466,20:45:00,31.31,medium,clear,6.65,18.8,0.64,South Ahmedabad,Thursday,11
+D8,2026-02-22,Store_45,23.099419,72.660706,17:15:00,26.74,low,clear,11.57,23.43,1.18,Surat Hub,Sunday,8
+D5,2026-01-02,Store_44,22.947396,72.573899,09:30:00,27.13,high,cloudy,9.78,33.18,1.1,Vadodara,Friday,1
+D1,2026-04-20,Store_48,22.752526,72.281978,17:30:00,22.58,medium,cloudy,17.66,47.46,1.45,Gandhinagar,Monday,17
+D3,2026-02-07,Store_30,22.883967,72.765056,12:00:00,22.89,low,cloudy,4.15,9.25,0.43,Surat Hub,Saturday,6
+D11,2026-02-25,Store_45,23.099419,72.660706,17:15:00,17.75,high,cloudy,9.39,33.65,1.11,Surat Hub,Wednesday,9
+D7,2026-04-06,Store_30,22.883967,72.765056,16:45:00,13.19,medium,clear,10.41,26.77,0.85,Surat Hub,Monday,15
+D4,2026-03-25,Store_25,23.131126,72.584916,20:00:00,14.16,medium,cloudy,15.53,48.32,1.6,Surat Hub,Wednesday,13
+D6,2026-02-15,Store_52,22.965498,72.718903,18:45:00,26.23,high,clear,5.5,17.9,0.55,South Ahmedabad,Sunday,7
+D6,2026-03-08,Store_36,22.81839,72.344743,09:30:00,22.13,medium,clear,7.77,18.97,0.63,North Ahmedabad,Sunday,10
+D5,2026-04-20,Store_13,22.953968,72.500973,08:30:00,28.97,high,rain,8.25,33.1,0.99,Gandhinagar,Monday,17
+D5,2026-03-24,Store_1,23.071255,72.363403,20:45:00,18.99,medium,rain,6.39,19.21,0.73,North Ahmedabad,Tuesday,13
+D1,2026-02-23,Store_6,23.163204,72.726958,16:15:00,28.23,high,rain,8.57,36.31,1.01,North Ahmedabad,Monday,9
+D7,2026-01-26,Store_44,22.947396,72.573899,08:45:00,20.89,medium,clear,3.52,9.06,0.26,Vadodara,Monday,5
+D7,2026-04-01,Store_17,22.940541,72.408645,09:30:00,23.3,high,clear,9.45,32.39,0.94,South Ahmedabad,Wednesday,14
+D4,2026-04-20,Store_2,23.142572,72.759513,17:30:00,25.0,medium,cloudy,1.2,4.0,0.09,South Ahmedabad,Monday,17
+D4,2026-01-19,Store_44,22.947396,72.573899,14:30:00,22.18,medium,rain,14.67,53.95,1.18,Vadodara,Monday,4
+D7,2026-01-30,Store_48,22.752526,72.281978,18:15:00,19.79,medium,clear,11.37,29.25,1.03,Gandhinagar,Friday,5
+D6,2026-02-26,Store_30,22.883967,72.765056,14:30:00,28.11,high,clear,7.49,24.4,0.64,Surat Hub,Thursday,9
+D12,2026-05-04,Store_3,22.710334,72.310964,09:30:00,21.29,medium,cloudy,13.23,37.43,0.94,Gandhinagar,Monday,19
+D2,2026-03-11,Store_47,22.954772,72.555456,08:00:00,26.18,medium,cloudy,9.14,25.86,0.96,South Ahmedabad,Wednesday,11
+D9,2026-04-16,Store_14,23.107669,72.644489,12:00:00,25.55,low,clear,6.93,14.71,0.55,Vadodara,Thursday,16
+D2,2026-01-27,Store_26,23.068759,72.697658,17:45:00,20.01,medium,rain,13.4,44.79,1.48,North Ahmedabad,Tuesday,5
+D11,2026-03-04,Store_43,22.831166,72.668794,10:00:00,19.14,medium,cloudy,5.97,16.04,0.5,Gandhinagar,Wednesday,10
+D9,2026-03-16,Store_57,22.927436,72.282188,18:00:00,22.55,high,clear,13.45,50.71,1.17,South Ahmedabad,Monday,12
+D9,2026-03-03,Store_38,23.045288,72.709497,17:15:00,35.74,high,clear,2.21,8.32,0.19,Gandhinagar,Tuesday,10
+D1,2026-01-20,Store_32,23.04854,72.688644,17:45:00,14.88,high,clear,9.84,32.04,1.15,South Ahmedabad,Tuesday,4
+D8,2026-01-20,Store_9,23.0815,72.379623,08:00:00,26.74,high,cloudy,4.85,19.22,0.52,Vadodara,Tuesday,4
+D5,2026-03-04,Store_27,22.789355,72.507466,10:00:00,17.31,medium,clear,3.03,7.02,0.27,South Ahmedabad,Wednesday,10
+D3,2026-04-05,Store_47,22.954772,72.555456,08:30:00,33.82,medium,clear,8.49,22.92,0.83,South Ahmedabad,Sunday,14
+D8,2026-02-21,Store_10,23.163052,72.561415,14:00:00,33.51,medium,rain,5.6,19.66,0.5,Surat Hub,Saturday,8
+D12,2026-04-26,Store_51,22.961994,72.831246,10:00:00,18.97,low,clear,9.05,17.46,0.92,North Ahmedabad,Sunday,17
+D10,2026-03-16,Store_52,22.965498,72.718903,16:30:00,25.71,high,cloudy,1.25,4.24,0.15,South Ahmedabad,Monday,12
+D1,2026-01-05,Store_7,23.033065,72.796848,18:15:00,20.06,medium,clear,1.2,4.0,0.14,South Ahmedabad,Monday,2
+D2,2026-04-28,Store_18,23.121057,72.797194,20:15:00,28.08,high,rain,14.88,66.34,1.06,Gandhinagar,Tuesday,18
+D8,2026-01-02,Store_48,22.752526,72.281978,08:30:00,26.6,medium,cloudy,7.03,20.89,0.73,Gandhinagar,Friday,1
+D1,2026-05-05,Store_4,23.042954,72.508151,20:15:00,24.11,high,cloudy,7.39,26.49,0.82,Vadodara,Tuesday,19
+D7,2026-02-12,Store_16,23.365164,72.490117,18:45:00,21.47,medium,cloudy,6.61,18.71,0.74,North Ahmedabad,Thursday,7
+D12,2026-01-04,Store_38,23.045288,72.709497,10:00:00,26.57,high,clear,8.08,27.7,0.68,Gandhinagar,Sunday,1
+D7,2026-05-07,Store_20,22.890583,72.701519,10:30:00,18.02,low,clear,8.01,15.44,0.8,Surat Hub,Thursday,19
+D1,2026-02-13,Store_1,23.071255,72.363403,10:00:00,10.05,medium,rain,10.71,34.01,1.06,North Ahmedabad,Friday,7
+D1,2026-05-09,Store_31,22.753241,72.504423,18:45:00,24.35,high,cloudy,1.2,4.3,0.13,North Ahmedabad,Saturday,19
+D12,2026-04-30,Store_34,22.966704,72.47893,12:45:00,15.11,high,clear,2.55,8.74,0.25,Vadodara,Thursday,18
+D9,2026-04-05,Store_9,23.0815,72.379623,09:15:00,34.28,medium,cloudy,3.69,11.47,0.28,Vadodara,Sunday,14
+D5,2026-04-25,Store_26,23.068759,72.697658,08:30:00,10.74,medium,clear,14.64,33.89,1.18,North Ahmedabad,Saturday,17
+D11,2026-01-04,Store_1,23.071255,72.363403,10:00:00,19.0,high,clear,5.15,16.76,0.5,North Ahmedabad,Sunday,1
+D5,2026-01-19,Store_58,23.034041,72.465501,09:00:00,18.71,medium,clear,7.83,18.12,0.93,Gandhinagar,Monday,4
+D5,2026-02-13,Store_60,23.278785,72.523529,14:30:00,32.62,high,cloudy,10.95,37.17,1.01,Surat Hub,Friday,7
+D4,2026-04-24,Store_55,23.156949,72.225936,20:15:00,28.39,medium,clear,2.51,7.1,0.28,Surat Hub,Friday,17
+D2,2026-01-22,Store_9,23.0815,72.379623,16:30:00,12.72,high,cloudy,11.78,44.42,1.03,Vadodara,Thursday,4
+D2,2026-05-01,Store_29,22.978477,72.870388,10:45:00,15.43,high,clear,7.6,26.04,0.81,Vadodara,Friday,18
+D1,2026-02-28,Store_8,23.097301,72.399542,08:30:00,19.1,medium,clear,8.49,20.75,0.66,Gandhinagar,Saturday,9
+D8,2026-03-02,Store_2,23.142572,72.759513,09:45:00,28.33,high,clear,15.28,55.0,1.41,South Ahmedabad,Monday,10
+D1,2026-02-21,Store_14,23.107669,72.644489,10:00:00,31.55,medium,clear,13.21,32.28,1.53,Vadodara,Saturday,8
+D9,2026-03-06,Store_10,23.163052,72.561415,09:00:00,30.73,medium,clear,13.95,39.47,1.38,Surat Hub,Friday,10
+D5,2026-03-10,Store_13,22.953968,72.500973,16:15:00,20.92,low,clear,12.86,22.32,1.34,Gandhinagar,Tuesday,11
+D5,2026-01-04,Store_16,23.365164,72.490117,18:00:00,19.99,high,clear,12.72,39.24,0.91,North Ahmedabad,Sunday,1
+D6,2026-03-01,Store_38,23.045288,72.709497,12:00:00,15.29,high,cloudy,3.59,12.87,0.36,Gandhinagar,Sunday,9
+D5,2026-04-16,Store_29,22.978477,72.870388,12:30:00,9.08,medium,clear,9.32,21.56,0.72,Vadodara,Thursday,16
+D5,2026-03-21,Store_17,22.940541,72.408645,10:00:00,26.42,medium,clear,3.89,9.01,0.34,South Ahmedabad,Saturday,12
+D1,2026-01-05,Store_47,22.954772,72.555456,16:45:00,30.62,medium,clear,1.77,4.33,0.16,South Ahmedabad,Monday,2
+D9,2026-01-19,Store_26,23.068759,72.697658,08:00:00,24.9,high,rain,19.96,97.85,1.56,North Ahmedabad,Monday,4
+D2,2026-05-17,Store_53,22.873121,72.530312,10:15:00,30.89,medium,clear,11.25,28.93,1.22,Gandhinagar,Sunday,20
+D10,2026-04-20,Store_16,23.365164,72.490117,08:15:00,34.79,high,cloudy,9.28,31.49,0.79,North Ahmedabad,Monday,17
+D5,2026-02-20,Store_14,23.107669,72.644489,17:30:00,22.3,high,clear,11.39,35.15,1.01,Vadodara,Friday,8
+D3,2026-03-25,Store_29,22.978477,72.870388,10:15:00,16.05,high,cloudy,14.26,56.45,1.5,Vadodara,Wednesday,13
+D11,2026-04-19,Store_20,22.890583,72.701519,09:45:00,30.12,medium,rain,7.72,24.51,0.92,Surat Hub,Sunday,16
+D6,2026-01-16,Store_44,22.947396,72.573899,18:30:00,24.71,medium,cloudy,10.46,28.12,1.21,Vadodara,Friday,3
+D4,2026-05-03,Store_16,23.365164,72.490117,17:00:00,24.57,high,cloudy,13.87,57.52,1.56,North Ahmedabad,Sunday,18
+D3,2026-01-07,Store_25,23.131126,72.584916,20:15:00,29.94,high,rain,4.69,21.95,0.44,Surat Hub,Wednesday,2
+D3,2026-01-15,Store_37,22.875388,72.670832,14:45:00,19.04,medium,clear,6.31,17.04,0.66,South Ahmedabad,Thursday,3
+D2,2026-01-12,Store_14,23.107669,72.644489,12:00:00,18.54,low,rain,9.95,24.93,1.09,Vadodara,Monday,3
+D11,2026-02-21,Store_7,23.033065,72.796848,14:00:00,18.71,low,clear,1.2,4.0,0.1,South Ahmedabad,Saturday,8
+D12,2026-03-31,Store_46,23.128962,72.551703,14:00:00,17.44,medium,cloudy,10.42,29.48,1.19,North Ahmedabad,Tuesday,14
+D10,2026-02-17,Store_57,22.927436,72.282188,08:45:00,25.27,high,clear,8.01,24.7,0.75,South Ahmedabad,Tuesday,8
+D9,2026-03-16,Store_28,22.94724,72.443624,08:30:00,21.58,low,cloudy,1.2,4.0,0.12,Gandhinagar,Monday,12
+D5,2026-04-02,Store_10,23.163052,72.561415,12:45:00,21.66,medium,cloudy,10.22,26.01,0.72,Surat Hub,Thursday,14
+D8,2026-04-28,Store_22,22.916018,72.617832,16:00:00,15.87,medium,clear,11.18,30.17,0.79,South Ahmedabad,Tuesday,18
+D1,2026-04-19,Store_26,23.068759,72.697658,10:30:00,11.25,medium,cloudy,12.55,33.72,1.29,North Ahmedabad,Sunday,16
+D7,2026-03-26,Store_48,22.752526,72.281978,10:00:00,22.57,medium,cloudy,9.54,26.99,0.79,Gandhinagar,Thursday,13
+D5,2026-04-09,Store_25,23.131126,72.584916,17:45:00,21.25,high,rain,15.55,62.39,1.84,Surat Hub,Thursday,15
+D7,2026-03-22,Store_52,22.965498,72.718903,20:00:00,16.74,low,clear,10.47,20.19,0.95,South Ahmedabad,Sunday,12
+D12,2026-03-10,Store_29,22.978477,72.870388,12:45:00,36.15,medium,rain,6.37,21.29,0.45,Vadodara,Tuesday,11
+D5,2026-03-30,Store_25,23.131126,72.584916,14:45:00,31.29,medium,cloudy,6.59,16.79,0.75,Surat Hub,Monday,14
+D1,2026-04-20,Store_58,23.034041,72.465501,16:30:00,18.74,high,clear,12.18,39.67,1.22,Gandhinagar,Monday,17
+D10,2026-03-10,Store_43,22.831166,72.668794,17:00:00,34.99,high,clear,15.39,47.48,1.82,Gandhinagar,Tuesday,11
+D6,2026-05-01,Store_47,22.954772,72.555456,12:30:00,19.2,high,clear,16.07,52.36,1.15,South Ahmedabad,Friday,18
+D5,2026-03-21,Store_25,23.131126,72.584916,16:00:00,30.18,medium,clear,5.72,13.25,0.64,Surat Hub,Saturday,12
+D4,2026-03-11,Store_43,22.831166,72.668794,16:00:00,19.54,medium,cloudy,6.38,19.86,0.69,Gandhinagar,Wednesday,11
+D4,2026-03-14,Store_34,22.966704,72.47893,14:00:00,15.1,high,cloudy,5.07,21.02,0.43,Vadodara,Saturday,11
+D2,2026-03-17,Store_41,23.095584,72.439015,09:30:00,26.89,medium,rain,8.53,28.5,0.88,North Ahmedabad,Tuesday,12
+D2,2026-03-16,Store_4,23.042954,72.508151,09:00:00,21.86,medium,cloudy,11.76,33.27,0.84,Vadodara,Monday,12
+D2,2026-02-08,Store_12,23.218107,72.540494,20:00:00,25.78,low,clear,6.13,11.81,0.5,South Ahmedabad,Sunday,6
+D7,2026-04-04,Store_60,23.278785,72.523529,08:00:00,28.44,low,clear,5.47,10.55,0.59,Surat Hub,Saturday,14
+D8,2026-02-15,Store_60,23.278785,72.523529,20:30:00,18.19,medium,rain,8.25,28.97,0.68,Surat Hub,Sunday,7
+D12,2026-04-01,Store_5,23.019812,72.400791,20:30:00,23.92,high,clear,13.14,45.04,1.31,Surat Hub,Wednesday,14
+D9,2026-01-12,Store_9,23.0815,72.379623,08:00:00,30.47,low,rain,1.2,4.0,0.12,Vadodara,Monday,3
+D7,2026-03-30,Store_14,23.107669,72.644489,14:00:00,11.9,high,cloudy,9.34,35.22,0.69,Vadodara,Monday,14
+D2,2026-03-24,Store_15,23.088537,72.657564,10:15:00,24.32,high,clear,10.91,37.42,0.96,Surat Hub,Tuesday,13
+D4,2026-02-12,Store_56,23.092008,72.618947,18:00:00,19.52,high,clear,7.85,29.62,0.78,North Ahmedabad,Thursday,7
+D2,2026-03-13,Store_3,22.710334,72.310964,17:00:00,18.81,medium,clear,9.28,23.86,0.88,Gandhinagar,Friday,11
+D1,2026-05-09,Store_51,22.961994,72.831246,18:15:00,35.02,low,cloudy,6.34,12.78,0.75,North Ahmedabad,Saturday,19
+D4,2026-03-03,Store_30,22.883967,72.765056,16:30:00,25.93,medium,cloudy,5.07,15.77,0.39,Surat Hub,Tuesday,10
+D12,2026-05-09,Store_15,23.088537,72.657564,16:00:00,18.3,low,clear,9.78,18.86,1.0,Surat Hub,Saturday,19
+D3,2026-03-15,Store_30,22.883967,72.765056,16:30:00,23.33,low,clear,8.53,17.27,0.83,Surat Hub,Sunday,11
+D6,2026-02-04,Store_41,23.095584,72.439015,08:45:00,20.08,high,clear,6.67,21.71,0.71,North Ahmedabad,Wednesday,6
+D9,2026-01-08,Store_6,23.163204,72.726958,09:30:00,9.59,high,clear,5.72,21.56,0.42,North Ahmedabad,Thursday,2
+D12,2026-02-01,Store_31,22.753241,72.504423,17:45:00,20.44,high,clear,7.7,26.41,0.59,North Ahmedabad,Sunday,5
+D10,2026-04-12,Store_28,22.94724,72.443624,18:00:00,27.22,medium,clear,9.56,22.11,1.02,Gandhinagar,Sunday,15
+D7,2026-03-17,Store_11,22.992922,72.435214,09:30:00,24.31,high,clear,5.59,19.15,0.53,North Ahmedabad,Tuesday,12
+D2,2026-03-15,Store_36,22.81839,72.344743,10:45:00,37.41,high,cloudy,9.05,34.14,0.66,North Ahmedabad,Sunday,11
+D2,2026-03-03,Store_9,23.0815,72.379623,08:00:00,25.92,medium,cloudy,6.25,17.69,0.73,Vadodara,Tuesday,10
+D11,2026-04-15,Store_45,23.099419,72.660706,17:45:00,27.48,medium,clear,4.14,10.12,0.45,Surat Hub,Wednesday,16
+D9,2026-05-16,Store_42,22.964411,72.495052,10:00:00,24.77,medium,clear,11.48,32.48,1.22,South Ahmedabad,Saturday,20
+D3,2026-01-21,Store_53,22.873121,72.530312,08:45:00,21.95,high,clear,5.31,19.12,0.42,Gandhinagar,Wednesday,4
+D1,2026-03-06,Store_3,22.710334,72.310964,17:45:00,16.13,medium,cloudy,3.54,9.52,0.32,Gandhinagar,Friday,10
+D6,2026-01-07,Store_43,22.831166,72.668794,12:45:00,13.4,medium,cloudy,8.08,21.72,0.6,Gandhinagar,Wednesday,2
+D11,2026-04-14,Store_17,22.940541,72.408645,20:45:00,17.05,high,rain,6.13,25.95,0.71,South Ahmedabad,Tuesday,16
+D7,2026-03-16,Store_5,23.019812,72.400791,08:15:00,22.46,medium,cloudy,11.32,32.02,1.12,Surat Hub,Monday,12
+D4,2026-01-04,Store_57,22.927436,72.282188,10:45:00,13.4,low,clear,15.81,33.54,1.18,South Ahmedabad,Sunday,1
+D1,2026-01-22,Store_4,23.042954,72.508151,09:15:00,23.01,high,clear,4.14,13.48,0.39,Vadodara,Thursday,4
+D3,2026-03-01,Store_5,23.019812,72.400791,09:00:00,23.41,low,clear,11.77,23.83,1.0,Surat Hub,Sunday,9
+D4,2026-01-18,Store_26,23.068759,72.697658,20:45:00,24.22,medium,cloudy,4.47,13.92,0.51,North Ahmedabad,Sunday,3
+D6,2026-04-22,Store_41,23.095584,72.439015,14:00:00,20.51,medium,clear,11.41,27.88,1.22,North Ahmedabad,Wednesday,17
+D11,2026-05-19,Store_2,23.142572,72.759513,10:15:00,21.94,high,cloudy,16.17,57.93,1.62,South Ahmedabad,Tuesday,21
+D9,2026-05-12,Store_43,22.831166,72.668794,10:15:00,31.74,high,clear,4.06,15.31,0.29,Gandhinagar,Tuesday,20
+D6,2026-01-26,Store_21,23.141421,72.680031,16:30:00,18.55,medium,clear,6.81,16.63,0.75,North Ahmedabad,Monday,5
+D1,2026-04-21,Store_15,23.088537,72.657564,18:30:00,26.19,high,clear,6.38,20.79,0.55,Surat Hub,Tuesday,17
+D10,2026-01-03,Store_54,22.870496,72.503593,12:30:00,31.66,medium,clear,7.76,17.97,0.89,Vadodara,Saturday,1
+D6,2026-01-06,Store_2,23.142572,72.759513,10:30:00,18.2,medium,clear,8.5,20.77,0.89,South Ahmedabad,Tuesday,2
+D5,2026-01-12,Store_53,22.873121,72.530312,17:15:00,28.86,high,clear,11.02,33.99,0.84,Gandhinagar,Monday,3
+D3,2026-04-03,Store_50,23.086464,72.390304,17:30:00,9.27,medium,clear,6.76,18.24,0.65,Surat Hub,Friday,14
+D1,2026-03-31,Store_27,22.789355,72.507466,10:00:00,14.73,medium,rain,1.2,4.0,0.09,South Ahmedabad,Tuesday,14
+D11,2026-01-07,Store_33,23.136296,72.730069,16:00:00,26.04,low,clear,12.51,22.93,0.91,Gandhinagar,Wednesday,2
+D7,2026-03-27,Store_11,22.992922,72.435214,17:30:00,12.97,medium,rain,11.66,38.98,1.07,North Ahmedabad,Friday,13
+D4,2026-04-18,Store_48,22.752526,72.281978,12:15:00,17.76,medium,clear,5.72,16.17,0.41,Gandhinagar,Saturday,16
+D10,2026-01-01,Store_36,22.81839,72.344743,18:15:00,11.76,high,rain,6.52,26.14,0.58,North Ahmedabad,Thursday,1
+D6,2026-01-07,Store_51,22.961994,72.831246,14:45:00,26.39,medium,clear,12.51,30.57,1.32,North Ahmedabad,Wednesday,2
+D12,2026-04-10,Store_2,23.142572,72.759513,08:45:00,31.42,medium,clear,11.78,30.29,1.17,South Ahmedabad,Friday,15
+D10,2026-01-30,Store_55,23.156949,72.225936,16:00:00,26.27,medium,cloudy,6.18,15.73,0.55,Surat Hub,Friday,5
+D1,2026-01-06,Store_46,23.128962,72.551703,17:15:00,33.22,medium,clear,13.55,33.1,1.4,North Ahmedabad,Tuesday,2
+D3,2026-03-27,Store_21,23.141421,72.680031,14:30:00,18.91,medium,clear,5.21,14.08,0.38,North Ahmedabad,Friday,13
+D12,2026-03-01,Store_35,23.159776,72.533139,17:00:00,28.03,low,rain,6.12,15.34,0.63,Surat Hub,Sunday,9
+D4,2026-02-04,Store_43,22.831166,72.668794,10:00:00,31.7,high,rain,10.8,52.95,0.88,Gandhinagar,Wednesday,6
+D9,2026-01-18,Store_58,23.034041,72.465501,10:30:00,19.21,low,rain,1.2,4.0,0.09,Gandhinagar,Sunday,3
+D1,2026-05-09,Store_10,23.163052,72.561415,14:30:00,21.72,low,rain,6.31,15.02,0.65,Surat Hub,Saturday,19
+D12,2026-04-22,Store_25,23.131126,72.584916,20:30:00,24.97,medium,clear,1.36,4.0,0.14,Surat Hub,Wednesday,17
+D1,2026-04-10,Store_2,23.142572,72.759513,17:30:00,21.0,medium,rain,14.25,45.26,1.63,South Ahmedabad,Friday,15
+D3,2026-02-05,Store_60,23.278785,72.523529,10:15:00,23.19,medium,clear,1.2,4.0,0.1,Surat Hub,Thursday,6
+D8,2026-03-16,Store_34,22.966704,72.47893,08:30:00,19.37,low,rain,10.17,26.78,1.12,Vadodara,Monday,12
+D6,2026-03-13,Store_46,23.128962,72.551703,17:00:00,25.25,medium,clear,8.36,20.43,0.7,North Ahmedabad,Friday,11
+D1,2026-02-08,Store_44,22.947396,72.573899,17:45:00,14.59,high,clear,12.04,39.2,1.03,Vadodara,Sunday,6
+D3,2026-01-05,Store_45,23.099419,72.660706,09:45:00,33.06,high,clear,8.72,31.39,0.97,Surat Hub,Monday,2
+D10,2026-03-10,Store_19,23.004268,72.403369,12:30:00,14.42,high,clear,13.67,42.18,1.27,Vadodara,Tuesday,11
+D10,2026-03-05,Store_34,22.966704,72.47893,20:00:00,38.95,low,clear,2.24,4.0,0.18,Vadodara,Thursday,10
+D3,2026-03-16,Store_53,22.873121,72.530312,08:30:00,10.71,high,clear,9.4,33.83,0.99,Gandhinagar,Monday,12
+D5,2026-04-28,Store_4,23.042954,72.508151,09:00:00,26.34,medium,clear,14.88,34.44,1.49,Vadodara,Tuesday,18
+D10,2026-05-15,Store_38,23.045288,72.709497,17:45:00,28.19,medium,clear,10.65,24.65,0.94,Gandhinagar,Friday,20
+D6,2026-01-20,Store_24,23.161929,72.616119,12:15:00,24.48,medium,clear,1.2,4.0,0.13,Vadodara,Tuesday,4
+D3,2026-04-10,Store_34,22.966704,72.47893,08:00:00,15.12,medium,clear,9.52,25.69,0.75,Vadodara,Friday,15
+D7,2026-02-14,Store_28,22.94724,72.443624,14:30:00,33.31,low,clear,5.77,11.13,0.59,Gandhinagar,Saturday,7
+D7,2026-04-21,Store_30,22.883967,72.765056,17:15:00,14.05,medium,clear,11.59,29.81,0.94,Surat Hub,Tuesday,17
+D1,2026-01-19,Store_11,22.992922,72.435214,09:45:00,21.94,high,cloudy,3.27,11.71,0.35,North Ahmedabad,Monday,4
+D11,2026-01-16,Store_40,23.122594,72.509531,20:45:00,30.37,high,cloudy,6.89,24.68,0.49,Surat Hub,Friday,3
+D3,2026-03-11,Store_21,23.141421,72.680031,16:30:00,25.36,medium,clear,8.99,24.28,1.06,North Ahmedabad,Wednesday,11
+D1,2026-04-09,Store_30,22.883967,72.765056,08:00:00,19.93,high,clear,2.95,9.61,0.21,Surat Hub,Thursday,15
+D11,2026-02-24,Store_46,23.128962,72.551703,20:30:00,19.92,high,clear,6.87,22.38,0.68,North Ahmedabad,Tuesday,9
+D8,2026-05-10,Store_6,23.163204,72.726958,20:15:00,22.44,low,clear,6.9,13.96,0.59,North Ahmedabad,Sunday,19
+D5,2026-04-23,Store_32,23.04854,72.688644,17:00:00,29.9,medium,clear,11.64,26.93,1.11,South Ahmedabad,Thursday,17
+D12,2026-02-01,Store_40,23.122594,72.509531,20:00:00,27.99,medium,cloudy,10.87,30.74,0.85,Surat Hub,Sunday,5
+D3,2026-03-11,Store_40,23.122594,72.509531,08:30:00,25.49,low,cloudy,1.2,4.0,0.09,Surat Hub,Wednesday,11
+D11,2026-05-16,Store_58,23.034041,72.465501,09:00:00,17.27,high,cloudy,3.45,12.35,0.35,Gandhinagar,Saturday,20
+D2,2026-02-09,Store_47,22.954772,72.555456,20:15:00,16.62,high,clear,1.2,4.11,0.1,South Ahmedabad,Monday,7
+D6,2026-05-01,Store_27,22.789355,72.507466,12:00:00,18.57,high,clear,1.94,6.3,0.14,South Ahmedabad,Friday,18
+D7,2026-02-01,Store_20,22.890583,72.701519,09:00:00,28.65,low,clear,8.82,17.02,0.67,Surat Hub,Sunday,5
+D4,2026-02-23,Store_55,23.156949,72.225936,08:45:00,31.46,medium,cloudy,9.55,29.72,1.02,Surat Hub,Monday,9
+D6,2026-04-06,Store_42,22.964411,72.495052,08:15:00,20.53,low,cloudy,3.32,6.68,0.32,South Ahmedabad,Monday,15
+D3,2026-05-09,Store_46,23.128962,72.551703,08:00:00,23.57,medium,cloudy,1.59,4.71,0.11,North Ahmedabad,Saturday,19
+D2,2026-02-17,Store_27,22.789355,72.507466,10:15:00,26.55,medium,cloudy,12.16,34.39,0.94,South Ahmedabad,Tuesday,8
+D1,2026-03-20,Store_22,22.916018,72.617832,14:15:00,24.79,low,rain,7.41,17.64,0.85,South Ahmedabad,Friday,12
+D2,2026-01-21,Store_25,23.131126,72.584916,10:30:00,20.15,high,clear,10.89,37.34,0.81,Surat Hub,Wednesday,4
+D7,2026-04-13,Store_29,22.978477,72.870388,16:15:00,19.29,high,cloudy,13.41,50.58,0.97,Vadodara,Monday,16
+D9,2026-01-13,Store_42,22.964411,72.495052,10:30:00,36.77,medium,clear,11.17,31.6,0.95,South Ahmedabad,Tuesday,3
+D3,2026-03-08,Store_48,22.752526,72.281978,20:00:00,20.56,low,cloudy,8.13,18.12,0.83,Gandhinagar,Sunday,10
+D11,2026-04-18,Store_14,23.107669,72.644489,14:15:00,9.16,medium,cloudy,7.79,20.94,0.65,Vadodara,Saturday,16
+D1,2026-02-20,Store_46,23.128962,72.551703,12:00:00,29.34,low,cloudy,3.12,6.29,0.33,North Ahmedabad,Friday,8
+D7,2026-01-01,Store_16,23.365164,72.490117,17:00:00,30.24,high,cloudy,11.54,43.53,1.23,North Ahmedabad,Thursday,1
+D6,2026-04-12,Store_51,22.961994,72.831246,08:30:00,22.51,low,clear,8.23,15.09,0.71,North Ahmedabad,Sunday,15
+D9,2026-02-08,Store_54,22.870496,72.503593,09:45:00,20.29,high,clear,2.32,8.74,0.2,Vadodara,Sunday,6
+D5,2026-01-01,Store_15,23.088537,72.657564,10:00:00,23.84,medium,cloudy,12.14,30.9,0.87,Surat Hub,Thursday,1
+D8,2026-05-11,Store_3,22.710334,72.310964,20:45:00,20.81,high,clear,3.6,12.97,0.41,Gandhinagar,Monday,20
+D3,2026-02-27,Store_28,22.94724,72.443624,18:15:00,12.45,high,rain,7.27,34.04,0.62,Gandhinagar,Friday,9
+D10,2026-03-01,Store_7,23.033065,72.796848,10:15:00,12.28,medium,clear,5.36,12.4,0.54,South Ahmedabad,Sunday,9
+D4,2026-02-19,Store_27,22.789355,72.507466,09:00:00,34.85,high,clear,10.62,40.05,1.1,South Ahmedabad,Thursday,8
+D3,2026-04-29,Store_48,22.752526,72.281978,20:15:00,20.85,medium,clear,8.07,21.79,0.77,Gandhinagar,Wednesday,18
+D7,2026-01-18,Store_12,23.218107,72.540494,17:15:00,24.35,high,clear,5.1,17.48,0.55,South Ahmedabad,Sunday,3
+D11,2026-03-01,Store_17,22.940541,72.408645,20:30:00,26.13,low,cloudy,4.73,9.53,0.54,South Ahmedabad,Sunday,9
+D6,2026-03-26,Store_9,23.0815,72.379623,09:30:00,11.49,high,clear,10.01,32.59,0.99,Vadodara,Thursday,13
+D7,2026-05-20,Store_15,23.088537,72.657564,18:30:00,23.68,medium,clear,1.98,5.1,0.22,Surat Hub,Wednesday,21
+D10,2026-03-15,Store_53,22.873121,72.530312,16:00:00,16.45,low,clear,1.2,4.0,0.11,Gandhinagar,Sunday,11
+D3,2026-05-05,Store_46,23.128962,72.551703,18:15:00,19.86,medium,clear,12.96,35.0,1.3,North Ahmedabad,Tuesday,19
+D9,2026-05-11,Store_3,22.710334,72.310964,17:15:00,10.57,high,rain,9.74,47.74,0.87,Gandhinagar,Monday,20
+D12,2026-04-28,Store_29,22.978477,72.870388,14:30:00,17.66,medium,cloudy,7.87,22.26,0.77,Vadodara,Tuesday,18
+D11,2026-04-14,Store_14,23.107669,72.644489,17:15:00,19.8,medium,cloudy,4.26,11.44,0.34,Vadodara,Tuesday,16
+D10,2026-04-06,Store_32,23.04854,72.688644,09:00:00,30.28,high,clear,13.68,42.21,1.12,South Ahmedabad,Monday,15
+D10,2026-01-03,Store_33,23.136296,72.730069,09:00:00,21.61,medium,cloudy,4.28,10.89,0.41,Gandhinagar,Saturday,1
+D7,2026-01-03,Store_28,22.94724,72.443624,16:30:00,18.42,low,cloudy,8.95,18.99,0.91,Gandhinagar,Saturday,1
+D11,2026-03-26,Store_43,22.831166,72.668794,09:00:00,26.6,high,rain,11.69,49.51,1.2,Gandhinagar,Thursday,13
+D8,2026-03-03,Store_12,23.218107,72.540494,12:00:00,17.69,high,cloudy,4.7,18.62,0.45,South Ahmedabad,Tuesday,10
+D12,2026-03-23,Store_1,23.071255,72.363403,09:00:00,20.72,high,cloudy,6.52,24.59,0.62,North Ahmedabad,Monday,13
+D10,2026-01-04,Store_10,23.163052,72.561415,14:00:00,12.37,medium,rain,13.04,39.24,0.92,Surat Hub,Sunday,1
+D5,2026-04-12,Store_59,23.059728,72.57577,09:00:00,23.99,medium,clear,12.99,30.07,0.98,Vadodara,Sunday,15
+D8,2026-04-20,Store_26,23.068759,72.697658,16:15:00,38.17,low,cloudy,6.88,15.32,0.58,North Ahmedabad,Monday,17
+D7,2026-05-20,Store_14,23.107669,72.644489,18:00:00,21.67,high,clear,6.03,20.68,0.72,Vadodara,Wednesday,21
+D4,2026-03-28,Store_57,22.927436,72.282188,08:30:00,20.52,high,clear,5.13,19.35,0.48,South Ahmedabad,Saturday,13
+D9,2026-05-06,Store_20,22.890583,72.701519,09:45:00,26.83,medium,cloudy,10.02,31.19,0.9,Surat Hub,Wednesday,19
+D10,2026-03-29,Store_56,23.092008,72.618947,16:45:00,16.34,low,cloudy,8.53,16.29,0.76,North Ahmedabad,Sunday,13
+D12,2026-01-28,Store_20,22.890583,72.701519,10:15:00,33.3,medium,cloudy,9.6,27.17,0.86,Surat Hub,Wednesday,5
+D11,2026-01-10,Store_30,22.883967,72.765056,12:15:00,28.18,low,rain,13.57,32.32,1.49,Surat Hub,Saturday,2
+D11,2026-04-01,Store_49,22.810868,72.371951,16:15:00,22.18,low,clear,1.2,4.0,0.1,Vadodara,Wednesday,14
+D9,2026-03-05,Store_18,23.121057,72.797194,12:45:00,25.45,high,rain,12.74,62.47,1.31,Gandhinagar,Thursday,10
+D8,2026-04-18,Store_11,22.992922,72.435214,08:15:00,21.66,low,cloudy,10.88,24.24,1.08,North Ahmedabad,Saturday,16
+D11,2026-01-12,Store_22,22.916018,72.617832,17:00:00,19.01,medium,cloudy,11.16,29.98,1.29,South Ahmedabad,Monday,3
+D6,2026-01-25,Store_42,22.964411,72.495052,16:00:00,8.0,medium,rain,5.4,17.14,0.51,South Ahmedabad,Sunday,4
+D4,2026-05-06,Store_20,22.890583,72.701519,20:15:00,32.7,high,clear,9.17,34.59,0.67,Surat Hub,Wednesday,19
+D10,2026-02-18,Store_24,23.161929,72.616119,09:30:00,23.05,medium,cloudy,7.4,18.84,0.87,Vadodara,Wednesday,8
+D7,2026-05-10,Store_15,23.088537,72.657564,09:15:00,16.86,medium,clear,13.79,35.45,1.24,Surat Hub,Sunday,19
+D2,2026-03-19,Store_33,23.136296,72.730069,20:30:00,21.03,medium,rain,10.53,35.2,1.22,Gandhinagar,Thursday,12
+D3,2026-02-25,Store_34,22.966704,72.47893,17:00:00,26.02,high,clear,8.82,31.75,0.7,Vadodara,Wednesday,9
+D9,2026-03-30,Store_17,22.940541,72.408645,09:15:00,29.83,high,clear,3.52,13.28,0.34,South Ahmedabad,Monday,14
+D8,2026-03-01,Store_24,23.161929,72.616119,17:15:00,22.84,medium,cloudy,12.02,35.69,0.89,Vadodara,Sunday,9
+D3,2026-04-19,Store_53,22.873121,72.530312,14:15:00,31.55,medium,clear,6.48,17.5,0.77,Gandhinagar,Sunday,16
+D8,2026-01-20,Store_58,23.034041,72.465501,08:30:00,17.25,high,cloudy,9.1,36.04,0.84,Gandhinagar,Tuesday,4
+D11,2026-02-01,Store_19,23.004268,72.403369,08:15:00,28.17,high,cloudy,8.11,29.07,0.62,Vadodara,Sunday,5
+D6,2026-02-22,Store_58,23.034041,72.465501,20:45:00,22.26,medium,clear,15.57,38.02,1.2,Gandhinagar,Sunday,8
+D7,2026-03-23,Store_3,22.710334,72.310964,10:15:00,35.12,high,rain,5.94,26.46,0.55,Gandhinagar,Monday,13
+D8,2026-05-08,Store_32,23.04854,72.688644,14:30:00,33.73,high,clear,6.15,22.15,0.62,South Ahmedabad,Friday,19
+D8,2026-01-24,Store_58,23.034041,72.465501,20:15:00,27.46,medium,cloudy,11.82,35.09,1.35,Gandhinagar,Saturday,4
+D11,2026-03-18,Store_55,23.156949,72.225936,17:15:00,25.41,high,cloudy,10.09,36.15,0.87,Surat Hub,Wednesday,12
+D11,2026-03-11,Store_31,22.753241,72.504423,10:45:00,29.86,medium,cloudy,6.93,18.61,0.53,North Ahmedabad,Wednesday,11
+D8,2026-02-16,Store_52,22.965498,72.718903,17:15:00,21.21,high,clear,13.51,48.64,1.42,South Ahmedabad,Monday,8
+D7,2026-05-19,Store_14,23.107669,72.644489,09:45:00,15.34,high,clear,5.83,19.99,0.44,Vadodara,Tuesday,21
+D10,2026-01-28,Store_41,23.095584,72.439015,10:45:00,28.27,high,rain,13.51,54.19,1.45,North Ahmedabad,Wednesday,5
+D8,2026-01-14,Store_30,22.883967,72.765056,14:15:00,19.24,high,cloudy,5.85,23.15,0.56,Surat Hub,Wednesday,3
+D3,2026-04-26,Store_42,22.964411,72.495052,14:45:00,17.25,high,rain,9.35,43.75,0.76,South Ahmedabad,Sunday,17
+D1,2026-04-19,Store_38,23.045288,72.709497,12:00:00,23.62,medium,rain,5.07,16.11,0.46,Gandhinagar,Sunday,16
+D4,2026-01-20,Store_21,23.141421,72.680031,09:30:00,24.75,medium,rain,14.11,51.89,1.47,North Ahmedabad,Tuesday,4
+D3,2026-04-27,Store_52,22.965498,72.718903,14:15:00,21.41,medium,cloudy,9.72,28.87,1.05,South Ahmedabad,Monday,18
+D1,2026-01-03,Store_24,23.161929,72.616119,09:30:00,14.06,low,clear,7.13,13.06,0.85,Vadodara,Saturday,1
+D1,2026-04-11,Store_5,23.019812,72.400791,17:30:00,19.19,high,clear,5.19,16.91,0.62,Surat Hub,Saturday,15
+D7,2026-02-06,Store_29,22.978477,72.870388,10:15:00,15.06,medium,cloudy,8.69,24.58,0.95,Vadodara,Friday,6
+D8,2026-01-04,Store_31,22.753241,72.504423,17:45:00,25.01,medium,clear,1.2,4.0,0.09,North Ahmedabad,Sunday,1
+D1,2026-02-13,Store_15,23.088537,72.657564,17:15:00,32.61,medium,cloudy,13.09,35.17,1.23,Surat Hub,Friday,7
+D9,2026-05-11,Store_20,22.890583,72.701519,09:45:00,25.42,high,clear,1.2,4.53,0.1,Surat Hub,Monday,20
+D7,2026-02-04,Store_31,22.753241,72.504423,17:15:00,24.75,high,clear,4.02,13.79,0.4,North Ahmedabad,Wednesday,6
+D9,2026-01-21,Store_5,23.019812,72.400791,18:15:00,35.35,medium,cloudy,6.79,21.13,0.69,Surat Hub,Wednesday,4
+D8,2026-02-06,Store_60,23.278785,72.523529,20:00:00,22.58,high,cloudy,7.83,31.01,0.62,Surat Hub,Friday,6
+D1,2026-05-12,Store_17,22.940541,72.408645,14:45:00,28.18,high,clear,4.3,14.0,0.37,South Ahmedabad,Tuesday,20
+D4,2026-05-12,Store_24,23.161929,72.616119,08:45:00,23.65,medium,cloudy,10.79,33.57,1.07,Vadodara,Tuesday,20
+D1,2026-02-10,Store_21,23.141421,72.680031,09:15:00,18.58,high,clear,1.99,6.48,0.21,North Ahmedabad,Tuesday,7
+D8,2026-01-15,Store_38,23.045288,72.709497,17:00:00,14.99,high,clear,15.82,56.95,1.19,Gandhinagar,Thursday,3
+D3,2026-01-26,Store_36,22.81839,72.344743,10:15:00,29.66,high,cloudy,6.59,26.09,0.6,North Ahmedabad,Monday,5
+D1,2026-04-17,Store_28,22.94724,72.443624,10:00:00,29.9,high,clear,14.95,48.68,1.58,Gandhinagar,Friday,16
+D11,2026-01-18,Store_57,22.927436,72.282188,17:30:00,29.72,medium,clear,10.58,25.84,1.22,South Ahmedabad,Sunday,3
+D9,2026-04-09,Store_24,23.161929,72.616119,17:00:00,28.55,medium,clear,11.03,31.19,1.17,Vadodara,Thursday,15
+D7,2026-05-06,Store_14,23.107669,72.644489,16:15:00,24.55,high,cloudy,14.37,54.21,1.55,Vadodara,Wednesday,19
+D11,2026-02-12,Store_20,22.890583,72.701519,14:00:00,17.53,medium,clear,11.35,27.73,1.35,Surat Hub,Thursday,7
+D7,2026-03-05,Store_54,22.870496,72.503593,17:00:00,13.2,medium,rain,12.42,41.53,1.18,Vadodara,Thursday,10
+D3,2026-02-16,Store_8,23.097301,72.399542,08:45:00,24.86,high,cloudy,12.93,51.19,1.05,Gandhinagar,Monday,8
+D1,2026-03-14,Store_46,23.128962,72.551703,10:45:00,27.09,low,clear,15.94,29.21,1.49,North Ahmedabad,Saturday,11
+D3,2026-04-06,Store_47,22.954772,72.555456,10:45:00,23.91,high,clear,14.31,51.5,1.22,South Ahmedabad,Monday,15
+D9,2026-02-26,Store_23,23.04117,72.615138,09:15:00,26.99,low,cloudy,7.4,17.27,0.86,Gandhinagar,Thursday,9
+D4,2026-04-10,Store_25,23.131126,72.584916,16:30:00,30.74,high,rain,3.1,15.2,0.31,Surat Hub,Friday,15
+D10,2026-04-23,Store_7,23.033065,72.796848,14:00:00,17.89,high,cloudy,13.14,44.59,1.04,South Ahmedabad,Thursday,17
+D5,2026-03-20,Store_38,23.045288,72.709497,18:45:00,27.78,medium,clear,10.34,23.94,0.99,Gandhinagar,Friday,12
+D11,2026-02-24,Store_54,22.870496,72.503593,17:00:00,18.76,high,clear,11.52,37.53,1.34,Vadodara,Tuesday,9
+D12,2026-03-08,Store_32,23.04854,72.688644,20:15:00,26.31,high,rain,5.93,26.42,0.48,South Ahmedabad,Sunday,10
+D1,2026-02-23,Store_60,23.278785,72.523529,10:45:00,21.18,high,rain,16.23,68.71,1.59,Surat Hub,Monday,9
+D3,2026-03-10,Store_22,22.916018,72.617832,09:45:00,25.29,medium,rain,5.67,19.89,0.43,South Ahmedabad,Tuesday,11
+D7,2026-03-13,Store_34,22.966704,72.47893,16:45:00,25.15,medium,cloudy,9.17,25.93,0.83,Vadodara,Friday,11
+D6,2026-03-27,Store_26,23.068759,72.697658,12:15:00,17.13,medium,clear,4.45,10.86,0.37,North Ahmedabad,Friday,13
+D5,2026-01-22,Store_44,22.947396,72.573899,17:00:00,21.21,medium,clear,1.2,4.0,0.12,Vadodara,Thursday,4
+D10,2026-04-11,Store_36,22.81839,72.344743,09:30:00,20.65,high,cloudy,3.47,11.78,0.34,North Ahmedabad,Saturday,15
+D2,2026-05-08,Store_11,22.992922,72.435214,08:45:00,13.01,high,rain,2.85,12.72,0.31,North Ahmedabad,Friday,19
+D8,2026-04-01,Store_47,22.954772,72.555456,18:15:00,26.09,medium,rain,6.07,21.3,0.72,South Ahmedabad,Wednesday,14
+D3,2026-03-21,Store_41,23.095584,72.439015,12:30:00,25.32,low,cloudy,2.92,6.49,0.34,North Ahmedabad,Saturday,12
+D10,2026-04-18,Store_34,22.966704,72.47893,17:00:00,30.97,low,cloudy,11.39,21.75,1.01,Vadodara,Saturday,16
+D6,2026-02-06,Store_39,22.95414,72.603108,14:45:00,14.75,high,rain,7.63,32.33,0.75,Vadodara,Friday,6
+D5,2026-04-29,Store_29,22.978477,72.870388,10:45:00,20.03,high,clear,16.23,50.08,1.86,Vadodara,Wednesday,18
+D8,2026-03-04,Store_8,23.097301,72.399542,10:15:00,19.71,low,clear,3.31,6.7,0.28,Gandhinagar,Wednesday,10
+D12,2026-04-14,Store_10,23.163052,72.561415,10:00:00,22.16,high,clear,6.13,21.03,0.5,Surat Hub,Tuesday,16
+D7,2026-02-09,Store_22,22.916018,72.617832,10:00:00,21.14,high,clear,6.16,21.13,0.73,South Ahmedabad,Monday,7
+D5,2026-01-17,Store_8,23.097301,72.399542,10:45:00,23.44,high,clear,6.83,21.06,0.56,Gandhinagar,Saturday,3
+D9,2026-04-16,Store_12,23.218107,72.540494,17:30:00,30.04,medium,cloudy,4.93,15.34,0.53,South Ahmedabad,Thursday,16
+D7,2026-03-24,Store_31,22.753241,72.504423,16:45:00,18.95,medium,clear,7.52,19.34,0.83,North Ahmedabad,Tuesday,13
+D4,2026-01-08,Store_42,22.964411,72.495052,09:30:00,17.68,medium,rain,5.05,18.56,0.51,South Ahmedabad,Thursday,2
+D11,2026-05-02,Store_13,22.953968,72.500973,17:00:00,21.56,medium,clear,18.57,45.36,1.78,Gandhinagar,Saturday,18
+D9,2026-01-15,Store_46,23.128962,72.551703,16:15:00,24.11,medium,clear,3.72,10.51,0.38,North Ahmedabad,Thursday,3
+D8,2026-05-07,Store_6,23.163204,72.726958,16:30:00,8.0,low,rain,11.53,30.34,0.94,North Ahmedabad,Thursday,19
+D3,2026-01-12,Store_59,23.059728,72.57577,09:45:00,19.84,medium,clear,1.2,4.0,0.14,Vadodara,Monday,3
+D9,2026-05-01,Store_31,22.753241,72.504423,12:45:00,16.49,medium,clear,11.5,32.53,0.82,North Ahmedabad,Friday,18
+D9,2026-01-20,Store_26,23.068759,72.697658,09:30:00,21.38,low,clear,6.9,14.64,0.53,North Ahmedabad,Tuesday,4
+D5,2026-02-02,Store_45,23.099419,72.660706,09:45:00,20.36,low,rain,8.55,19.3,0.71,Surat Hub,Monday,6
+D10,2026-01-27,Store_11,22.992922,72.435214,10:30:00,22.44,high,cloudy,13.1,44.47,1.5,North Ahmedabad,Tuesday,5
+D2,2026-04-12,Store_26,23.068759,72.697658,08:45:00,14.75,medium,cloudy,13.23,37.42,1.26,North Ahmedabad,Sunday,15
+D10,2026-03-01,Store_50,23.086464,72.390304,20:30:00,19.08,medium,clear,7.12,16.48,0.81,Surat Hub,Sunday,9
+D7,2026-01-10,Store_20,22.890583,72.701519,20:15:00,27.4,medium,clear,14.31,36.79,1.09,Surat Hub,Saturday,2
+D10,2026-04-03,Store_19,23.004268,72.403369,16:30:00,24.95,high,clear,6.36,19.63,0.48,Vadodara,Friday,14
+D11,2026-04-13,Store_14,23.107669,72.644489,16:00:00,22.25,medium,clear,12.69,30.99,1.3,Vadodara,Monday,16
+D10,2026-04-24,Store_59,23.059728,72.57577,16:00:00,18.15,high,clear,13.26,40.91,0.99,Vadodara,Friday,17
+D5,2026-05-05,Store_58,23.034041,72.465501,14:15:00,13.82,high,clear,7.72,23.82,0.73,Gandhinagar,Tuesday,19
+D2,2026-01-14,Store_21,23.141421,72.680031,10:00:00,17.85,high,cloudy,16.66,62.83,1.99,North Ahmedabad,Wednesday,3
+D7,2026-01-08,Store_59,23.059728,72.57577,17:45:00,9.54,medium,clear,8.72,22.43,0.67,Vadodara,Thursday,2
+D2,2026-04-21,Store_52,22.965498,72.718903,14:00:00,33.03,high,cloudy,4.29,16.19,0.41,South Ahmedabad,Tuesday,17
+D7,2026-02-05,Store_56,23.092008,72.618947,12:30:00,24.78,high,clear,2.08,7.12,0.15,North Ahmedabad,Thursday,6
+D10,2026-02-02,Store_53,22.873121,72.530312,14:15:00,18.21,medium,cloudy,8.85,22.54,0.75,Gandhinagar,Monday,6
+D9,2026-01-09,Store_22,22.916018,72.617832,14:00:00,23.88,high,clear,4.96,18.71,0.43,South Ahmedabad,Friday,2
+D2,2026-05-15,Store_3,22.710334,72.310964,08:00:00,20.95,medium,clear,8.63,22.18,0.74,Gandhinagar,Friday,20
+D10,2026-01-13,Store_16,23.365164,72.490117,14:30:00,19.26,low,rain,12.1,27.29,1.41,North Ahmedabad,Tuesday,3
+D11,2026-03-02,Store_8,23.097301,72.399542,18:00:00,37.69,medium,clear,11.79,28.79,1.33,Gandhinagar,Monday,10
+D12,2026-04-13,Store_42,22.964411,72.495052,17:45:00,23.87,high,clear,4.05,13.89,0.46,South Ahmedabad,Monday,16
+D3,2026-04-19,Store_16,23.365164,72.490117,10:30:00,23.63,high,clear,13.16,47.38,1.31,North Ahmedabad,Sunday,16
+D12,2026-03-20,Store_27,22.789355,72.507466,08:00:00,26.58,medium,clear,9.05,23.27,0.75,South Ahmedabad,Friday,12
+D8,2026-02-19,Store_26,23.068759,72.697658,14:15:00,24.45,high,clear,4.87,17.54,0.35,North Ahmedabad,Thursday,8
+D5,2026-04-27,Store_55,23.156949,72.225936,16:45:00,34.25,high,clear,7.19,22.2,0.52,Surat Hub,Monday,18
+D2,2026-02-04,Store_32,23.04854,72.688644,14:15:00,26.48,medium,cloudy,10.45,29.57,0.83,South Ahmedabad,Wednesday,6
+D4,2026-04-08,Store_50,23.086464,72.390304,17:30:00,22.26,low,clear,13.63,28.91,1.24,Surat Hub,Wednesday,15
+D10,2026-01-06,Store_26,23.068759,72.697658,12:00:00,28.95,medium,clear,9.44,21.84,0.71,North Ahmedabad,Tuesday,2
+D11,2026-04-26,Store_59,23.059728,72.57577,18:15:00,26.93,medium,cloudy,10.96,29.45,1.21,Vadodara,Sunday,17
+D6,2026-03-30,Store_34,22.966704,72.47893,09:45:00,16.85,medium,clear,5.0,12.21,0.37,Vadodara,Monday,14
+D2,2026-05-06,Store_8,23.097301,72.399542,16:15:00,24.6,medium,cloudy,4.72,13.35,0.46,Gandhinagar,Wednesday,19
+D4,2026-02-16,Store_48,22.752526,72.281978,09:15:00,17.43,high,clear,10.46,39.47,0.97,Gandhinagar,Monday,8
+D10,2026-04-09,Store_50,23.086464,72.390304,18:15:00,23.3,high,cloudy,2.71,9.2,0.32,Surat Hub,Thursday,15
+D12,2026-04-21,Store_60,23.278785,72.523529,09:30:00,20.45,medium,cloudy,6.27,17.74,0.56,Surat Hub,Tuesday,17
+D4,2026-03-13,Store_5,23.019812,72.400791,09:00:00,27.38,low,cloudy,6.36,14.85,0.68,Surat Hub,Friday,11
+D8,2026-04-18,Store_38,23.045288,72.709497,17:30:00,21.23,high,cloudy,12.42,49.16,0.94,Gandhinagar,Saturday,16
+D10,2026-01-11,Store_22,22.916018,72.617832,18:30:00,22.34,low,clear,9.58,16.63,0.69,South Ahmedabad,Sunday,2
+D6,2026-04-11,Store_10,23.163052,72.561415,14:45:00,25.32,medium,clear,5.36,13.09,0.6,Surat Hub,Saturday,15
+D4,2026-02-14,Store_4,23.042954,72.508151,10:15:00,20.36,low,clear,7.25,15.38,0.6,Vadodara,Saturday,7
+D6,2026-04-07,Store_28,22.94724,72.443624,18:30:00,15.09,high,clear,5.96,19.43,0.48,Gandhinagar,Tuesday,15
+D7,2026-01-08,Store_4,23.042954,72.508151,08:45:00,19.47,medium,clear,8.91,22.91,1.01,Vadodara,Thursday,2
+D1,2026-04-13,Store_53,22.873121,72.530312,10:15:00,13.43,high,cloudy,9.79,35.07,0.7,Gandhinagar,Monday,16
+D1,2026-01-12,Store_16,23.365164,72.490117,08:00:00,15.73,medium,rain,7.23,22.97,0.73,North Ahmedabad,Monday,3
+D6,2026-03-29,Store_23,23.04117,72.615138,17:00:00,14.28,low,clear,13.64,24.99,1.11,Gandhinagar,Sunday,13
+D1,2026-04-14,Store_54,22.870496,72.503593,08:00:00,16.95,low,clear,2.14,4.0,0.15,Vadodara,Tuesday,16
+D6,2026-05-19,Store_17,22.940541,72.408645,12:30:00,11.07,medium,clear,4.32,10.55,0.49,South Ahmedabad,Tuesday,21
+D3,2026-02-12,Store_19,23.004268,72.403369,08:15:00,9.06,high,clear,6.56,23.63,0.65,Vadodara,Thursday,7
+D3,2026-01-18,Store_58,23.034041,72.465501,10:15:00,28.78,high,clear,10.73,38.64,0.97,Gandhinagar,Sunday,3
+D8,2026-01-08,Store_59,23.059728,72.57577,08:45:00,23.59,high,cloudy,6.37,25.24,0.69,Vadodara,Thursday,2
+D7,2026-03-26,Store_32,23.04854,72.688644,08:30:00,8.3,low,cloudy,1.72,4.0,0.16,South Ahmedabad,Thursday,13
+D5,2026-01-23,Store_39,22.95414,72.603108,17:45:00,30.66,high,clear,7.99,24.66,0.7,Vadodara,Friday,4
+D10,2026-04-08,Store_48,22.752526,72.281978,10:30:00,16.13,medium,cloudy,7.96,20.26,0.79,Gandhinagar,Wednesday,15
+D11,2026-01-16,Store_57,22.927436,72.282188,12:30:00,12.57,medium,rain,16.49,52.36,1.85,South Ahmedabad,Friday,3
+D10,2026-03-18,Store_7,23.033065,72.796848,09:15:00,28.8,medium,clear,2.72,6.3,0.25,South Ahmedabad,Wednesday,12
+D9,2026-03-25,Store_14,23.107669,72.644489,20:45:00,18.65,medium,rain,6.95,25.55,0.6,Vadodara,Wednesday,13
+D11,2026-01-31,Store_3,22.710334,72.310964,14:30:00,21.22,medium,cloudy,2.88,7.74,0.33,Gandhinagar,Saturday,5
+D2,2026-05-17,Store_37,22.875388,72.670832,09:45:00,32.62,low,clear,9.41,18.15,1.08,South Ahmedabad,Sunday,20
+D10,2026-04-04,Store_38,23.045288,72.709497,10:15:00,12.36,medium,clear,11.54,26.71,1.3,Gandhinagar,Saturday,14
+D12,2026-01-18,Store_55,23.156949,72.225936,20:15:00,26.67,low,clear,7.62,14.7,0.57,Surat Hub,Sunday,3
+D5,2026-01-01,Store_40,23.122594,72.509531,14:00:00,22.95,medium,cloudy,4.7,11.98,0.41,Surat Hub,Thursday,1
+D4,2026-01-21,Store_54,22.870496,72.503593,09:15:00,25.93,high,clear,3.65,13.77,0.41,Vadodara,Wednesday,4
+D3,2026-02-12,Store_27,22.789355,72.507466,20:00:00,22.58,medium,cloudy,3.97,11.8,0.32,South Ahmedabad,Thursday,7
+D10,2026-01-20,Store_2,23.142572,72.759513,14:15:00,16.4,high,cloudy,5.73,19.46,0.61,South Ahmedabad,Tuesday,4
+D7,2026-01-11,Store_6,23.163204,72.726958,16:15:00,30.99,medium,clear,5.3,13.63,0.46,North Ahmedabad,Sunday,2
+D5,2026-04-27,Store_35,23.159776,72.533139,14:15:00,20.17,medium,cloudy,13.41,34.15,1.16,Surat Hub,Monday,18
+D7,2026-04-02,Store_40,23.122594,72.509531,20:00:00,25.56,high,clear,9.45,32.39,1.0,Surat Hub,Thursday,14
+D10,2026-04-02,Store_49,22.810868,72.371951,18:30:00,20.04,medium,cloudy,8.02,20.41,0.87,Vadodara,Thursday,14
+D6,2026-01-01,Store_31,22.753241,72.504423,10:00:00,24.11,high,clear,1.44,4.68,0.13,North Ahmedabad,Thursday,1
+D1,2026-05-02,Store_52,22.965498,72.718903,18:45:00,31.47,high,clear,9.0,29.33,0.93,South Ahmedabad,Saturday,18
+D9,2026-01-29,Store_3,22.710334,72.310964,09:30:00,26.19,medium,clear,4.8,13.58,0.46,Gandhinagar,Thursday,5
+D5,2026-04-25,Store_19,23.004268,72.403369,12:45:00,29.5,medium,clear,8.32,19.24,0.76,Vadodara,Saturday,17
+D2,2026-03-14,Store_36,22.81839,72.344743,12:00:00,30.3,medium,cloudy,4.37,12.37,0.38,North Ahmedabad,Saturday,11
+D9,2026-04-28,Store_52,22.965498,72.718903,10:45:00,16.82,high,cloudy,17.23,71.47,1.68,South Ahmedabad,Tuesday,18
+D7,2026-03-24,Store_15,23.088537,72.657564,08:15:00,19.48,low,clear,10.93,21.09,0.86,Surat Hub,Tuesday,13
+D6,2026-05-01,Store_50,23.086464,72.390304,20:15:00,18.3,low,cloudy,9.85,19.85,1.09,Surat Hub,Friday,18
+D11,2026-02-20,Store_12,23.218107,72.540494,14:30:00,20.99,medium,rain,7.38,23.43,0.85,South Ahmedabad,Friday,8
+D12,2026-02-10,Store_10,23.163052,72.561415,10:00:00,18.51,high,rain,12.33,54.94,1.21,Surat Hub,Tuesday,7
+D6,2026-04-04,Store_46,23.128962,72.551703,20:30:00,25.02,medium,clear,12.69,31.0,1.19,North Ahmedabad,Saturday,14
+D6,2026-01-10,Store_55,23.156949,72.225936,20:00:00,24.3,low,cloudy,8.23,16.6,0.67,Surat Hub,Saturday,2
+D9,2026-02-22,Store_13,22.953968,72.500973,10:30:00,21.77,medium,clear,10.09,28.53,0.88,Gandhinagar,Sunday,8
+D9,2026-02-20,Store_2,23.142572,72.759513,08:45:00,23.13,medium,cloudy,6.3,19.59,0.44,South Ahmedabad,Friday,8
+D1,2026-03-30,Store_39,22.95414,72.603108,17:15:00,19.53,medium,cloudy,8.46,22.73,0.67,Vadodara,Monday,14
+D1,2026-04-04,Store_59,23.059728,72.57577,14:30:00,22.66,medium,clear,6.46,15.77,0.58,Vadodara,Saturday,14
+D10,2026-04-09,Store_56,23.092008,72.618947,16:30:00,15.44,high,cloudy,8.91,30.24,1.0,North Ahmedabad,Thursday,15
+D7,2026-05-15,Store_52,22.965498,72.718903,20:15:00,23.97,high,clear,10.84,37.16,0.89,South Ahmedabad,Friday,20
+D11,2026-01-07,Store_58,23.034041,72.465501,17:15:00,24.86,medium,cloudy,7.18,19.31,0.61,Gandhinagar,Wednesday,2
+D11,2026-03-07,Store_41,23.095584,72.439015,09:00:00,29.66,low,clear,5.94,10.88,0.55,North Ahmedabad,Saturday,10
+D6,2026-02-07,Store_37,22.875388,72.670832,14:45:00,23.27,high,cloudy,8.96,32.1,1.01,South Ahmedabad,Saturday,6
+D12,2026-03-30,Store_38,23.045288,72.709497,12:30:00,25.4,medium,cloudy,9.36,26.46,0.68,Gandhinagar,Monday,14
+D11,2026-01-18,Store_20,22.890583,72.701519,10:15:00,29.76,high,clear,15.86,51.66,1.54,Surat Hub,Sunday,3
+D5,2026-03-28,Store_48,22.752526,72.281978,20:30:00,29.17,high,cloudy,12.87,43.68,1.27,Gandhinagar,Saturday,13
+D10,2026-02-19,Store_45,23.099419,72.660706,09:45:00,30.85,medium,clear,3.15,7.29,0.22,Surat Hub,Thursday,8
+D8,2026-03-13,Store_31,22.753241,72.504423,17:15:00,18.97,low,clear,2.6,5.26,0.29,North Ahmedabad,Friday,11
+D6,2026-03-24,Store_35,23.159776,72.533139,10:45:00,27.56,medium,rain,4.38,13.91,0.31,Surat Hub,Tuesday,13
+D4,2026-03-10,Store_8,23.097301,72.399542,16:00:00,22.49,high,clear,8.78,33.11,0.78,Gandhinagar,Tuesday,11
+D10,2026-05-14,Store_31,22.753241,72.504423,12:00:00,15.06,medium,clear,7.55,17.48,0.76,North Ahmedabad,Thursday,20
+D11,2026-04-24,Store_2,23.142572,72.759513,16:15:00,21.24,high,rain,12.04,50.97,1.44,South Ahmedabad,Friday,17
+D9,2026-04-25,Store_34,22.966704,72.47893,16:45:00,15.68,high,clear,1.2,4.53,0.13,Vadodara,Saturday,17
+D12,2026-04-16,Store_54,22.870496,72.503593,10:00:00,19.53,medium,cloudy,10.69,30.23,1.17,Vadodara,Thursday,16
+D4,2026-03-25,Store_36,22.81839,72.344743,16:00:00,15.8,high,cloudy,8.2,34.0,0.8,North Ahmedabad,Wednesday,13
+D8,2026-03-05,Store_23,23.04117,72.615138,09:00:00,28.44,medium,cloudy,7.23,21.46,0.69,Gandhinagar,Thursday,10
+D7,2026-03-03,Store_46,23.128962,72.551703,12:45:00,21.18,low,rain,7.43,18.62,0.8,North Ahmedabad,Tuesday,10
+D2,2026-01-18,Store_12,23.218107,72.540494,09:45:00,14.37,medium,clear,8.31,21.37,0.69,South Ahmedabad,Sunday,3
+D5,2026-01-16,Store_57,22.927436,72.282188,10:30:00,30.69,medium,clear,10.9,25.23,1.28,South Ahmedabad,Friday,3
+D1,2026-02-14,Store_5,23.019812,72.400791,09:00:00,26.32,low,clear,8.48,15.54,0.81,Surat Hub,Saturday,7
+D3,2026-02-02,Store_36,22.81839,72.344743,09:15:00,17.02,medium,clear,1.87,5.04,0.22,North Ahmedabad,Monday,6
+D11,2026-04-04,Store_49,22.810868,72.371951,10:45:00,24.99,high,clear,8.8,28.66,0.64,Vadodara,Saturday,14
+D12,2026-02-26,Store_24,23.161929,72.616119,16:45:00,18.17,medium,clear,6.8,17.48,0.54,Vadodara,Thursday,9
+D5,2026-02-05,Store_32,23.04854,72.688644,18:00:00,18.43,high,clear,14.86,45.84,1.7,South Ahmedabad,Thursday,6
+D7,2026-01-09,Store_31,22.753241,72.504423,08:15:00,32.3,high,rain,13.07,58.25,1.1,North Ahmedabad,Friday,2
+D5,2026-03-04,Store_37,22.875388,72.670832,08:15:00,12.74,high,cloudy,9.73,33.02,0.85,South Ahmedabad,Wednesday,10
+D12,2026-03-13,Store_36,22.81839,72.344743,16:00:00,27.39,high,clear,4.7,16.12,0.45,North Ahmedabad,Friday,11
+D4,2026-03-16,Store_43,22.831166,72.668794,14:30:00,18.73,low,cloudy,5.15,12.02,0.39,Gandhinagar,Monday,12
+D2,2026-04-09,Store_27,22.789355,72.507466,12:30:00,20.68,medium,cloudy,8.12,22.97,0.6,South Ahmedabad,Thursday,15
+D3,2026-03-03,Store_57,22.927436,72.282188,14:45:00,22.33,medium,rain,7.93,27.84,0.6,South Ahmedabad,Tuesday,10
+D1,2026-04-14,Store_14,23.107669,72.644489,17:30:00,11.64,medium,clear,9.88,24.13,0.73,Vadodara,Tuesday,16
+D12,2026-04-01,Store_56,23.092008,72.618947,09:30:00,14.05,medium,clear,6.47,16.64,0.59,North Ahmedabad,Wednesday,14
+D4,2026-05-19,Store_11,22.992922,72.435214,12:00:00,18.08,high,rain,3.95,19.39,0.45,North Ahmedabad,Tuesday,21
+D3,2026-04-18,Store_9,23.0815,72.379623,09:30:00,37.32,low,cloudy,8.51,18.97,0.72,Vadodara,Saturday,16
+D4,2026-02-24,Store_22,22.916018,72.617832,12:15:00,15.05,medium,clear,14.92,42.2,1.15,South Ahmedabad,Tuesday,9
+D12,2026-03-01,Store_54,22.870496,72.503593,16:15:00,29.52,medium,cloudy,3.4,9.61,0.29,Vadodara,Sunday,9
+D1,2026-01-03,Store_48,22.752526,72.281978,12:15:00,20.03,medium,clear,8.08,19.73,0.72,Gandhinagar,Saturday,1
+D4,2026-04-11,Store_43,22.831166,72.668794,10:00:00,28.44,medium,cloudy,11.84,36.85,1.42,Gandhinagar,Saturday,15
+D3,2026-04-25,Store_60,23.278785,72.523529,16:15:00,20.58,low,rain,9.64,25.38,0.83,Surat Hub,Saturday,17
+D2,2026-04-23,Store_13,22.953968,72.500973,14:45:00,22.7,medium,cloudy,12.64,35.76,1.13,Gandhinagar,Thursday,17
+D7,2026-03-31,Store_56,23.092008,72.618947,09:45:00,20.79,medium,clear,11.04,28.4,0.88,North Ahmedabad,Tuesday,14
+D3,2026-03-17,Store_33,23.136296,72.730069,18:00:00,34.1,high,clear,15.42,55.51,1.73,Gandhinagar,Tuesday,12
+D1,2026-04-11,Store_32,23.04854,72.688644,20:00:00,12.15,low,cloudy,7.67,15.45,0.56,South Ahmedabad,Saturday,15
+D6,2026-01-12,Store_7,23.033065,72.796848,20:15:00,34.63,medium,cloudy,8.8,23.66,0.74,South Ahmedabad,Monday,3
+D4,2026-03-19,Store_12,23.218107,72.540494,10:45:00,22.42,medium,rain,6.39,23.5,0.54,South Ahmedabad,Thursday,12
+D2,2026-04-24,Store_40,23.122594,72.509531,16:45:00,28.45,high,clear,8.09,27.75,0.63,Surat Hub,Friday,17
+D4,2026-01-17,Store_30,22.883967,72.765056,09:30:00,22.91,low,clear,1.2,4.0,0.09,Surat Hub,Saturday,3
+D9,2026-02-05,Store_34,22.966704,72.47893,17:30:00,16.6,high,cloudy,8.74,36.27,0.84,Vadodara,Thursday,6
+D2,2026-03-30,Store_3,22.710334,72.310964,10:15:00,19.47,medium,clear,7.33,18.84,0.76,Gandhinagar,Monday,14
+D12,2026-05-02,Store_25,23.131126,72.584916,08:15:00,22.22,medium,clear,1.2,4.0,0.13,Surat Hub,Saturday,18
+D5,2026-03-14,Store_9,23.0815,72.379623,17:30:00,22.38,low,clear,8.09,14.05,0.92,Vadodara,Saturday,11
+D8,2026-03-27,Store_9,23.0815,72.379623,20:30:00,24.48,medium,clear,10.74,29.0,1.12,Vadodara,Friday,13
+D9,2026-02-04,Store_57,22.927436,72.282188,17:45:00,18.42,high,clear,9.15,34.53,1.03,South Ahmedabad,Wednesday,6
+D5,2026-03-20,Store_20,22.890583,72.701519,17:30:00,25.12,medium,clear,11.16,25.83,1.21,Surat Hub,Friday,12
+D12,2026-01-04,Store_14,23.107669,72.644489,18:00:00,21.13,medium,clear,5.07,13.04,0.46,Vadodara,Sunday,1
+D8,2026-03-07,Store_38,23.045288,72.709497,09:15:00,19.6,medium,clear,8.92,24.09,0.65,Gandhinagar,Saturday,10
+D1,2026-01-21,Store_44,22.947396,72.573899,09:45:00,26.74,medium,clear,3.77,9.21,0.44,Vadodara,Wednesday,4
+D9,2026-04-04,Store_27,22.789355,72.507466,16:30:00,20.14,low,rain,2.63,7.26,0.27,South Ahmedabad,Saturday,14
+D2,2026-01-29,Store_18,23.121057,72.797194,17:30:00,18.21,high,clear,12.55,43.04,1.02,Gandhinagar,Thursday,5
+D11,2026-03-30,Store_10,23.163052,72.561415,17:30:00,24.25,high,clear,3.73,12.13,0.29,Surat Hub,Monday,14
+D8,2026-03-05,Store_60,23.278785,72.523529,12:45:00,31.4,high,clear,11.62,41.84,1.19,Surat Hub,Thursday,10
+D8,2026-02-19,Store_22,22.916018,72.617832,14:45:00,27.41,medium,clear,6.28,16.97,0.7,South Ahmedabad,Thursday,8
+D10,2026-03-16,Store_3,22.710334,72.310964,18:15:00,9.8,medium,clear,13.73,31.78,1.23,Gandhinagar,Monday,12
+D12,2026-01-26,Store_12,23.218107,72.540494,09:30:00,20.92,medium,cloudy,8.26,23.37,0.86,South Ahmedabad,Monday,5
+D2,2026-02-12,Store_7,23.033065,72.796848,14:00:00,31.88,low,clear,19.47,37.54,1.8,South Ahmedabad,Thursday,7
+D11,2026-05-13,Store_33,23.136296,72.730069,18:00:00,20.4,high,clear,6.57,21.39,0.76,Gandhinagar,Wednesday,20
+D12,2026-02-02,Store_44,22.947396,72.573899,14:45:00,18.67,medium,cloudy,2.01,5.69,0.24,Vadodara,Monday,6
+D1,2026-02-03,Store_56,23.092008,72.618947,20:45:00,35.66,low,clear,11.79,21.61,1.41,North Ahmedabad,Tuesday,6
+D3,2026-05-06,Store_22,22.916018,72.617832,09:45:00,14.49,medium,clear,6.75,18.22,0.52,South Ahmedabad,Wednesday,19
+D6,2026-01-02,Store_39,22.95414,72.603108,09:00:00,22.44,low,rain,9.38,22.34,1.02,Vadodara,Friday,1
+D1,2026-03-01,Store_3,22.710334,72.310964,10:45:00,17.34,medium,clear,12.52,30.6,1.35,Gandhinagar,Sunday,9
+D7,2026-04-16,Store_36,22.81839,72.344743,14:15:00,22.06,high,clear,3.52,12.05,0.29,North Ahmedabad,Thursday,16
+D7,2026-02-22,Store_54,22.870496,72.503593,16:00:00,23.7,medium,cloudy,6.47,18.3,0.76,Vadodara,Sunday,8
+D11,2026-04-12,Store_33,23.136296,72.730069,09:30:00,24.43,medium,cloudy,9.41,25.28,1.09,Gandhinagar,Sunday,15
+D12,2026-05-13,Store_3,22.710334,72.310964,20:30:00,20.69,high,clear,8.93,30.62,0.76,Gandhinagar,Wednesday,20
+D6,2026-02-11,Store_59,23.059728,72.57577,08:15:00,20.73,medium,clear,10.95,26.76,1.31,Vadodara,Wednesday,7
+D8,2026-03-04,Store_4,23.042954,72.508151,18:15:00,21.66,low,rain,12.89,33.93,0.96,Vadodara,Wednesday,10
+D10,2026-01-03,Store_49,22.810868,72.371951,12:30:00,10.86,high,cloudy,6.46,21.93,0.61,Vadodara,Saturday,1
+D10,2026-01-23,Store_21,23.141421,72.680031,16:30:00,18.5,high,clear,9.06,27.97,0.95,North Ahmedabad,Friday,4
+D6,2026-04-09,Store_43,22.831166,72.668794,18:30:00,21.45,medium,clear,5.2,12.7,0.57,Gandhinagar,Thursday,15
+D10,2026-02-19,Store_52,22.965498,72.718903,08:00:00,14.7,high,cloudy,6.21,21.08,0.51,South Ahmedabad,Thursday,8
+D10,2026-01-30,Store_10,23.163052,72.561415,09:30:00,28.7,medium,clear,14.8,34.26,1.52,Surat Hub,Friday,5
+D3,2026-03-21,Store_46,23.128962,72.551703,12:45:00,26.83,high,cloudy,5.04,19.94,0.5,North Ahmedabad,Saturday,12
+D11,2026-04-02,Store_51,22.961994,72.831246,12:00:00,22.26,high,clear,8.5,27.68,0.8,North Ahmedabad,Thursday,14
+D11,2026-04-25,Store_47,22.954772,72.555456,18:30:00,16.4,medium,clear,5.0,12.22,0.53,South Ahmedabad,Saturday,17
+D5,2026-01-12,Store_10,23.163052,72.561415,18:00:00,24.71,medium,clear,6.6,15.28,0.74,Surat Hub,Monday,3
+D3,2026-04-06,Store_57,22.927436,72.282188,09:00:00,9.7,medium,cloudy,7.98,23.71,0.76,South Ahmedabad,Monday,15
+D2,2026-02-15,Store_30,22.883967,72.765056,09:00:00,19.43,medium,cloudy,13.09,37.02,1.35,Surat Hub,Sunday,7
+D1,2026-01-22,Store_5,23.019812,72.400791,08:30:00,33.18,high,clear,6.0,19.53,0.53,Surat Hub,Thursday,4
+D1,2026-03-07,Store_41,23.095584,72.439015,20:15:00,17.41,low,clear,5.87,10.76,0.51,North Ahmedabad,Saturday,10
+D3,2026-03-19,Store_2,23.142572,72.759513,14:00:00,24.09,medium,cloudy,6.2,18.4,0.46,South Ahmedabad,Thursday,12
+D9,2026-02-24,Store_22,22.916018,72.617832,10:30:00,24.01,high,clear,4.9,18.48,0.36,South Ahmedabad,Tuesday,9
+D4,2026-02-12,Store_42,22.964411,72.495052,10:30:00,29.64,medium,clear,1.2,4.0,0.11,South Ahmedabad,Thursday,7
+D7,2026-01-28,Store_3,22.710334,72.310964,10:15:00,24.01,high,clear,7.57,25.96,0.77,Gandhinagar,Wednesday,5
+D2,2026-02-04,Store_44,22.947396,72.573899,12:30:00,33.09,medium,rain,6.99,23.35,0.54,Vadodara,Wednesday,6
+D3,2026-01-25,Store_6,23.163204,72.726958,17:30:00,27.44,medium,clear,5.49,14.83,0.52,North Ahmedabad,Sunday,4
+D10,2026-04-18,Store_1,23.071255,72.363403,18:30:00,32.17,medium,clear,9.06,20.97,1.07,North Ahmedabad,Saturday,16
+D11,2026-03-01,Store_34,22.966704,72.47893,12:30:00,17.98,medium,rain,13.63,43.27,1.09,Vadodara,Sunday,9
+D12,2026-04-16,Store_35,23.159776,72.533139,18:30:00,33.56,medium,cloudy,6.98,19.73,0.53,Surat Hub,Thursday,16
+D10,2026-04-09,Store_50,23.086464,72.390304,17:00:00,30.41,medium,clear,9.56,22.12,1.01,Surat Hub,Thursday,15
+D10,2026-04-19,Store_25,23.131126,72.584916,16:45:00,23.9,high,cloudy,9.54,32.38,0.8,Surat Hub,Sunday,16
+D2,2026-04-14,Store_43,22.831166,72.668794,17:15:00,27.45,high,clear,1.2,4.11,0.08,Gandhinagar,Tuesday,16
+D9,2026-04-21,Store_44,22.947396,72.573899,14:30:00,23.84,medium,clear,3.16,8.93,0.29,Vadodara,Tuesday,17
+D9,2026-05-06,Store_38,23.045288,72.709497,10:00:00,23.42,medium,clear,9.27,26.23,0.7,Gandhinagar,Wednesday,19
+D5,2026-04-04,Store_7,23.033065,72.796848,12:15:00,26.47,low,cloudy,3.92,7.48,0.46,South Ahmedabad,Saturday,14
+D8,2026-02-15,Store_40,23.122594,72.509531,17:30:00,29.33,low,clear,12.48,25.27,1.13,Surat Hub,Sunday,7
+D5,2026-05-05,Store_48,22.752526,72.281978,20:15:00,25.6,low,cloudy,6.68,12.76,0.5,Gandhinagar,Tuesday,19
+D1,2026-04-02,Store_50,23.086464,72.390304,14:00:00,23.36,high,clear,5.26,17.13,0.4,Surat Hub,Thursday,14
+D2,2026-03-06,Store_39,22.95414,72.603108,10:30:00,26.06,low,cloudy,13.71,29.08,1.6,Vadodara,Friday,10
+D3,2026-02-10,Store_42,22.964411,72.495052,17:30:00,17.85,high,cloudy,9.36,37.06,0.91,South Ahmedabad,Tuesday,7
+D6,2026-04-11,Store_15,23.088537,72.657564,16:30:00,22.93,medium,cloudy,1.26,4.0,0.11,Surat Hub,Saturday,15
+D3,2026-02-05,Store_12,23.218107,72.540494,09:30:00,23.08,high,clear,5.71,20.55,0.55,South Ahmedabad,Thursday,6
+D11,2026-04-13,Store_19,23.004268,72.403369,09:15:00,27.13,medium,clear,7.75,18.94,0.58,Vadodara,Monday,16
+D12,2026-01-18,Store_25,23.131126,72.584916,16:45:00,21.6,medium,cloudy,6.13,17.34,0.5,Surat Hub,Sunday,3
+D8,2026-05-01,Store_3,22.710334,72.310964,20:45:00,17.49,medium,rain,3.12,10.94,0.36,Gandhinagar,Friday,18
+D11,2026-01-24,Store_11,22.992922,72.435214,16:00:00,16.4,high,clear,16.84,54.84,1.52,North Ahmedabad,Saturday,4
+D2,2026-02-17,Store_16,23.365164,72.490117,09:45:00,23.78,medium,clear,5.18,13.31,0.42,North Ahmedabad,Tuesday,8
+D11,2026-02-11,Store_32,23.04854,72.688644,12:15:00,19.2,high,cloudy,11.35,40.68,1.05,South Ahmedabad,Wednesday,7
+D7,2026-01-18,Store_7,23.033065,72.796848,10:00:00,21.13,medium,clear,4.49,11.54,0.47,South Ahmedabad,Sunday,3
+D3,2026-01-04,Store_17,22.940541,72.408645,08:15:00,20.66,medium,clear,3.45,9.32,0.26,South Ahmedabad,Sunday,1
+D5,2026-04-13,Store_39,22.95414,72.603108,14:30:00,23.56,medium,clear,10.58,24.49,1.15,Vadodara,Monday,16
+D1,2026-02-07,Store_15,23.088537,72.657564,09:30:00,25.34,medium,clear,12.28,29.99,1.4,Surat Hub,Saturday,6
+D1,2026-01-07,Store_29,22.978477,72.870388,16:30:00,20.4,high,cloudy,2.32,8.33,0.24,Vadodara,Wednesday,2
+D1,2026-01-31,Store_18,23.121057,72.797194,20:45:00,20.68,high,clear,11.91,38.79,0.85,Gandhinagar,Saturday,5
+D11,2026-02-07,Store_53,22.873121,72.530312,10:00:00,20.37,high,cloudy,11.83,42.4,0.94,Gandhinagar,Saturday,6
+D9,2026-02-08,Store_40,23.122594,72.509531,16:00:00,26.99,medium,cloudy,14.41,44.85,1.54,Surat Hub,Sunday,6
+D7,2026-01-19,Store_29,22.978477,72.870388,14:15:00,21.81,low,clear,10.61,20.47,1.24,Vadodara,Monday,4
+D8,2026-02-10,Store_45,23.099419,72.660706,20:30:00,18.26,medium,clear,5.04,13.61,0.4,Surat Hub,Tuesday,7
+D6,2026-03-16,Store_31,22.753241,72.504423,17:15:00,28.74,low,cloudy,11.95,24.08,0.92,North Ahmedabad,Monday,12
+D3,2026-02-04,Store_58,23.034041,72.465501,16:45:00,27.13,low,clear,6.71,13.59,0.66,Gandhinagar,Wednesday,6
+D11,2026-05-04,Store_50,23.086464,72.390304,09:00:00,23.38,high,rain,9.57,40.53,0.74,Surat Hub,Monday,19
+D6,2026-01-25,Store_33,23.136296,72.730069,08:45:00,20.37,low,cloudy,15.13,30.49,1.66,Gandhinagar,Sunday,4
+D3,2026-01-26,Store_33,23.136296,72.730069,10:30:00,36.16,low,cloudy,10.43,23.22,1.21,Gandhinagar,Monday,5
+D1,2026-04-29,Store_3,22.710334,72.310964,09:15:00,15.48,high,clear,14.49,47.21,1.22,Gandhinagar,Wednesday,18
+D1,2026-01-17,Store_12,23.218107,72.540494,16:30:00,39.54,low,cloudy,7.59,15.29,0.62,South Ahmedabad,Saturday,3
+D1,2026-04-12,Store_30,22.883967,72.765056,20:45:00,16.92,low,rain,9.66,23.01,0.83,Surat Hub,Sunday,15
+D7,2026-01-04,Store_19,23.004268,72.403369,10:30:00,27.32,low,rain,7.03,17.63,0.67,Vadodara,Sunday,1
+D8,2026-04-28,Store_54,22.870496,72.503593,16:15:00,33.56,medium,rain,5.22,18.31,0.61,Vadodara,Tuesday,18
+D6,2026-01-14,Store_54,22.870496,72.503593,08:30:00,25.6,low,cloudy,5.43,10.95,0.51,Vadodara,Wednesday,3
+D9,2026-04-14,Store_10,23.163052,72.561415,10:45:00,13.27,medium,clear,7.56,21.39,0.79,Surat Hub,Tuesday,16
+D1,2026-03-04,Store_14,23.107669,72.644489,18:30:00,24.13,medium,clear,7.13,17.43,0.59,Vadodara,Wednesday,10
+D6,2026-04-29,Store_58,23.034041,72.465501,09:15:00,25.43,medium,clear,10.93,26.71,0.91,Gandhinagar,Wednesday,18
+D5,2026-02-26,Store_50,23.086464,72.390304,18:45:00,23.35,low,cloudy,9.19,17.54,0.87,Surat Hub,Thursday,9
+D8,2026-04-13,Store_53,22.873121,72.530312,09:30:00,20.51,low,clear,7.8,15.8,0.87,Gandhinagar,Monday,16
+D8,2026-04-29,Store_49,22.810868,72.371951,08:00:00,18.53,high,clear,7.67,27.6,0.62,Vadodara,Wednesday,18
+D2,2026-01-11,Store_16,23.365164,72.490117,16:30:00,24.5,medium,cloudy,6.93,19.59,0.7,North Ahmedabad,Sunday,2
+D9,2026-01-31,Store_45,23.099419,72.660706,12:15:00,25.15,medium,clear,5.06,14.31,0.58,Surat Hub,Saturday,5
