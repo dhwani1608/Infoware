@@ -9,7 +9,7 @@ RUN pip install --no-cache-dir -r requirements.txt
 
 COPY . .
 
-RUN python scripts/generate_data.py && python scripts/train_model.py && python scripts/seed_database.py
+RUN python scripts/generate_data.py && python scripts/train_model.py
 
 EXPOSE 8000
-CMD ["uvicorn", "api.main:app", "--host", "0.0.0.0", "--port", "8000"]
+CMD ["sh", "-c", "python scripts/seed_database.py && uvicorn api.main:app --host 0.0.0.0 --port ${PORT:-8000}"]
